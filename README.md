@@ -1,4 +1,4 @@
-# Fashion Footprint | INFO 492
+# Fashion Footprint | INFO 492 SP24
 
 Intensive Capstone: Data Science & Analytics
 
