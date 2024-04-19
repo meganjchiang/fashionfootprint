@@ -1,7 +1,1141 @@
 ,Brand,Rating,Factors
-0,Nike,3,"Environmental Progress, Chemical Impact Mitigation, Biodiversity Concerns, Greenhouse Gas Emission Targets, Workers’ Rights and Transparency, Transparency Measures, Wage Improvement Program Challenges, COVID-19 Worker Protection Policies, Animal Welfare Evaluation, Animal-Derived Materials Usage, Traceability Challenges"
-1,Adidas,3,"Adidas’ Global Recognition for Sustainability Initiatives in 2022, Greenhouse Gas Emissions: A Target to Achieve, Microplastics Research: Tackling Emerging Environmental Issues, Conserving Biodiversity: A Missing Piece, Adidas’ Commitment to Fair and Safe Labor Practices, Transparency: An Important Disclosure, COVID-19 Response: Prioritizing Stakeholder Health, Animal Welfare: Room for Enhancement, but There’s More to Do"
-2,The North Face,4,"Greenhouse Gas Emissions Reduction on the Horizon, Saying Goodbye to Single-Use Plastic, Bluesign-Certified Sustainability, Tackling Packaging Responsibility, Promoting Fair Labor Practices, Championing Animal Welfare"
-3,Victoria's Secret,Not Rated by Sustainable Review,None
-4,ZuZu & Co,4,"Using Eco-Friendly Materials and Reducing Waste, Local Manufacturing for a Smaller Carbon Footprint"
-5,Becci Boo's Custom Shoes,4,
+0,Modibodi,3,
+1,Natalie Perry,4,
+2,(di)vision,4,
+3,Adidas,3,"Adidas’ Global Recognition for Sustainability Initiatives in 2022, Greenhouse Gas Emissions: A Target to Achieve, Microplastics Research: Tackling Emerging Environmental Issues, Conserving Biodiversity: A Missing Piece, Adidas’ Commitment to Fair and Safe Labor Practices, Transparency: An Important Disclosure, COVID-19 Response: Prioritizing Stakeholder Health, Animal Welfare: Room for Enhancement, but There’s More to Do"
+4,Adarche Clothing,4,"Protecting the Planet with Adarche Clothing, Empowering Workers with Adarche Clothing, Caring for Animals with Adarche Clothing, The Overall Sustainability of Adarche Clothing"
+5,A-dam,4,
+6,Aestethic London,5,
+7,Adelaide C. Ecoage,4,
+8,337 BRAND,4,
+9,A_C,4,
+10,A. ROEGE HOVE,4,
+11,Adidas by Stella McCartney,4,
+12,Absolutely Bear,4,
+13,ACBC,3,
+14,A.BCH,5,
+15,AEANCE,4,
+16,Afends,4,
+17,A Happy Brand,4,
+18,Les Sublimes,4,"Eco-Friendly Materials, Labor Practices, Animal Welfare, The Overall Impact, Areas for Improvement"
+19,Adele Dejak,3,
+20,AERA,4,
+21,4Kinship,4,
+22,AARVEN,4,
+23,AGMES,4,
+24,[eyd],4,"Eco-friendly Materials, Embracing Clean Energy, Circular Approach, Advocating for Workers’ Rights, Animal-Friendly Practices"
+25,7PLIS,4,"Labor Practices, Animal Welfare"
+26,ABLE,4,
+27,AFROBLONDE,4,"Planet Rating: Good, People Rating: Not Good Enough, Animals Rating: Great"
+28,1 People,4,
+29,A A K S,4,
+30,About Companions,4,
+31,A Natural Connection,4,"An Environmentally Conscious Approach, Promoting Ethical Labor Practices, A Cruelty-Free Approach"
+32,ALEEM YUSUF,4,
+33,Alchemist,4,
+34,Amour Vert,4,
+35,Alighieri,4,"Environmentally-Friendly Materials, Local Manufacturing and Carbon Footprint, Reduced Chemical Usage and Water Conservation, Final Production in the UK, Supply Chain Transparency and Regular Supplier Visits, Paying a Living Wage"
+36,Alkemie,4,
+37,Ambiletics,4,
+38,Altar,4,
+39,Allmade,4,
+40,Aiayu,4,
+41,Amadeus,4,
+42,Amber Days,4,"Environment Rating, Labor Rating, Animal Rating, Overall Rating"
+43,allthingsfi,4,
+44,ALMOST THERE,4,
+45,Amber Goes Green,4,
+46,amt.,4,
+47,Alder,3,"Planet Rating, People Rating, Animals Rating, Overall Rating"
+48,All Blues,4,
+49,Ana Luisa,4,
+50,Akola,4,
+51,Ales Grey,3,
+52,Altra,3,
+53,ALTER X Company,4,"Environmental Policies and Practices, Worker’s Rights and Social Responsibility, Animal Welfare Policies"
+54,amaud,5,"People Rating: Great, Animals Rating: Good"
+55,Alchemy Goods,4,
+56,Amble Outdoors,4,
+57,AMENDI,4,"Environment Rating: Good, Labor Rating: It’s a Start, Animal Rating: Good, Overall Rating: Good"
+58,AKOIASWIM,3,
+59,Aks,4,
+60,All The Wild Roses,4,"Labor Practices, Supply Chain Transparency, Animal Welfare, Overall Sustainability"
+61,Akala,4,"Environmental Responsibility, Labor Practices, Animal Welfare, Overall Rating"
+62,Another Tomorrow,4,"Environmental Practices, Labor Practices, Animal Welfare, Overall Rating"
+63,ANTTI,4,
+64,ARMEDANGELS,5,
+65,Araks,4,"A Responsible Supply Chain, Avoiding Animal Materials"
+66,Artichoke,4,"Eco-Friendly Materials and Upcycling, Local Manufacturing for Climate Impact, Focusing on Labor Standards, Animal-Friendly Fashion"
+67,Artknit Studios,4,
+68,Arnsdorf,4,
+69,Anthea Crawford,4,
+70,Anne Hermine,5,
+71,Ansea,4,
+72,Après Studio,4,
+73,Art’Abaska,3,
+74,ANINI,4,
+75,Antiform,4,
+76,Andorine,3,
+77,arch4,3,
+78,Apple Oak Fibre Works,5,
+79,Andersen-Andersen,4,
+80,Anabela Chan,4,
+81,Anywhere,3,
+82,Anekdot,4,"Environmental Practices and Climate Impact, Labor Practices and Workers’ Rights, Animal Welfare Considerations"
+83,Antonello Tedde,4,
+84,Arrels Barcelona,4,
+85,Anchal,4,"Sustainability at Anchal, A Holistic Approach to Sustainability"
+86,Arc’teryx,3,"Environmental Impact, Workers’ Rights, Animal Welfare"
+87,Angels Ambition,4,"Environment Rating, Labor Rating, Animal Rating, Overall Rating"
+88,ARIELLE,4,
+89,Annie Hamilton,4,
+90,ARTICLE22,4,"Planet Rating: Good, People Rating: Great, Animals Rating: Not Good Enough, Overall Rating: Good"
+91,AndAll,4,
+92,BASTET NOIR,4,
+93,Baiia,4,
+94,BALL,3,"Reducing Environmental Impact, Labour Standards, Animal Welfare"
+95,Avani,4,
+96,ASK SCANDINAVIA,4,
+97,AuTerra,5,
+98,AVNIER,3,
+99,Ay,4,
+100,Automic Gold,4,"Championing Inclusivity and Diversity, Reclaimed and Recyclable, Independently Funded for Honesty, Automic Gold’s Pioneering Sustainability Initiatives, Reducing Environmental Impact: Eco-Friendly Materials , Ethical Labor Practices: The Path Towards Fair Labor, Nurturing Animal Welfare Animal-Friendly Materials, An Overall ‘Good’ Rating Sustainability: Achievements and Room for Growth "
+101,Atelier Lavoisier,4,"People Rating: A Work in Progress, Animal Rating: No Impact on Animals, Overall Rating: Good"
+102,Ayten Gasson,4,
+103,Bam Loves Boo,4,
+104,ASKET,4,
+105,Bandsome,4,"Environment Rating – A Good Start, Labour Rating – Moving Towards Fair Labor Practices, Animal Rating – Cruelty-Free Fashion"
+106,Aware…the social design project,4,
+107,Auria Paris,5,
+108,BAM Bamboo Clothing,4,
+109,Band of Rascals,5,"Environmental Responsibility, Fair Labor Practices, Animal Welfare, Overall Rating: Great"
+110,BAGGU,4,"Sustainable Materials and Packaging, Environment Rating: It’s a Start , Workers’ Rights: It’s a Start, Animal Rating: Great"
+111,Balenciaga,3,"Environmental Policies, Workers’ Rights, Animal Welfare, Overall Rating"
+112,Avila,4,
+113,B Sides,3,
+114,B_Boheme,4,
+115,B.L.A.H.,3,
+116,Athleta,3,"Water Security and Management, Labor Standards and Transparency, Animal Welfare"
+117,Aventura,3,
+118,Baserange,4,"Environmental Policies, Workers’ Rights, Animal Welfare, Overall Sustainability Rating"
+119,autark,4,
+120,Aster & Oak,5,
+121,Bario Neal,4,
+122,Bibico,4,"Eco-Friendly Materials, Minimizing Textile Waste, Sustainable Manufacturing, Promoting Fair Wages, Supply Chain Transparency, Sheep Wool Sourcing"
+123,Bellerose,3,
+124,Biehler,4,
+125,Blue Of A Kind,4,
+126,BeezyMama,3,"Materials, Manufacturing, Water Reduction Initiatives, Hazardous Chemicals"
+127,Birdsong,4,
+128,Bleue Burnham,4,"Eco-friendly Packaging, Handmade Production"
+129,Better World Fashion,4,
+130,Batch 1 UK,3,
+131,Blanche,3,
+132,bleed,4,
+133,BAYTHE,4,
+134,Batoko,4,
+135,Bethany Williams,4,
+136,Bilboa,3,
+137,BITE,4,
+138,Blonde Gone Rogue,4,"Eco-Friendly Materials, Labour Standards, Animal Welfare, Overall Assessment"
+139,Bhumi,4,
+140,Billi London,4,
+141,Biankina,4,
+142,Becci Boo’s Custom Shoes,4,
+143,Beyond Skin,4,
+144,BEEN London,4,
+145,BEDI,4,
+146,BeeKeeper Parade,4,
+147,Beulah,4,
+148,Bianca Spender,4,
+149,behno,4,
+150,Baukjen,4,"Eco-Friendly Materials and Packaging, Renewable Energy in the Supply Chain, Rental Scheme to Minimize Textile Waste, Code of Conduct and Supplier Relationships, Living Wage and Worker Welfare, Leather and Responsible Wool Usage, Fostering Animal Welfare"
+151,Beaumont Organic,4,
+152,bogdar,4,
+153,Boma,3,
+154,BOTTLETOP,4,
+155,Brothers We Stand,4,
+156,Boob,4,"Discover Boob: Elevating Sustainable Fashion, Labor Standards: A Commitment to Progress, Animal Welfare: A ‘Good’ Rating, Overall Rating: ‘Good’ with Room to Grow"
+157,Bunti,4,
+158,BUFF,4,
+159,Brava Fabrics,4,
+160,Burgeon Outdoor,3,
+161,Boyish,4,
+162,Bower,4,
+163,BOA Basics,4,"Environmental Initiatives, Labour Practices, Animal-Friendly Approach"
+164,Bow&Bo,4,
+165,blufruit,5,
+166,BoBo GloBal,4,
+167,BRING,4,"People Rating, Animals Rating"
+168,Bolso,4,
+169,Boll & Branch,5,
+170,Boody,4,
+171,Bozena Jankowska,4,"The Environment: A Good Rating, Labor Practices: It’s a Start, Animal Welfare: A Good Rating, Overall Rating: Good"
+172,Bonito,4,
+173,Bluebuck,4,
+174,Bon Label,5,"Environment Rating: Great, Labor Rating: Great, Animal Rating: Good"
+175,Bougainvillea London,5,
+176,Blue Wren Collective,5,
+177,Boucheron,3,
+178,Bobo Choses,3,
+179,Blutsgeschwister,4,
+180,Botto Giuseppe,4,"Good Environmental Practices, Working Towards Ethical Labor Practices, Animal Welfare and Cruelty-Free Practices, Achieving Overall Sustainability"
+181,BONDI BORN,4,
+182,Casa Raki,4,
+183,CasaGIN,4,
+184,Chillax,4,
+185,CAFIN,4,
+186,By Walid,4,
+187,BUSHY,4,
+188,Camp Cove Swim,4,
+189,Charlee Swim,5,
+190,Carlie Ballard,5,"Reducing Waste and Ensuring Worker Rights, Animal-Friendly Approach, Overall Sustainability Rating"
+191,Charlie Mae Swimwear,4,
+192,Chick Lane,3,
+193,CARE BY ME,4,
+194,Catarina Mina,3,"Environmental Impact: A Mixed Bag, Working Towards Fairtrade and Social Equality, Animal Welfare: A Positive Stance"
+195,Burnt Soul,4,
+196,Burton,3,
+197,Cagey’s Planet,4,
+198,CAES,4,
+199,BYBBA,4,
+200,CARPASUS,4,
+201,Carmina Campus,4,
+202,Capodimonti Cashmere,4,
+203,Charli Cohen,4,
+204,CASUPO,3,
+205,Caftanii,3,
+206,Chelsea Bravo,4,
+207,CARIUMA,4,
+208,Calle Del Mar,4,
+209,Casco Totes,4,
+210,Chic Made Consciously,4,"Protecting the Planet through Eco-Friendly Materials, Prioritizing Workers’ Rights and Ethical Practices, A Cruelty-Free Approach to Fashion, An Overall Good Rating for Chic Made Consciously"
+211,CARCEL,3,
+212,COG,4,"Environmental Impact, Workers’ Rights and Ethics, Animal Welfare"
+213,Classic Cotton Co,4,"Environmentally Conscious Materials, A Responsible Approach to Packaging"
+214,Coalatree,3,
+215,Club Chainstitch,3,
+216,Contessa Volpi,4,
+217,Coolawoola,4,"Eco-Friendly Materials, Local Manufacturing for Reduced Climate Impact, Low-Waste Cutting Techniques, In-House Manufacturing by a Small Team, Supply Chain Traceability, Living Wage Considerations, No Leather, Fur, or Exotic Animal Skins, Recycled Wool and Exotic Animal Hair"
+218,Ciganka – Artforms from Nature,5,
+219,COSSAC,4,"Environment-Friendly Materials, Reducing Textile Waste, Renewable Energy and Climate Impact, Production in the European Union, Supply Chain Traceability, Livelihood of Workers"
+220,ColieCo,4,"Environmental Policies, Labour Practices, Animal Welfare, Overall Rating"
+221,Coq en Pâte,4,"Eco-friendly Materials for a Sustainable Future, Ensuring Fair and Ethical Labor Practices, Animal Welfare and Cruelty-Free Products"
+222,CHNGE,4,Fair Work Labor
+223,CHPO,3,
+224,Cingomma,4,"The Good, Room for Improvement, Animal Welfare, Overall Rating"
+225,Coco & Kandy,4,"Planet Rating: The Good Practices of Coco &amp; Kandy, People Rating: The Ethical Stance of Coco &amp; Kandy, Animals Rating: The Compassion of Coco &amp; Kandy"
+226,Christy Dawn,5,
+227,Come Back As A Flower,4,
+228,Corkor,4,
+229,Circos,4,
+230,Citizen Wolf,5,
+231,Clubhouse Vintage,4,"Lower-Impact Materials, Local Manufacturing, Packaging and Plastic Waste, Supply Chain Transparency, Code of Conduct and Living Wages, Recycled Materials, Avoidance of Controversial Materials"
+232,Continew,4,
+233,Cleobella,4,
+234,CLOUDY,4,
+235,Circle Sportswear,3,
+236,Chopova Lowena,4,
+237,Conscious Step,4,
+238,Colorado Threads,3,"Eco-Friendly Materials, Labour Practices, Living Wage and Supply Chain Transparency"
+239,Colorful Standard,4,
+240,Conscious the label,4,
+241,Converse,3,"Converse’s Sustainability Focus, Reducing Environmental Footprint, Greenhouse Gas Emissions, Eliminating Hazardous Chemicals, Prioritizing Workers’ Rights, Moderate Transparency, Living Wages and Diversity, Commitment to Worker Safety, Animal Welfare, Transparency Gaps"
+242,Dai,4,
+243,Deadwood,4,"Environment, Labor, Animal Welfare, Overall Rating"
+244,Dear Darling Berlin,4,
+245,Dedicated,5,
+246,D&DEPARTMENT,4,
+247,Day Won,4,
+248,Coyuchi,4,
+249,Diemonde,3,
+250,Dilli Grey,4,
+251,Desmond & Dempsey,4,
+252,Dickies,3,
+253,DAYWEARLAB,4,
+254,Dapper Alice,4,
+255,Desert Dyes,4,
+256,Deux Mains,4,
+257,Delayne Dixon,4,
+258,Crystalyn Kae,4,
+259,Dharma Bums,5,
+260,Cotopaxi,4,
+261,Cousin Billie,4,
+262,DAWN Denim,5,
+263,Dear Denier,4,
+264,Destination Dress,4,
+265,Delikate Rayne,4,
+266,Designers Remix,4,
+267,Culthread,5,
+268,Cuisse de Grenouille,3,
+269,DillySocks,4,
+270,Dazey LA,3,"Workers’ Rights and Fair Practices, Animal Welfare Considerations, Overall Rating"
+271,Cus,4,
+272,econscious,4,
+273,EcoRight,4,
+274,Divine,4,
+275,ecuvo,4,
+276,E.L.V. Denim,5,
+277,éclipse,5,
+278,Donatella Fabio Beachwear,3,"A Commitment to Ethical Labor Practices, Overall Rating: An Encouraging Start"
+279,Eguzkilore,4,"Factors Influencing its Environmental Rating, Focus on Workers’ Rights, Animal Welfare Considerations, Overall Sustainability Rating"
+280,Eileen Fisher,4,
+281,Dominique Healy,4,
+282,DuchXFashion,5,
+283,Ecoology,4,"Environmental Policies, Workers’ Rights, Animal Welfare"
+284,Dimples,4,
+285,Dresden,3,
+286,Eco Intimates,4,"Medium Proportion of Eco-Friendly Materials, Textile Waste Minimization through Limited Production, Attention to Labor Practices, Call for a Living Wage in the Supply Chain, Supply Chain Transparency, Cruelty-Free Fashion with a Silk Exception"
+287,Dirty Velvet,4,
+288,Dots On Tots,4,"Planet-Friendly Practices, Workers’ Rights and Fair Labor Practices, Animal Welfare, Overall Sustainability Rating"
+289,Ekta Helsinki,4,"Environmental Rating: Good, Labor Rating: It’s a Start, Animal Rating: Good"
+290,DÔEN,3,
+291,Dora Larsen,4,
+292,Edeline Lee,4,
+293,Edwin USA,4,
+294,Ecologie by AWDis,4,
+295,Earth Divas,4,
+296,Dressarte Paris,4,
+297,Drivemebikini,3,
+298,Dreamers & Drifters,3,
+299,Dorsu,5,
+300,Ecoalf,4,"The Overall Rating, The Importance of Sustainability in Fashion, Ecoalf’s Contribution to Sustainability, The Benefits of Choosing Sustainable Fashion"
+301,dk active,5,"Use of Lower-Impact Materials, Limiting Chemicals, Water, and Wastewater, Clothing Recycling, Local Manufacturing, Avoidance of Plastic Packaging, Production Stage in Low-Risk Country, Supply Chain Transparency, Living Wages, Entire Product Range is Vegan, Traceability of Animal-Derived Products"
+302,Encircled,4,
+303,ettitude,4,
+304,Elk,4,
+305,erlich textil,3,"Environmental Efforts, Labour Practices, Animal Welfare, Overall Assessment"
+306,Elle Evans,4,
+307,Everpress,4,
+308,Elkline,4,
+309,Ethletic,4,
+310,Etiko,5,
+311,ETQ,3,"Environment Rating: Not Good Enough, Labour Rating: Not Good Enough, Animal Rating: It’s a Start, Overall Rating: It’s a Start"
+312,ÉTICA,5,"Environmental Commitment, Labor Practices, Animal Welfare, Overall Commitment and Rating"
+313,Enfant Terrible,4,
+314,Elvis & Kresse,4,
+315,Elegantees,4,
+316,Fabrik,4,
+317,Enter the E,4,
+318,Ella & Witt,4,
+319,Elsien Gringhuis,4,
+320,EllA Fashion,4,"Materials Matter, Safeguarding the Environment, Prioritizing Workers’ Rights, A Promising Future"
+321,Engel,4,
+322,Erin Draper,4,
+323,Endless Joy,4,"Environment-Friendly Materials, Labour Standards and Workers’ Rights, Animal-Friendly Practices"
+324,Elliss,4,
+325,Elizabeth Suzann Studio,4,
+326,émoi émoi,3,"Prioritizing Workers’ Rights, Caring for Animals"
+327,Escama Studio,4,
+328,eleven44,3,
+329,Erba,4,"Environment Rating: Great, Labour Rating: It’s a Start, Animal Rating: Good"
+330,ENDANGERED,4,
+331,El Naturalista,3,
+332,Flamingos’ Life,4,
+333,Flowfold,3,"Environmental Impact, Workers’ Rights and Social Responsibility, Animal Welfare, Overall Evaluation"
+334,FRANC,4,"Eco-Friendly Materials, Local Production, Worker’s Rights, Animal-Friendly Practices, The Overall Impact"
+335,Flare Street,5,
+336,FTC Cashmere,4,"Environment Rating: It’s a Start, Labor Rating: It’s a Start, Animal Rating: Good"
+337,Fjällräven,3,
+338,Florence Given,4,
+339,Flax and Loom,4,
+340,FREITAG,4,
+341,Forét,4,
+342,fairechild,4,
+343,Frankie Collective,4,
+344,Floris van Bommel,3,"Planet Rating: Not Good Enough, People Rating: It’s a Start, Animals Rating: Not Good Enough"
+345,For Love and Lemons,3,
+346,FM 669,4,
+347,FREED,4,
+348,Faithfull the Brand,3,
+349,Fayettechill,4,
+350,FUTURA Jewelry,5,"Environmentally Friendly Materials, Responsible Wastewater Treatment, Handmade Production for Climate Impact Reduction, Plastic-Free Packaging, Made-to-Order Production, Final Stage Production in the USA, Living Wage in Most of the Supply Chain, Traceability in the Supply Chain"
+351,FIL MELANGE,4,"Environmental Impact, Social Responsibility, Animal Welfare, Overall Rating"
+352,Free Label,4,"Environmental Impact: It’s a Start, Workers’ Rights: It’s a Start, Animal Welfare: Great, Overall Rating: Good"
+353,Fair Indigo,5,"People, Animals, Overall"
+354,Fair Harbor,3,
+355,Frugi,4,
+356,Fresh Cuts Clothing,4,
+357,Fanfare,4,
+358,Farm to Hanger,4,
+359,Finisterre,4,
+360,Finn + Emma,3,
+361,FTLA Apparel,4,
+362,General Sleep,4,"Environmental Responsibility, Ethical Labor Practices, Animal Welfare, Overall Sustainability Rating"
+363,Good for Sunday,4,"Environmental Initiatives: A Step in the Right Direction, Labour Practices: Prioritizing Worker’s Rights, Animal Welfare: Cruelty-Free Fashion, Overall Rating: Making a Difference"
+364,Graceful District,4,
+365,Garçon Français,4,
+366,GOODEE,4,
+367,Galamaar,3,"Planet Rating: It’s a Start, People Rating: Not Good Enough, Animals Rating: Not Rated, Overall Rating: It’s a Start"
+368,GARY MASH,4,
+369,Goddess Gear,4,"The Designer’s Mission, From Colorado with Love, Organic Cotton Embrace , Mindful Production: Waste Reduction as a Way of Life, Eco-Friendly Miles: Shortening the Journey to Sustainability , Championing Workers’ Rights: A Path to Progress, Kindness to Creatures: Nurturing Animal Welfare"
+370,Good Citizens Eyewear,4,
+371,Girlfriend Collective,4,"Eco-Friendly Materials, Textile Waste Reduction, Wastewater Management, Energy Use and Greenhouse Gas Emissions, Labor Practices, Code of Conduct, Living Wage Assurance, Transparent Supply Chain, Cruelty-Free and Vegan Options, Overall Sustainability Rating"
+372,GAI+LISVA,4,
+373,Gaia Segattini Knotwear,4,"Environment Rating: Good, Labour Rating: Good, Animal Rating: Good"
+374,GRAMMAR,4,"Eco-Friendly Materials, Local Manufacturing for a Reduced Carbon Footprint, Responsible Labor Practices, Promoting Animal Welfare"
+375,Greenfibres,4,
+376,Gina Marie Handbags,4,
+377,Gergana Ivanova,3,
+378,Good Guys,4,
+379,GOT BAG,3,
+380,goodsociety,4,
+381,goodtrip,3,
+382,Goat Organic Apparel,4,
+383,Glass Onion,5,
+384,Go Gently Nation,4,
+385,GR10K,2,
+386,Gray Label,4,
+387,go as u.r,4,
+388,Gaia Conceptions,4,
+389,Greenpacha,3,
+390,Gazur,4,
+391,Granelito,4,
+392,Greg Lauren,4,"Environmentally Conscious, Good Labor Practices, Cruelty-Free Fashion, A Brand Rated ‘Good’"
+393,Herdentier,4,
+394,GROUNDTRUTH,4,"Environment Rating: A ‘Great’ Stride Towards Sustainability, Labour Rating: Striving for Improvement, Animal Rating: A Compassionate Approach, The Overall Picture: GROUNDTRUTH’s Commitment to Sustainable Fashion"
+395,GuterStoff,4,
+396,HARA the label,4,"Textile Waste Reduction, Local Manufacturing, Wastewater Reduction, Supply Chain Transparency"
+397,Holly Ryan,4,"Environment Rating, Labor Rating, Animal Materials"
+398,Gunda Hafner,4,
+399,HOCOSA,3,
+400,hernest project,4,
+401,Hindbag,4,
+402,Groceries Apparel,4,
+403,HERTH,4,
+404,Gung Ho Design,4,
+405,Hackwith Design House,4,
+406,Happy Earth Apparel,4,"Eco Warrior Rating: Good, Fair Labor Champion Rating: Good, Animal-Friendly Legend Rating: Great, Overall Go Green Score: Good"
+407,HarperSage,4,
+408,HNST,4,
+409,Gugguu,4,"Environmental Practices, Labor Practices, Animal Welfare"
+410,Grounded People,4,
+411,Grüne Erde,4,
+412,haikure,3,
+413,harly jae,4,"Environmental Commitment, Labor Practices and Ethics, Animal Welfare, The Overall Rating"
+414,Harvest & Mill,5,
+415,Hemen Biarritz,4,
+416,Hailey Gerrits,4,"Eco-Friendly Materials, Local Manufacturing, Ethical Labor Practices, Animal Impact"
+417,Heiko,4,
+418,Gyre,4,
+419,Harriet Morris,4,
+420,Haglöfs,3,
+421,GUNAS,4,
+422,Indiebride,4,
+423,Hopaal,5,"<em>Key Sustainability Initiatives</em>, <em>Key Points:</em>"
+424,Isla In Bloom,4,
+425,INGMARSON,4,
+426,Iron Roots,5,
+427,Jack Wolfskin,3,
+428,Honest Basics,4,"Sustainable Materials, Labor Standards, Vegan Friendly"
+429,Hopeless Lingerie,4,
+430,iQ UV,4,
+431,INTOA design,5,"Materials and Waste Reduction, Made-to-Order Production, Responsible Production, Labor Practices and Ethical Production, Transparent Supply Chain, Animal Welfare"
+432,Icebug,4,
+433,HYER GOODS,4,
+434,Hoppidi Handmade,4,
+435,Infantium Victoria,4,
+436,J. Hannah,4,
+437,In2Green,4,
+438,Houdini,4,
+439,Indigenous,4,
+440,Horizon Athletic,3,
+441,ID.EIGHT,4,
+442,Jackalo,5,"Environment Rating: Great, Labor Rating: Great, Animal Rating: Good"
+443,Indego Africa,4,
+444,In The Soulshine,4,
+445,I was a Sari,4,
+446,Icebreaker,3,"Environmental Impact – “It’s a Start”, Worker’s Rights – “It’s a Start”, Animal Welfare – “Good”"
+447,ISTO.,4,
+448,ilovemixtapes,4,
+449,Ilk + Ernie,4,
+450,HoMie,3,
+451,I’mdividual,4,"Environment Rating: Great, Labor Rating: Good, Animal Rating: It’s a Start, Overall Rating: Good"
+452,KasuReKids,4,
+453,Katharine Hamnett,4,
+454,Junk Studios,4,
+455,JENNIFER BEHR,3,"Environment Rating: Not Good Enough, Labor Rating: It’s a Start, Animal Rating: Not Good Enough"
+456,JOYN,4,
+457,Jillian Boustred,3,
+458,Jaffic,3,
+459,Jackfruit the label,5,
+460,Joyya,5,
+461,Jamie + The Jones,4,"Environmental Efforts, Labor Practices, Animal Welfare"
+462,JAN ‘N JUNE,4,
+463,KAPOK KNOT,4,
+464,Jenny Yoo,3,
+465,Kampos,4,
+466,Jungle Folk,4,
+467,Joslin,4,
+468,Johnstons of Elgin,4,
+469,Juwelier Willer,3,"Planet Rating, People Rating, Animals Rating"
+470,Just Bee Queen,3,"Environment Rating: Not Good Enough, Labor Rating: Not Good Enough, Animal Rating: Good, Overall Rating: It’s a Start"
+471,Kapten & Son,4,"Materials and Energy Usage, Waste Management and Product Longevity, Labour Practices and Worker Rights, Code of Conduct and Ethical Practices, Vegan Certification and Transparency"
+472,Jamido,4,
+473,JammaCaps,3,
+474,Kalaurie,5,
+475,KATTAN,4,
+476,Joanie,4,"“People” Rating, “Animals” Rating"
+477,Jyoti – Fair Works,4,
+478,JEM,4,"Environmental Impact, Workers’ Rights, Animal Welfare, Overall Rating"
+479,KAY KONECNA STUDIO,4,
+480,Katla,4,"Conscious Minimization of Textile Waste: Striving for Efficiency, Good Labor Practices: Prioritizing Fair Treatment and Safety, Animal Welfare: Cruelty-Free Commitment"
+481,Josette la Chouette,5,
+482,Kozii Swimwear,3,
+483,kekai Swimwear,4,
+484,KOKOworld,4,
+485,KnowledgeCotton Apparel,4,"Eco-Friendly Materials, Carbon Offset Program, Fair Labor Practices, Animal Welfare, A ‘Good’ Rating"
+486,Kimoa,3,
+487,Kowtow,4,
+488,Knock Knock,4,
+489,Kings of Indigo,5,"Elevating Style, Empowering Responsibility, Commendable Recycling Initiatives, Durable Designs for Sustainable Living, Eco-Friendly Manufacturing Practices, Exemplary Workers’ Rights Practices, Ethical and Cruelty-Free Practices"
+490,Known Supply,4,"Sustainable Sourcing and Longevity, Promoting Workers’ Rights, Animal Welfare Initiatives"
+491,Klättermusen,3,
+492,Krochet Kids,4,
+493,Knickey,5,
+494,Koio,3,
+495,Kotn,4,
+496,Know The Origin,4,
+497,Kilomet109,4,
+498,KENT,4,
+499,Konges Sløjd,3,
+500,KORALI,3,
+501,Kiku Boutique,4,
+502,Kitikate,4,"Environmental Impact, Workers’ Rights, Animal Welfare"
+503,Kuyichi,4,
+504,KIDS WORLDWIDE,4,"Ensuring Ethical Practices, A Commitment to Animal Welfare"
+505,Kimai,4,
+506,Kuwaii,4,"Environment Rating, Labor Rating, Animal Rating, Overall Rating"
+507,KIDSOFBROKENFUTURE,4,
+508,Kordal Studio,4,Kordal Studio’s Sustainable Innovation: The Zero-Waste Patchwork Quilted Jacket
+509,KIZASI,4,"KIZASI’s Environmental Impact, KIZASI’s Labor Practices, KIZASI’s Ethical Practices"
+510,KOHR,5,
+511,Komodo,4,
+512,Lazy Oaf,3,
+513,Labienhecha,4,
+514,lana,4,
+515,lemlem,4,
+516,Lauren Holloway,4,
+517,Lapuan Kankurit,4,"Eco-friendly Materials and Climate Impact, Waste Reduction and Hazardous Chemicals, Labor Practices and Supply Chain Transparency, Animal Welfare"
+518,LANIUS,4,
+519,la fille d’O,4,
+520,Leanne Marshall,3,
+521,L’Envers,4,
+522,Laura Lombardi,4,
+523,LDP,5,
+524,Leni Swims,4,"ABOUT ETHICAL PRODUCTION, ABOUT  PACKAGING, ABOUT FABRICS, ABOUT  DESIGN, ABOUT  MARKETING, Eco-Conscious Material Choices, Packaging with Purpose, Room for Energy and Emissions Improvement, Labor Practices Progress, Addressing Labor Risks, Seeking Fair Wages, Animal Impact, In Summary"
+525,Laura Elizabeth Jewelry,4,
+526,Kzeniya,4,
+527,La Methode,4,"Planet Rating: Good, People Rating: It’s a Start, Animals Rating: Good"
+528,Lando Studio,4,
+529,les boutons,4,
+530,Lefrik,4,
+531,La Bottega di Brunella,3,
+532,Leisure Lab,3,
+533,LangerChen,4,
+534,LaBante,4,"Environmental Policies, Workers’ Rights and Ethical Practices, Animal Welfare, Overall Rating"
+535,Kysal,4,"Environment Rating, Labor Rating, Animal Rating, Overall Rating"
+536,LAUDAE,4,
+537,LA Relaxed,5,
+538,LAmade Clothing,3,
+539,Le Loopas,4,
+540,Lâcher Prise,4,
+541,L’Estrange London,4,
+542,Libeco,4,
+543,Little Man Happy,4,
+544,Löffler,3,
+545,Londre Bodywear,4,
+546,Little Green Radicals,5,
+547,Living Crafts,5,
+548,Lonely Kids Club,4,
+549,London W11,4,"Local Manufacturing for Global Impact, Chemical Consciousness and Eco-Friendly Practices, Navigating Labor Practices with a Compassion Blueprint, The Compass of Animal Welfare, Assessing the Sustainability Tapestry"
+550,Lezat,4,
+551,Linenfox,4,
+552,Losano,4,
+553,Little Emperor,4,
+554,LOCI,4,"Environmental Initiatives, Labor Practices, Animal-Friendly Products, Overall Rating"
+555,Looptworks,4,
+556,Lilian von Trapp,5,
+557,LNDR,3,
+558,Lola & Stella,4,"Environmentally-friendly Materials, Reducing Textile Waste, Ethical Manufacturing Practices, Animal-friendly Approach, Overall Sustainability Rating – Good"
+559,Liv:ra,4,
+560,LOCAL EUROPEAN,2,
+561,Linen Wedding Dress,3,
+562,Lilac Limited Crochet,3,
+563,Lost in Paris,5,
+564,loud + proud,5,
+565,Lionel the Label,4,
+566,Linenbee,4,"Celebration of Diversity, Craftsmanship, Local Love, Waste Warriors, Work to Be Done on Chemicals, Fair Work Conditions, Animal-Friendly"
+567,LONGEVITY LONDON,4,
+568,Loop Swim,4,"1. Lower-Impact Materials and Chemical Limitation, 2. Greenhouse Gas Reduction, 3. Innovative Packaging Solutions, 4. Workers’ Rights and Supply Chain Transparency, 5. Ongoing Commitment to Labor Conditions, 6. Animal Welfare Considerations"
+569,Les Récupérables,4,
+570,Licia Florio,4,
+571,Little Nature Lover,4,
+572,LOVJOI,4,
+573,LUNA & ROSE,4,
+574,Luva Huva,4,
+575,Luxtra,4,
+576,Marks & Spencer,3,
+577,MagicLinen,3,
+578,Magpie Goose,4,"<u>The “Planet” Rating</u>, <u>The “People” Rating</u>, <u>The “Animals” Rating</u>, <u>Overall Rating</u>"
+579,Manimekala,4,
+580,Love and Confuse,2,"Environmental Initiatives: A Good Start, Hazardous Chemicals and Climate Impact: A Gap in Sustainability, Workers’ Rights: A “Very Poor” Rating , Animal Welfare: A “Good” Effort "
+581,Loyal E. Paris,4,
+582,Lucy & Yak,4,
+583,Lusana,3,"Environmental Impact, Workers’ Rights and Ethical Practices, Animal Welfare Considerations"
+584,Malaika New York,4,"Planet Rating, People Rating, Animals Rating"
+585,Maggie Marilyn,4,
+586,LUNGE,4,
+587,LOVE BRAND & Co,4,"Environmental Impact, Animal Welfare"
+588,Mariclaro,5,
+589,Mama;licious,3,
+590,Mantis World,5,
+591,Luna + Sun,4,
+592,Make An Impact,4,
+593,Mara Hoffman,4,
+594,LoveLux,4,
+595,Marcia,4,
+596,Madia & Matilda,4,
+597,MANDALA,4,
+598,Magenta Threads,4,"Environment Rating, Labour Rating, Animal Rating"
+599,Louisa Parris,4,
+600,LOUDBODIES,4,"An Environmentally Conscious Approach, Labour Conditions: Room for Improvement, Animal Welfare: A Compassionate Approach, A Bright Future for LOUDBODIES"
+601,Mario Doni,3,
+602,MATE the Label,4,
+603,Mimi Holvast,4,"Environment Rating: It’s a Start, Labour Rating: It’s a Start, Animal Rating: Good"
+604,Martha Medeiros,2,
+605,Mars Loves Her,4,
+606,MIMIKRI,4,
+607,Materiel,4,
+608,Maxomorra,4,
+609,MiiK,4,"Local Manufacturing: Reducing Carbon Footprint, Water Reduction Initiatives: Preserving a Precious Resource, Labor Practices: Valuing Workers’ Wellbeing, Transparency in the Supply Chain: A Commitment to Responsibility, Animal Welfare: A Consideration in Sustainability, Overall Sustainability Rating: Striving for Improvement"
+610,Meemoza,4,
+611,Marlies Dekkers,3,
+612,Merry People,3,
+613,Mimi Prober,4,
+614,Mashu,4,"Environmental Policies, Workers’ Rights and Ethical Practices, Animal Welfare, Overall Assessment"
+615,Milkweed Baby,3,
+616,Mayamiko,5,
+617,Mata Traders,4,
+618,Melissa Joy Manning,5,"Environmentally Friendly Practices, Ethical Labor Practices, Caring for Animals, Overall Sustainability Rating"
+619,Maya Magal,4,"Environmental Impact, Labor Practices"
+620,Miakoda,4,
+621,milo+nicki,4,
+622,Mighty Good Basics,5,"Prioritizing Fair Labor Practices, Transparent Supply Chain, Building Strong Supplier Relationships, Minimal Animal Impact"
+623,Mien,4,
+624,MATONA,4,
+625,Megan Leone Designs,4,
+626,MIAOU,4,
+627,MELAWEAR,4,
+628,Mila.Vert,5,
+629,Mightly,4,
+630,Miga Swimwear,4,
+631,Martina Spetlova,4,
+632,Muchachomalo,3,
+633,Mireia Playà,4,
+634,MINI A TURE,3,
+635,Mother of Pearl,4,
+636,mori,4,
+637,Mini Rodini,4,
+638,Molo,4,
+639,Most Prominent Co.,4,"Aiming for a Greener Future, Prioritizing Ethical Labor, Compassion for All Creatures, A Leading Force in the Industry"
+640,mmb by hand,4,
+641,Mnmur,5,
+642,Monica + Andy,3,
+643,Monkee Genes,4,
+644,Modallica,4,
+645,MUD Jeans,5,"Environmental Policies, Labor Practices, Animal Welfare, Summary"
+646,MONKIND,4,Animals Rating
+647,Mirasa Design,4,
+648,Monsoon Blooms,5,
+649,Minimalist,4,
+650,Mochi,4,
+651,Miss Rose Sister Violet,3,
+652,Mworks,4,
+653,Ministry of Supply,4,
+654,Moumout,3,
+655,MISSING,4,
+656,MinimalisticLinen,4,
+657,MIUSA,4,
+658,Monica Vinader,4,
+659,Mumutane,4,
+660,Modibodi,3,
+661,Morgan Lane,4,
+662,Natalie Perry,4,
+663,Nat-2,4,
+664,Neu Nomads,5,
+665,Natalie Rolt,4,
+666,Neem,4,
+667,NAGO,4,
+668,Nightswim,5,
+669,NAE Vegan Shoes,4,"The Role of Eco-Friendly Materials, Supporting Local Economies, The Importance of Tracing the Supply Chain, A Commitment to Compassion and Cruelty-Free Fashion"
+670,NAADAM,3,"Material Sustainability, Environmental Commitment: It’s a Start , Labor Practices: It’s a Start , Animal Welfare: It’s a Start , Overall Sustainability: It’s a Start "
+671,NIKIN,4,"Environment Rating: Good, Labor Rating: It’s a Start, Animal Rating: Great, Overall Rating: Good"
+672,NiciArt,3,
+673,Myrrhia Fine Knitwear,4,"Eco-friendly Materials, Reducing Textile Waste, Local Manufacturing, Labor Practices, Animal Welfare"
+674,MYMARINI,4,
+675,Nena & Co.,3,
+676,Natalie Marie Jewellery,4,
+677,Naja,4,
+678,nat’v basics,4,"Sustainably Made Fabric: Comfort and Conscience in Harmony, Ethically Made Fashion: A Beacon of Transparency and Accountability, Green Threads and Earth-Friendly Packaging , Champions of Labor Rights , Beyond Fabrics and Wages , A Unified Vision of Responsibility "
+679,Natascha von Hirschhausen,4,"Focus on Workers’ Rights, Animal Welfare and Product Traceability"
+680,Nina Nest,4,
+681,Näz,4,
+682,NICO,4,
+683,Natasha Tonic,4,
+684,NDX,4,
+685,Napapijri,3,"Environmental Impact, People-Focused Initiatives, Animal Welfare Standards"
+686,Nimble,3,
+687,Nike,3,"Environmental Progress, Chemical Impact Mitigation, Biodiversity Concerns, Greenhouse Gas Emission Targets, Workers’ Rights and Transparency, Transparency Measures, Wage Improvement Program Challenges, COVID-19 Worker Protection Policies, Animal Welfare Evaluation, Animal-Derived Materials Usage, Traceability Challenges"
+688,Mykke Hoffmann,4,
+689,Neococo,4,"A Social Mission, A Commitment to Ethics, Use of Eco-Friendly Materials, Local Manufacturing and Reduced Climate Impact"
+690,Natalija,4,
+691,NAGNATA,4,
+692,Noani,4,"Eco-Friendly Materials and Manufacturing, Labour Rights and Ethical Production, Animal-Friendly Fashion"
+693,Nui Organics,4,
+694,NINA YUUN,4,
+695,NoMiNoU,4,"A Starting Point for Labour Practices, Promoting Cruelty-Free Fashion"
+696,Niovi Organics,4,
+697,Nobody Denim,4,
+698,Nisa,5,
+699,Noctu,5,
+700,Nurture The Nest,3,
+701,Nu Swim,4,
+702,Nomadic State of Mind,4,
+703,Nubikk,3,"Environmental Initiatives, Labor Practices, Animal Welfare, A Promising Start, The Path Ahead"
+704,O My Bag,4,
+705,Ninety Percent,4,
+706,Nina Rein,4,"Planet Rating: “It’s a Start”, People Rating: “Good”, Animals Rating: “Good”, Overall Sustainability Rating: “Good”"
+707,Not Just Pajama,4,"The Wonders of Silk: Why It Matters to Not Just Pajama, Workers’ Rights, Animal Welfare"
+708,nobodinoz,3,
+709,nu-in,4,
+710,Nudie Jeans,5,
+711,Non,4,
+712,Norden,4,
+713,No Nasties,5,
+714,Nisolo,4,
+715,NOT OURS,3,
+716,Normal Knit,4,
+717,Noumenon,4,
+718,NOAH,4,
+719,Nothing New,4,
+720,Nomads Clothing,4,
+721,Nube,5,
+722,Organique,4,
+723,OVS,3,"Environmental Rating: Not Good Enough, Labor Rating: It’s a Start, Animal Rating: Not Good Enough, Overall Rating: It’s a Start"
+724,Ognx,4,
+725,Oddish,4,
+726,OMNES,4,
+727,Olga Joan,4,"Environment Rating: It’s a Start, Labor Rating: It’s a Start, Animal Rating: Good"
+728,One Vintage,4,"Use of Lower-Impact Materials, Minimizing Waste, Recycled Packaging, Reducing Climate Impact, In-House Production, Supply Chain Traceability, Living Wages, Recycled Exotic Animal Hair, Recycled Leather and Wool, No Use of Down, Fur, Angora, or Exotic Animal Skin"
+729,Okabashi,4,"The Environmental Impact, Fair Labor Practices, Animal Welfare Initiatives, Overall Sustainability Rating"
+730,Opera Campi,4,
+731,Osei-Duro,4,"Planet Rating: “It’s a Start”, People Rating: “Good”, Animals Rating: “Good”"
+732,O.T.A,4,
+733,Olmsted Outerwear,4,
+734,Outland Denim,5,
+735,Ōshadi,4,
+736,Otiumberg,4,
+737,Original Weekend,4,
+738,Orit Elhanati,4,
+739,Olderbrother,3,"Planet: Good, People: Not Good Enough, Animals: It’s a Start, Overall Rating: It’s a Start"
+740,Oy,4,
+741,Organic Crew,4,
+742,Origin,4,
+743,Oobi,3,
+744,Olistic the Label,4,
+745,Orbasics,5,
+746,Ohoy Swim,3,"“People” Rating: Labor Practices, “Animals” Rating: Animal Welfare"
+747,Organic Basics,5,"Eco-Friendly Materials, Renewable Energy, Labour Practices, Animal Welfare"
+748,OffOn,4,"Materials Matter, Made-to-Order Mindset, Packaging with Purpose, Local Roots, Global Impact, People Matter, Living Wages Challenge, Animal Welfare Consciousness"
+749,Offbeat Sweetie,4,
+750,Outerknown,4,"Eco-Friendly Materials, Reducing Textile Waste, Eco-Friendly Production, Social Responsibility, Animal Welfare"
+751,OhSevenDays,4,
+752,Pansy,4,
+753,Parker Clay,4,
+754,Parva Studios,4,
+755,Pala Eyewear,4,
+756,Panafrica,4,"Environmentally-Friendly Materials, Waste Minimization, Recycled Packaging, Certified Organic Cotton, Transparency and Traceability, Fair Wages and Gender Equality, Leather Usage, Avoidance of Other Animal-Derived Materials"
+757,Pantee,4," Eco-friendly Materials and Limited Production Run ,  A Commitment to Workers’ Rights ,  High Standards in Tracing the Supply Chain ,  Animal-Friendly Fashion ,  Overall Rating: Good "
+758,Patagonia,4,
+759,Philine of San Francisco,3,
+760,peony,4,
+761,PANGAIA,4,
+762,Phyne,5,
+763,Palava,4,
+764,Phoebe English,4,
+765,Park & Fifth Clothing Co,4,
+766,PETERSON STOOP,4,"Environment Rating: Good, Labour Rating: Good, Animal Rating: It’s a Start, The Bottom Line: Good+"
+767,Patrick McDowell,4,
+768,Petit Pli,4,
+769,Pecegueiro & F.os,3,"Environmental Impact: A Focus on Lower-Impact Materials and Waste Reduction, Labor Practices: A Focus on Workers’ Rights, Animal Welfare: A Lack of Evidence and Minimal Use of Animal-Derived Materials"
+770,Pareto,4,
+771,PaaPii Design,5,
+772,Panamuna Project,5,
+773,Paparesta Accessories,4,"Eco-Friendly Materials: A Commitment to the Environment, Minimizing Waste: A Focus on Sustainability, Local Manufacturing: Reducing Climate Impact, A Responsible Approach to Animal Welfare"
+774,Passion Lilie,5,
+775,Peninsula Swimwear,3,
+776,People Tree,5,"Planet Rating: Great, People Rating: Great, Animals Rating: Good, Overall Rating: Great"
+777,Parade,4,"Eco-Friendly Materials: A Game Changer, The Energy and Emissions Challenge, Navigating Labor Practices, A Look at Animal Impact, The Bigger Picture"
+778,Petits Vilains,4,
+779,Par Moi,4,
+780,PACT,4,"Minimizing Textile Waste, Ethical Labor Practices, Animal Welfare"
+781,PH5,3,"Planet Rating: Good, People Rating: Not Good Enough, Animals Rating: It’s a Start, Overall Rating: It’s a Start"
+782,Printfresh,4,
+783,Pressio,4,
+784,Pop My Way,4,
+785,Prairie Underground,4,"Environmentally Friendly Practices, Ethical Labor Practices, Cruelty-free Fashion"
+786,PRISTINE,4,"Planet, People, Animals"
+787,Piccalilly,4,
+788,Proclaim,5,
+789,Piña,4,Promoting Fair Labor Practices
+790,PLASTICITY,4,
+791,Prota Fiori,4,"Renewable Energy and Supply Chain, Labor Practices and Supplier Relations, Animal Welfare"
+792,PSYLO,4,"Environmental Impact: “Good”, Worker’s Rights: “It’s a Start”, Animal Welfare: “It’s a Start”"
+793,pinqponq,4,
+794,Picture,3,"The Environmental Impact, Labor Practices, Animal Welfare"
+795,Pippa Holt,4,
+796,Pure Apparel,4,
+797,Pico,4,
+798,Protean London,4,
+799,Pitupi,5,
+800,Puma,4,
+801,Pure Magnolia,4,
+802,Poppie the Label,4,"Reducing Textile Waste, Local Manufacturing for Lower Carbon Footprint, Labour Practices and Supply Chain Transparency, Animal-Friendly Approach"
+803,Pig and Hen,4,"Worker Welfare: Pig and Hen Receives an “It’s a Start” Rating, Animal Welfare: Pig and Hen Receives a “Good” Rating"
+804,Po-Zu,4,
+805,Puffin Gear,3,"Environment Rating: Not Good Enough, Labour Rating: It’s a Start, Animal Rating: It’s a Start"
+806,Polly Wales,4,"Planet Rating: Good, People Rating: It’s a Start, Overall Rating: Good"
+807,Plant Faced Clothing,4,
+808,PLAYFÜL,4,"Material Usage, Packaging and Waste Reduction, Production Practices, Living Wages, Material Usage"
+809,Prim Stargazer,4,
+810,POPLINEN,4,Overall Rating for POPLINEN
+811,Pleatsmama,4,
+812,QWSTION,4,"Worker’s Rights, Animal Welfare, Overall Rating"
+813,REEF,3,
+814,Rentrayage,4,
+815,Qeelin,3,
+816,Reformation,4,"Eco-Friendly Materials, Stopping Deforestation and Saving Resources, Cutting Waste by Recycling, Taking Care of Workers and Being Accountable, COVID-19 Response, Animal Welfare and Ethical Sourcing, Responsible Sourcing"
+817,Real Deal Brazil,3,
+818,Quincy Mae,4,"Labor Practices, Animal Welfare"
+819,Redwood Classics Apparel,4,
+820,Purnama,4,
+821,RAANI the label,4,
+822,RESAP Paris,4,
+823,Raven + Lily,4,
+824,RE-BELLO,3,
+825,Rapanui,4,
+826,ReCreate,5,
+827,Purusha People,4,"Eco-Friendly Materials and Responsible Processes, Localized Manufacturing for a Greener Tomorrow, Benefits of Eco-Friendly Materials: A Holistic Approach, Ethical Labor Practices: A Commitment to Fairness, Transparency and Accountability in the Supply Chain, Animal-Friendly Fashion: A Cruelty-Free Commitment"
+828,Q for Quinn,4,"Factors Influencing the Score, Factors Influencing the Score, Factors Influencing the Score"
+829,Redrew,4,
+830,Rains,3,
+831,Quazi Design,5,"Environmental Policies and Practices, Workers’ Rights and Fair Practices, Overall Rating: Great"
+832,Pyrrha,4,"Planet Rating, People Rating, Animals Rating"
+833,Pure Pod,4,
+834,Rave Review,4,
+835,Reflexone,4,
+836,REER3,4,"Putting People First, Animal Welfare Matters"
+837,RÄTHEL & WOLF,4,
+838,Recycledbags.Co,4,
+839,RÆBURN,4,
+840,recolution,4,"Eco-Friendly Choices, Supporting Workers’ Rights, Being Kind to Animals, Overall Rating"
+841,PYUA,4,
+842,RESTYLE,4,
+843,Riley Studio,4,
+844,Rudy Jude,4,
+845,Sage Larock,4,
+846,ReUsefulThingsStudio,4,
+847,Safal Kids,3,
+848,Salt Gypsy,4,
+849,Rowan Grey,4,
+850,Rive Droite,4,
+851,Saint Basics,4,
+852,Roberts Wood,4,"Planet Rating: Good, People Rating: It’s a Start, Animals Rating: Good"
+853,S A Y A,5,
+854,Rotholz,4,"Environment Rating: It’s a Start, Labour Rating: It’s a Start, Animal Rating: Good, A Holistic Approach, The Road Ahead"
+855,RŪPAHAUS,5,
+856,Rodebjer,3,
+857,ROSE + REGGIE,4,
+858,Salomon,3,"Salomon’s Environmental Rating, Salomon’s Social Rating, Salomon’s Animal Welfare Rating"
+859,Saalt,4,
+860,Rifò,4,"Planet-Friendly Practices, Prioritizing Workers’ Rights, Compassion for Animals, Overall Verdict"
+861,Saana ja Olli,4,
+862,RESIDUS,4,
+863,Rumpl,3,"Environment Rating: It’s a start, Labour Rating: Not good enough, Animal Rating: Great"
+864,ROZENBROEK,5,
+865,Sagebrush Surf Bags,4,
+866,Ruhe,4,
+867,Rokit Vintage,4,"Eco-friendly Materials, Local Manufacturing, Labor Standards, No Animal Materials"
+868,RVDK,4,
+869,Salewa,3,"Environmental Impact, Workers’ Rights, Animal Welfare, Overall Rating"
+870,Rice & Carry,4,
+871,S Threads Boutique,4,
+872,SEP,4,
+873,SEEKER,4,
+874,Sealand,5,
+875,SAYE,3,"Planet: Striving for a Greener Future, People: Prioritizing Workers’ Rights, Animals: A Compassionate Approach, Overall Assessment: It’s a Start"
+876,SANTICLER,4,
+877,Seegarn,4,
+878,Seek Dry Goods,3,Reducing Energy Use and Greenhouse Gas Emissions
+879,Seventy + Mochi,4,"Environmental Rating: Great, Limited Production and Textile Waste, Labour Rating: It’s a Start, Animal Rating: Good, A Final Verdict: Good Overall Rating"
+880,Sancho’s,4,
+881,Sasta,3,"Lower-Impact Materials, Textile Waste, Water Conservation, Renewable Energy, Supply Chain Certification, Supply Chain Traceability, Living Wages, Animal Welfare Policy, Animal-Derived Materials"
+882,Santos by Monica,4,
+883,SeamsFriendly,4,"Environmental Policies – Planet Rating, Lower-Impact Materials and Waste Reduction, Water Usage Concerns, People Rating – Workers’ Rights, Supply Chain Transparency and Code of Conduct, Fair Wages in the Supply Chain, Animal Welfare – Animals Rating, Overall Sustainability Rating"
+884,Seea,4,
+885,SANIKAI,4,"Environmentally Friendly Materials, Local Manufacturing for a Smaller Carbon Footprint, Labor Ethics and Supply Chain Transparency, Cruelty-Free Fashion"
+886,Sarah Sue Design,4,
+887,Save the Duck,3,
+888,Sand Snow Linen,4,
+889,SEPTEMBER,4,
+890,Self Cinema,4,
+891,Sandqvist,4,
+892,Seek Collective,4,
+893,Señorita LEMONIEZ,3,
+894,Sense Organics,4,
+895,Salty Swimwear,3,
+896,Sauths,3,
+897,Sans Beast,4,
+898,Samuji,4,
+899,Savannah Morrow The Label,3,"Growing Sustainably: Navigating Change While Staying True to Values, The People Rating: Putting Workers First, The Animals Rating: They Love the Furry and Feathery"
+900,Sami Miro Vintage,4,"Lower-Impact Materials, Production Run Limits, Local Manufacturing, Supply Chain Transparency, Ethical Statements, Living Wages, Recycled Materials, No Use of Animal-Derived Products"
+901,Sardine Clothing Company,4,
+902,Son of a Tailor,4,
+903,Shakti.ism,4,
+904,Sinerji,4,
+905,Soleil Soleil,5,
+906,societywild,4,
+907,Sister Organics,4,
+908,SILENT WAVE INDIGO,5,
+909,Smalls Merino,4,"Environmental Impact: “It’s a Start”, Social Responsibility: “Good”, Animal Welfare: “Good”"
+910,Social Catalysts,4,
+911,SilkGenie,5,
+912,Slow Stitch Studio,4,"Eco-friendly Materials, Reducing Textile Waste, Local Manufacturing"
+913,SNAP,4,
+914,SO-LE Studio,4,"Environmental Initiatives, Labour Practices, Animal Welfare"
+915,Skall Studio,4,
+916,sherris,4,
+917,Shola Branson,4,
+918,Sotela,4,
+919,SKFK,5,
+920,SHIBUI,4,
+921,Softandwet,4,
+922,simply grey,3,
+923,SLVRLAKE,4,
+924,sisam,4," Factors Influencing the Planet Rating ,  Factors Influencing the People Rating ,  Factors Influencing the Animals Rating "
+925,Silou,4,
+926,Sorella Organics,4,"Evaluating Sustainability: The “Planet” Rating, Valuing Workers’ Rights: The “People” Rating, Promoting Animal Welfare: The “Animals” Rating, Overall Rating: “Good”"
+927,Solosix,4,"Prioritizing Sustainability Through Materials, Efficient Production and Waste Reduction, Workers’ Rights: A Call for Improvement, Animal-Friendly Fashion at the Core"
+928,Solstice Kids,4,"Planet Rating, People Rating, Animals Rating, Overall Rating"
+929,Smycka,3,"People Rating: It’s a Start, Animals Rating: Not Applicable"
+930,soleRebels,4,
+931,Sevya,4,
+932,Subset,5,
+933,Tatti Chic,4,
+934,Studio 189,3,
+935,Sun50,4,
+936,Soul Flower,4,
+937,Stay Wild,4,
+938,Souldaze,4,
+939,SÜK Workwear,3,
+940,SUI,4,
+941,Tasi Travels,4,Labour Conditions and Workers’ Rights
+942,SPELL,4,"Waste Reduction: Stitching Sustainability Into Every Fiber, Workers’ Rights: A Commitment to Ethical Practices, Animal Welfare: Initiating Progress in the “Animals” Realm"
+943,Svala,4,"Labour Practices and Transparency, The Overall Rating of Svala"
+944,TALA,3,"A Progressive Approach Towards Labor Rights, A Commitment to Animal Welfare"
+945,Superstainable,4,
+946,Stature,4,
+947,Sustain by Kat,4,"Workers’ Rights: Not Good Enough People Rating, Animal Welfare: Good Animals Rating, Overall Rating: Good"
+948,Swim Against,4,"Environmentally Friendly Materials, Local Manufacturing, Labor Practices, Animal-Friendly Products, Overall Rating"
+949,Swedish Stockings,4,
+950,Symbology,3,
+951,Stella McCartney,4,
+952,Talia Collins,4,"Environmental Responsibility, Labor Practices, Animal Welfare, Overall Rating"
+953,STANLEY/STELLA,5,
+954,Studio Courtenay,4,
+955,SukkhaCitta,4,
+956,Sylven New York,4,
+957,Stephen Webster,4,
+958,Souple Luz,4,
+959,Tattered Eden,4,"Environment Rating, Labour Rating, Animal Rating"
+960,TAMGA Designs,4,
+961,STORY mfg.,4,
+962,The Campamento,4,
+963,The Crafty Bird,3,
+964,Terra Thread,4,
+965,The bonnie mob,4,
+966,Teemill,5,
+967,Teatum Jones,4,
+968,TAUKO,4,
+969,The Classic T-Shirt Company,4,
+970,The Kozm,4,
+971,Tekla,4,"Environment Rating: Good, Labour Rating: Good, Animal Rating: Good"
+972,The Blue Rabbit House,4,
+973,The Anjelms Project,4,
+974,tentree,4,"Environmental Policies: Planet Rating, Workers’ Rights: People Rating, Animal Welfare: Animals Rating, Overall Rating"
+975,The Common Good Company,5,
+976,The Level Collective,4,
+977,The Good Tee,5,
+978,Tetiana K,3,
+979,The Boy&I,4,
+980,The Knotty Ones,4,
+981,The Ethical Silk Company,4,
+982,Teva,3,
+983,Ternua,4,
+984,Terra Dea,4,
+985,Thaely,4,"Reducing Textile Waste: The Path to a Greener Tomorrow, Eco-Friendly Materials: Minimizing Chemicals and Water Usage, Labor Practices: A Mixed Bag of Ethics, Transparency and Accountability: The Right Path Forward, A Kind Approach to Animals: Cruelty-Free Fashion"
+986,TERAS,4,
+987,The Artful Mitten,5,
+988,The Maker Collection,4,
+989,Taylor Stitch,3,
+990,tehadesigns,4,
+991,The Blue Suit,5,
+992,The Moonrise Project,4,"Environmental Responsibility, Fair Labor Practices, Animal Rights and Ethical Practices"
+993,The Recycled Planet,3,
+994,The Social Outfit,4,
+995,Think Big Little People,4,
+996,The North Face,4,"Greenhouse Gas Emissions Reduction on the Horizon, Saying Goodbye to Single-Use Plastic, Bluesign-Certified Sustainability, Tackling Packaging Responsibility, Promoting Fair Labor Practices, Championing Animal Welfare"
+997,The Summer House,4,
+998,This is Unfolded,4,
+999,Thought,3,
+1000,Thunderpants USA,5,
+1001,THEA WITH LOVE,3,
+1002,Thief&Bandit,4,
+1003,Théla,5,
+1004,The Very Good Bra,4,
+1005,Thunderpants NZ,5,
+1006,Tiger Prints,4,
+1007,The Tiny Closet,5,
+1008,Threads 4 Thought,4,"Environmental Responsibility: Thumbs Up, Fair Labor Practices: A Positive Start, Animal Welfare: Compassion for Creatures"
+1009,Thesus,4,
+1010,ThokkThokk,4,"Labor and Workers’ Rights, Animal Welfare"
+1011,The White Briefs,4,
+1012,The R Collective,5,
+1013,The Rushing Hour,4,
+1014,Thinking MU,4,
+1015,The SUSS Edit,4,
+1016,Timberland,4,
+1017,THE MORPHBAG BY GSK,4,
+1018,The Spotted Quoll Studio,4,
+1019,The Standard Stitch,5,"Eco-Friendly Materials, Waste Reduction, Local Manufacturing, Ethical Labor Practices, Room for Improvement, Animal Welfare"
+1020,Tropicfeel,3,
+1021,Two Little Beans & Co,3,"Environmental Policies, Workers’ Rights, Animal Welfare, Overall Sustainability Rating"
+1022,Twofold Clothing,4,"Methodology, Made-to-Order Production, Local Manufacturing for Reduced Carbon Footprint, Challenges in Chemical Usage, Wastewater Management Initiatives, Advancing Fair Labor Practices, Animal Welfare Commitment"
+1023,Tortoise The Label,4,
+1024,Tree of Life,3,
+1025,Touch Me Not,4,"People-Centric Values, Animal Welfare Considerations"
+1026,TRENDY STREET,4,
+1027,Titania Inglis,3,
+1028,Triarchy,5,
+1029,Tread & Butter,3,"Environment: A Work in Progress, Labor Practices: Upholding Workers’ Rights, Caring for our Animal Friends, Aiming for Improvement"
+1030,U-MASK,4,Overall Assessment
+1031,Treekid,5,
+1032,Toby Tiger,4,
+1033,Toad&Co,4,
+1034,Ucon Acrobatics,4,
+1035,Tivoli,4,"Eco-Friendly Materials, Minimizing Waste, Local Manufacturing, Labour Practices, Animal Welfare"
+1036,Two Sparrow Australia,4,
+1037,Tripulse,4,
+1038,Tuckerman & Co,4,
+1039,True Tribe,4,
+1040,TWOTHIRDS,4,
+1041,Tultex,3,
+1042,Tomo & Edie,4,"Eco-Friendly Materials and Upcycling, Handmade Production for Reduced Climate Impact, Packaging and Waste Reduction, In-House Production and Traceability, Potential Living Wage Gap"
+1043,Tri Colour Federation,4,
+1044,Tiny Twig,4,
+1045,Toit Volant,3,
+1046,Tzoma,4,
+1047,Tommy & Lottie,4,
+1048,Tomorrow Denim,4,"Planet, People, Animals, Overall Rating"
+1049,Turtledove London,4,"Long-lasting Products for a Sustainable Future, Tracing the Supply Chain, Promoting Animal Welfare"
+1050,Vernisse,4,
+1051,VATTER,5,
+1052,Up-Fuse,4,
+1053,VEERAH,4,
+1054,Vege Threads,4,"Environmental Policies and Practices, Workers’ Rights and Ethical Practices, Animal Welfare Considerations, Overall Sustainability Rating"
+1055,Ukiyo,3,
+1056,UndeadMagpie,4,
+1057,VegasRabbitClothing,5,
+1058,VEJA,4,
+1059,unspun,5,
+1060,Unrecorded,4,"Eco-Friendly Materials and Reduced Carbon Footprint, Minimizing Textile Waste through Resourceful Practices, Workers’ Rights and Supply Chain Traceability, A Step Towards Animal Welfare"
+1061,Untouched World,4,
+1062,Vanina,4,
+1063,VAUDE,4,
+1064,Vietopia,4,
+1065,VENIM,4,"Environmental Responsibility, Ethical Considerations, Cruelty-Free Fashion"
+1066,United By Blue,4,
+1067,Unrobe,5,
+1068,Unbelts,4,
+1069,UNOA,4,
+1070,Ulalü,4,
+1071,Untold Jewellery,4,"Environment Rating: Good, Labor Rating: Good, Overall Rating: Good"
+1072,Velvet Heartbeat,4,
+1073,Variety Hour,4,"Taking Steps Towards Ethical Production, Animal-Friendly Fashion"
+1074,Underprotection,4,
+1075,Vesica Piscis,4,
+1076,Under The Nile,4,
+1077,Velocio,4,
+1078,US Blanks,3,
+1079,Uskees,4,
+1080,Wild Country,3,"Planet: Not Good Enough, People: It’s a Start, Animals: Good, Overall Rating: It’s a Start"
+1081,wayre,4,"Ethical Labor Practices: A Promising Start, Animal Welfare: A Positive Step"
+1082,Vigo Swim,4,
+1083,WeAreNativ,4,
+1084,West Activewear,3,
+1085,Where Does It Come From?,5,
+1086,Wildling,4,"Environmentally-friendly materials, Local manufacturing for a smaller carbon footprint, Limited use of solvent-based chemicals, Reduced chemical waste and water usage, Manufacturing in Portugal and labour abuses, Living wage and worker’s rights, The overall rating: “Good”"
+1087,Vitamin A,4,
+1088,Vild House of Little,4,
+1089,Wilson and Frenchy,3,
+1090,Viverano,4,
+1091,Wellicious,3,
+1092,Wemoto,3,"Our “Planet” Rating, Our “People” Rating, Our “Animals” Rating, Overall Rating"
+1093,VYAYAMA,3,
+1094,WACCOWACCO,4,
+1095,WAWWA,4,
+1096,Wildflo Studio,4,
+1097,village thrive,4,
+1098,WalkinThroughFlowers,5,
+1099,Wear Your Love,3,
+1100,WAMA,4,
+1101,Windsor Lane,4,"Environment Rating: It’s a Start, Labour Rating: Good, Animal Rating: Good, Overall Rating: Good"
+1102,Virón,4,
+1103,Whimsy + Row,4,
+1104,VRAI,4,
+1105,VOIT,3,"Environment Rating: It’s a Start, Labor Rating: Not Good Enough, Animal Rating: Good"
+1106,WE-AR4,4,
+1107,Will’s Vegan Store,4,
+1108,WALD Berlin,4,
+1109,von Holzhausen,4,
+1110,Wolf and Zephyr,4,
+1111,Woron,4,
+1112,Wolven,4,
+1113,WUF KIDS,4,
+1114,WWAKE,4,
+1115,ZUZU & CO,4,"Using Eco-Friendly Materials and Reducing Waste, Local Manufacturing for a Smaller Carbon Footprint"
+1116,Winter Water Factory,4,
+1117,Yuki Threads,4,
+1118,zero waste daniel,4,
+1119,YoRo Naturals,4,"Environmentally Friendly Practices, Labor Practices, Animal Welfare"
+1120,Wouf,4,
+1121,Y.O.U Underwear,5,"Eco-Friendly Materials, Promoting Fair Labor Practices, Avoiding Animal Impact"
+1122,Womsh,4,
+1123,World Of Crow,4,
+1124,Zazi,4,
+1125,Zulu & Zephyr,4,
+1126,XZOUIX,4,
+1127,宝島染工 / Takarajima Senkou,4,
+1128,Yes Friends,5,"Promoting Sustainable Production Practices, Championing Fair Labor Practices, Transparency and Accountability Across the Supply Chain, Committed to Animal Welfare"
+1129,YU STEPANEL,4,
+1130,Zilver,4,
+1131,Wuxly Movement,4,
+1132,Yes And,4,
+1133,Yanawara,4,"Environment Rating: Taking the First Steps, Labor Rating: Supporting Female-Owned Enterprises, Animal Rating: Upholding Ethical Practices, Overall Rating: A Positive Impact"
+1134,Zuri,4,"Environment Rating: It’s a Start, Labor Rating: Great, Animal Rating: Good"
+1135,ZEROBARRACENTO,4,
+1136,Wyatt and Jack,4,
+1137,石徹白洋品店 / Itoshiro Yohinten,4,"Environmental Practices, Assessment of Workers’ Rights, Evaluation of Animal Welfare Policies"
+1138,Wires,4,
+1139,wunderwerk,4,
