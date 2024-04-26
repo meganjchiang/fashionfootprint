@@ -1,0 +1,38 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: darkslategray; 
+    color: white;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+
+.video-link-box {
+    text-align: center;
+}
+
+#videoLinkInput {
+    padding: 1em;
+    border: none;
+    border-radius: 1em;
+    font-size: 1em;
+    margin-bottom: 1em;
+    width: 20em;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: lightgray; 
+    color: black;
+    border: none;
+    border-radius: 1em;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: grey; 
+}

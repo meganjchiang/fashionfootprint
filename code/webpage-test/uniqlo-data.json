@@ -1,0 +1,372 @@
+[
+    {
+      "Title": "Uniqlo Try-on Haul/Affordable Quiet Luxury looks/Petite Over 40 [Under 5 feet/below 150cm]",
+      "ShortTitle": "Uniqlo Try-on Haul",
+      "VideoLink": "https://www.youtube.com/watch?v=c7B4_3NBP98",
+      "Links": [
+        {
+          "URL": "https://www.uniqlo.com/us/en/products/E456215-000/00?colorDisplayCode=30&sizeDisplayCode=001",
+          "ScrapedData": {
+            "item": "Linen Blend Tucked Wide Pants",
+            "rayon": 43,
+            "linen": 34,
+            "polyester": 80,
+            "cotton": 20
+          },
+          "CleanScrapedData": {
+            "item": "Linen Blend Tucked Wide Pants",
+            "viscose": 43,
+            "linen": 34,
+            "polyester": 23
+          },
+          "MaterialScore": 0.3,
+          "overall_score": 3,
+          "people_score": 3,
+          "planet_score": 3
+        },
+        {
+          "URL": "https://www.uniqlo.com/us/en/products/E455756-000/00?colorDisplayCode=00&sizeDisplayCode=003",
+          "ScrapedData": {
+            "item": "Ribbed Tank Top",
+            "cotton": 93,
+            "spandex": 7
+          },
+          "CleanScrapedData": {
+            "item": "Ribbed Tank Top",
+            "cotton": 93,
+            "spandex": 7
+          },
+          "MaterialScore": 0.4,
+          "overall_score": 3,
+          "people_score": 3,
+          "planet_score": 3
+        },
+        {
+          "URL": "https://www.uniqlo.com/us/en/products/E454767-000/00?colorDisplayCode=01&sizeDisplayCode=004",
+          "ScrapedData": {
+            "item": "Light V-Neck Long-Sleeve Cardigan",
+            "tencel": 55,
+            "acetate": 45
+          },
+          "CleanScrapedData": {
+            "item": "Light V-Neck Long-Sleeve Cardigan",
+            "tencel": 55,
+            "modal": 45
+          },
+          "MaterialScore": 2,
+          "overall_score": 3,
+          "people_score": 3,
+          "planet_score": 3
+        },
+        {
+          "URL": "https://www.uniqlo.com/us/en/products/E455749-000/00?colorDisplayCode=71&sizeDisplayCode=002",
+          "ScrapedData": {
+            "item": "Premium Linen Long-Sleeve Shirt",
+            "linen": 100
+          },
+          "CleanScrapedData": {
+            "item": "Premium Linen Long-Sleeve Shirt",
+            "linen": 100
+          },
+          "MaterialScore": 0.9,
+          "overall_score": 3,
+          "people_score": 3,
+          "planet_score": 3
+        },
+        {
+          "URL": "https://www.uniqlo.com/us/en/products/E458619-000/00?colorDisplayCode=69&sizeDisplayCode=002",
+          "ScrapedData": {
+            "item": "Linen Blend Belted Sleeveless Lapel Dress (JW Anderson)",
+            "rayon": 53,
+            "linen": 33,
+            "cotton": 14
+          },
+          "CleanScrapedData": {
+            "item": "Linen Blend Belted Sleeveless Lapel Dress (JW Anderson)",
+            "viscose": 53,
+            "linen": 33,
+            "cotton": 14
+          },
+          "MaterialScore": 0.4,
+          "overall_score": 3,
+          "people_score": 3,
+          "planet_score": 3
+        },
+        {
+          "URL": "https://www.uniqlo.com/us/en/products/E459580-000/00?colorDisplayCode=01&sizeDisplayCode=999",
+          "ScrapedData": {
+            "item": "Hat (JW Anderson)",
+            "paper": 85,
+            "polyester": 100
+          },
+          "CleanScrapedData": {
+            "item": "Hat (JW Anderson)",
+            "lyocell": 85,
+            "polyester": 15
+          },
+          "MaterialScore": 2.7,
+          "overall_score": 3,
+          "people_score": 3,
+          "planet_score": 3
+        }
+      ]
+    },
+    {
+      "Title": "Uniqlo U Spring/Summer 2023 Styling Haul + Monthly Favourites",
+      "ShortTitle": "Uniqlo U Spring/Summer 2023 Styling Haul",
+      "VideoLink": "https://www.youtube.com/watch?v=9hktZEc3Vhs",
+      "Links": [
+        {
+          "URL": "https://rstyle.me/+CZM_fbUHWdR5PT9pvIqK8Q",
+          "ScrapedData": {
+            "item": "U Oversized Single Breasted Coat",
+            "cotton": 35,
+            "nylon": 30,
+            "polyester": 65
+          },
+          "CleanScrapedData": {
+            "item": "U Oversized Single Breasted Coat",
+            "cotton": 70,
+            "nylon": 30
+          },
+          "MaterialScore": 0.3,
+          "overall_score": 3,
+          "people_score": 3,
+          "planet_score": 3
+        },
+        {
+          "URL": "https://rstyle.me/+MAdavWCUzekigB04gtAKaw",
+          "ScrapedData": {
+            "item": "U Short Jacket",
+            "cotton": 100,
+            "polyester": 65
+          },
+          "CleanScrapedData": {
+            "item": "U Short Jacket",
+            "cotton": 100
+          },
+          "MaterialScore": 0.9,
+          "overall_score": 3,
+          "people_score": 3,
+          "planet_score": 3
+        },
+        {
+          "URL": "https://rstyle.me/+YUBbGyRPVIDH4LPaMeKdfw",
+          "ScrapedData": {
+            "item": "U Wide-Fit Parachute Pants",
+            "cotton": 35,
+            "polyester": 65
+          },
+          "CleanScrapedData": {
+            "item": "U Wide-Fit Parachute Pants",
+            "cotton": 35,
+            "polyester": 65
+          },
+          "MaterialScore": 0.1,
+          "overall_score": 3,
+          "people_score": 3,
+          "planet_score": 3
+        }
+      ]
+    },
+    {
+      "Title": "UNIQLO U SPRING SUMMER 2024 | Review, Try-On Haul and Styling | Outfit Ideas feat. Margiela New Tabi",
+      "ShortTitle": "UNIQLO U SPRING SUMMER 2024",
+      "VideoLink": "https://www.youtube.com/watch?v=eCA1r9zb9a0",
+      "Links": [
+        {
+          "URL": "https://slooks.top/6rIg/64",
+          "ScrapedData": {
+            "item": "U Crew Neck T-Shirt",
+            "cotton": 100
+          },
+          "CleanScrapedData": {
+            "item": "U Crew Neck T-Shirt",
+            "cotton": 100
+          },
+          "MaterialScore": 0.9,
+          "overall_score": 3,
+          "people_score": 3,
+          "planet_score": 3
+        },
+        {
+          "URL": "https://slooks.top/70Ss/64",
+          "ScrapedData": {
+            "item": "Parachute Cropped Pants",
+            "cotton": 63,
+            "nylon": 37
+          },
+          "CleanScrapedData": {
+            "item": "Parachute Cropped Pants",
+            "cotton": 63,
+            "nylon": 37
+          },
+          "MaterialScore": 0.3,
+          "overall_score": 3,
+          "people_score": 3,
+          "planet_score": 3
+        },
+        {
+          "URL": "https://slooks.top/70Su/64",
+          "ScrapedData": {
+            "item": "U AIRism Cotton Crew Neck Long-Sleeve T-Shirt",
+            "cotton": 73,
+            "polyester": 27,
+            "uses": 30
+          },
+          "CleanScrapedData": {
+            "item": "U AIRism Cotton Crew Neck Long-Sleeve T-Shirt",
+            "cotton": 53,
+            "polyester": 17,
+            "recycled polyester": 30
+          },
+          "MaterialScore": 1.1,
+          "overall_score": 3,
+          "people_score": 3,
+          "planet_score": 3
+        },
+        {
+          "URL": "https://slooks.top/70St/64",
+          "ScrapedData": {
+            "item": "High Waisted Straight Color Jeans",
+            "cotton": 100
+          },
+          "CleanScrapedData": {
+            "item": "High Waisted Straight Color Jeans",
+            "cotton": 100
+          },
+          "MaterialScore": 0.9,
+          "overall_score": 3,
+          "people_score": 3,
+          "planet_score": 3
+        },
+        {
+          "URL": "https://slooks.top/71t5/64",
+          "ScrapedData": {
+            "item": "DRY-EX Tank Top",
+            "polyester": 70,
+            "nylon": 30,
+            "uses": 35
+          },
+          "CleanScrapedData": {
+            "item": "DRY-EX Tank Top",
+            "polyester": 35,
+            "nylon": 30,
+            "recycled polyester": 35
+          },
+          "MaterialScore": 0.9,
+          "overall_score": 3,
+          "people_score": 3,
+          "planet_score": 3
+        },
+        {
+          "URL": "https://slooks.top/71t6/64",
+          "ScrapedData": {
+            "item": "AIRism UV Protection Leggings",
+            "polyester": 65,
+            "nylon": 26,
+            "spandex": 9,
+            "uses": 65
+          },
+          "CleanScrapedData": {
+            "item": "AIRism UV Protection Leggings",
+            "recycled polyester": 65,
+            "nylon": 26,
+            "spandex": 9
+          },
+          "MaterialScore": 1.8,
+          "overall_score": 3,
+          "people_score": 3,
+          "planet_score": 3
+        },
+        {
+          "URL": "https://slooks.top/70Sv/64",
+          "ScrapedData": {
+            "item": "Volume Sleeve Cocoon Blouson",
+            "cotton": 100
+          },
+          "CleanScrapedData": {
+            "item": "Volume Sleeve Cocoon Blouson",
+            "cotton": 100
+          },
+          "MaterialScore": 0.9,
+          "overall_score": 3,
+          "people_score": 3,
+          "planet_score": 3
+        },
+        {
+          "URL": "https://slooks.top/71Jf/64",
+          "ScrapedData": {
+            "item": "Ultra Stretch AIRism Jogger Pants",
+            "polyester": 100,
+            "uses": 41
+          },
+          "CleanScrapedData": {
+            "item": "Ultra Stretch AIRism Jogger Pants",
+            "polyester": 59,
+            "recycled polyester": 41
+          },
+          "MaterialScore": 2,
+          "overall_score": 3,
+          "people_score": 3,
+          "planet_score": 3
+        },
+        {
+          "URL": "https://slooks.top/71tc/64",
+          "ScrapedData": {
+            "item": "AIRism UV Protection Long-Sleeve T-Shirt",
+            "polyester": 76,
+            "nylon": 14,
+            "spandex": 10,
+            "uses": 76
+          },
+          "CleanScrapedData": {
+            "item": "AIRism UV Protection Long-Sleeve T-Shirt",
+            "recycled polyester": 76,
+            "nylon": 14,
+            "spandex": 10
+          },
+          "MaterialScore": 2.1,
+          "overall_score": 3,
+          "people_score": 3,
+          "planet_score": 3
+        },
+        {
+          "URL": "https://slooks.top/71ta/64",
+          "ScrapedData": {
+            "item": "Utility Hooded Jacket",
+            "cotton": 75,
+            "nylon": 25,
+            "polyester": 100
+          },
+          "CleanScrapedData": {
+            "item": "Utility Hooded Jacket",
+            "cotton": 75,
+            "nylon": 25
+          },
+          "MaterialScore": 0.3,
+          "overall_score": 3,
+          "people_score": 3,
+          "planet_score": 3
+        },
+        {
+          "URL": "https://slooks.top/71GR/64",
+          "ScrapedData": {
+            "item": "Drawstring Backpack",
+            "polyester": 100,
+            "cotton": 16
+          },
+          "CleanScrapedData": {
+            "item": "Drawstring Backpack",
+            "polyester": 84,
+            "cotton": 16
+          },
+          "MaterialScore": 0.1,
+          "overall_score": 3,
+          "people_score": 3,
+          "planet_score": 3
+        }
+      ]
+    }
+]
+  
