@@ -13,16 +13,17 @@ async function findScores() {
         var found = false;
 
         // basic table to display results
-        var itemScoreTable = `
-            <table>
-                <tr>
-                    <th>Item</th>
-                    <th>Material Score</th>
-                    <th>Overall Score</th>
-                    <th>People Score</th>
-                    <th>Planet Score</th>
-                </tr>
-        `;
+        // var itemScoreTable = `
+        //     <table>
+        //         <tr>
+        //             <th>Item</th>
+        //             <th>Material Score</th>
+        //             <th>Overall Score</th>
+        //             <th>People Score</th>
+        //             <th>Planet Score</th>
+        //         </tr>
+        // `;
+        var itemsContainer = '';
 
         for (var i=0; i < brandDataset.length; i++) {
             // finds matching video link in brand dataset
@@ -40,22 +41,30 @@ async function findScores() {
                     var planetScore = items[j].planet_score;
                     // adds each item to table 
                     // MAKE LOOK BETTER
-                    itemScoreTable += `
-                        <tr>
-                            <td>${item}</td>
-                            <td>${materialScore}</td>
-                            <td>${overallScore}</td>
-                            <td>${peopleScore}</td>
-                            <td>${planetScore}</td>
-                        </tr>
+                    // itemScoreTable += `
+                    //     <tr>
+                    //         <td>${item}</td>
+                    //         <td>${materialScore}</td>
+                    //         <td>${overallScore}</td>
+                    //         <td>${peopleScore}</td>
+                    //         <td>${planetScore}</td>
+                    //     </tr>
+                    // `;
+                    itemsContainer += `
+                        <div class="score-box">
+                            <div class="item-name">${item}</div>
+                            <div class="score">Material Score: ${materialScore}</div>
+                            <div class="score">Overall Score: ${overallScore}</div>
+                            <div class="score">People Score: ${peopleScore}</div>
+                            <div class="score">Planet Score: ${planetScore}</div>
+                        </div>
                     `;
                 }
             }
         }
-        itemScoreTable += `</table>`;
 
         if (found) {
-            resultDiv.innerHTML = itemScoreTable;
+            resultDiv.innerHTML = itemsContainer;
         } else {
             resultDiv.innerHTML = "Video link not found in the brandDataset.";
         }
