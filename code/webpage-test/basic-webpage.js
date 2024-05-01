@@ -12,17 +12,6 @@ async function findScores() {
         // if link is found...
         var found = false;
 
-        // basic table to display results
-        // var itemScoreTable = `
-        //     <table>
-        //         <tr>
-        //             <th>Item</th>
-        //             <th>Material Score</th>
-        //             <th>Overall Score</th>
-        //             <th>People Score</th>
-        //             <th>Planet Score</th>
-        //         </tr>
-        // `;
         var itemsContainer = '';
 
         for (var i=0; i < brandDataset.length; i++) {
@@ -39,17 +28,7 @@ async function findScores() {
                     var overallScore = items[j].overall_score;
                     var peopleScore = items[j].people_score;
                     var planetScore = items[j].planet_score;
-                    // adds each item to table 
-                    // MAKE LOOK BETTER
-                    // itemScoreTable += `
-                    //     <tr>
-                    //         <td>${item}</td>
-                    //         <td>${materialScore}</td>
-                    //         <td>${overallScore}</td>
-                    //         <td>${peopleScore}</td>
-                    //         <td>${planetScore}</td>
-                    //     </tr>
-                    // `;
+                    
                     itemsContainer += `
                         <div class="score-box">
                             <div class="item-name">${item}</div>

@@ -6,6 +6,11 @@
     <title>Sustainability Score Finder</title>
     <link rel="stylesheet" href="style.css">
 </head>
+<!--  https://tailwindcss.com/docs/grid-column
+    https://tailwindcss.com/docs/grid-template-rows
+Tailwind is a lot more custom
+setting the grid and giving it two columns
+And align center or items center within a div -->
 <body>
     <div class="container">
         <div class="search-box">
@@ -14,6 +19,9 @@
             <button onclick="findScores()" id="findButton">Find Scores!</button>
         </div>
         <div id="result" class="result"></div>
+        <div class="score-container">
+            <h2 class="results">Items</h2>
+        </div>
         <script src="basic-webpage.js"></script>
     </div>
 </body>
