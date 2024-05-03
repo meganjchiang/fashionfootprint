@@ -26,6 +26,7 @@ fetchData(window.location.href).then(matchingItems => {
     if (matchingItems.length > 0) {
         // use Chrome's local storage api to store matching items with key data
         // and value is matchingItems array
+        // tabId: tabId, 
         chrome.action.setPopup({tabId: tabId, popup: 'popup.html'}, () => {
             if (chrome.runtime.lastError) {
                 console.error('Error setting popup:', chrome.runtime.lastError);
