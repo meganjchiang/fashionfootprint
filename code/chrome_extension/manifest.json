@@ -1,0 +1,38 @@
+{
+    "manifest_version": 3,
+    "name": "Fashion Footprint Chrome Extension",
+    "version": "1.0",
+    "description": "A YouTube fashion Chrome Extension that reads a user's url and outputs sustainability scores for items in the video's description",
+    "permissions": ["activeTab", "storage", "scripting"],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "images/FashionFootprint16.png",
+            "48": "images/FashionFootprint48.png",
+            "128": "images/FashionFootprint128.png"
+        }
+    },
+    "icons": {
+        "16": "images/FashionFootprint16.png",
+        "48": "images/FashionFootprint48.png",
+        "128": "images/FashionFootprint128.png"
+    },
+    "background": {
+        "service_worker": "background.js"
+    },
+    "content_scripts": [
+        {
+            "matches": ["https://www.youtube.com/watch*"],
+            "js": ["content.js"]
+        }
+    ],
+    "content_security_policy": {
+        "extension_pages": "script-src 'self'; object-src 'self'"
+    },
+    "web_accessible_resources": [
+        {
+            "resources": ["data/*"],
+            "matches": ["<all_urls>"]
+        }
+    ]      
+}

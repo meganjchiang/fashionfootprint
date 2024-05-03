@@ -19,48 +19,6 @@ body {
     align-items: center;
 }
 
-/* INPUT BAR */
-
-.text-center h1 {
-    margin-top: 0.5em;
-    font-size: 3em;
-    margin-bottom: 0.5em;
-}
-
-.text-center h2 {
-    margin-top: 1em;
-    font-size: 1.8em;
-    margin-bottom: 0.6em;
-}
-
-#videoLinkInput {
-    background-color: white; 
-    color: black;
-    border: none;
-    border-radius: 1em;
-    padding: 1em;
-    font-size: 1em;
-    width: 20em; 
-    height: 3em;
-    margin-bottom: 0.8em;
-}
-
-#findButton {
-    background-color: #D9D9D9;
-    color: black;
-    font-size: 0.8em;
-    padding-top: 0.8em;
-    padding-bottom: 0.8em;
-    padding-left: 1em;
-    padding-right: 1em;
-    border-radius: 1em;
-    margin-bottom: 1em;
-}
-
-#findButton:hover {
-    background-color: slategrey;
-}
-
 /* RESULTS */
 
 .score-box {

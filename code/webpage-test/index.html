@@ -3,26 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sustainability Score Finder</title>
+    <title>Fashion Footprint</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
-<!--  https://tailwindcss.com/docs/grid-column
-    https://tailwindcss.com/docs/grid-template-rows
-Tailwind is a lot more custom
-setting the grid and giving it two columns
-And align center or items center within a div -->
 <body>
     <div class="container">
-        <div class="search-box">
-            <h1 class="title">Sustainability Score Finder</h1>
-            <input type="text" id="videoLinkInput" placeholder="Enter video link here">
+        <div class="text-center">
+            <img src="FashionFootprintLogo.png" alt="Fashion Footprint Logo" class="mb-0 mx-auto w-32 h-auto">
+            <h1>Fashion Footprint</h1>
+            <h2>Sustainability Score Finder</h2>
+            <div>
+                <input type="text" id="videoLinkInput" placeholder="Enter video link here">
+            </div>
             <button onclick="findScores()" id="findButton">Find Scores!</button>
         </div>
-        <div id="result" class="result"></div>
-        <div class="score-container">
-            <h2 class="results">Items</h2>
-        </div>
-        <script src="basic-webpage.js"></script>
+        <div id="result"></div> <!-- container for results -->
     </div>
+    <script src="basic-webpage.js"></script>
 </body>
 </html>
