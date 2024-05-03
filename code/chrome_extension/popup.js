@@ -1,7 +1,11 @@
 // triggers next function after html page loaded and calls popup.js
 document.addEventListener('DOMContentLoaded', function() {
+    console.log("Popup script loaded");
+
     // retrieves data from Chrome's local storage (from content.js) 
     chrome.storage.local.get('data', function(result) {
+        console.log("Retrieved data from local storage:", result);
+        
         const itemsContainer = document.getElementById('result');
         if (result.data && result.data.length > 0) {
             let row = null; // holds row element
