@@ -9,6 +9,7 @@ async function fetchData(videoLink) {
         }
         const jsonData = await response.json();
         console.log('Data:', jsonData); 
+        console.log('YouTube Link:', videoLink);
         const filteredData = jsonData.filter(item => item.video_link === videoLink);
         console.log('Filtered Data:', filteredData); 
         return filteredData;
