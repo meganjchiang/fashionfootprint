@@ -11,34 +11,20 @@ async function fetchData(videoLink) {
         console.log('Data:', jsonData); 
         console.log('YouTube Link:', videoLink);
         const filteredData = jsonData.filter(item => item.video_link === videoLink);
-        console.log('Filtered Data:', filteredData); 
+        // store filtered data in local Chrome storage
+        chrome.storage.local.set({ 'filteredData': filteredData }, function() {
+            console.log('Filtered data stored in local storage');
+        });
         return filteredData;
-        // return jsonData.filter(item => item.video_link === videoLink);
     } catch (error) {
         console.error('Failed to fetch data:', error);
         return [];
     }
 }
 
-
-// // window.location.href provides page's url (passed into fetchData)
-// fetchData(window.location.href).then(matchingItems => {
-//     if (matchingItems.length > 0) {
-//         // use Chrome's local storage api to store matching items with key data
-//         // and value is matchingItems array
-//         // tabId: tabId, 
-//         chrome.action.setPopup({tabId: tabId, popup: 'popup.html'}, () => {
-//             if (chrome.runtime.lastError) {
-//                 console.error('Error setting popup:', chrome.runtime.lastError);
-//             } else {
-//                 console.log('Popup set successfully');
-//             }
-//         });
-//     }
-// })
-
 // window.location.href provides page's url (passed into fetchData)
 fetchData(window.location.href).then(matchingItems => {
+    console.log('Matching Items:', matchingItems); 
     if (matchingItems.length > 0) {
         // Get the active tab
         chrome.tabs.query({ active: true, currentWindow: true }, function (tabs) {
@@ -58,3 +44,20 @@ fetchData(window.location.href).then(matchingItems => {
         });
     }
 });
+
+
+// // window.location.href provides page's url (passed into fetchData)
+// fetchData(window.location.href).then(matchingItems => {
+//     if (matchingItems.length > 0) {
+//         // use Chrome's local storage api to store matching items with key data
+//         // and value is matchingItems array
+//         // tabId: tabId, 
+//         chrome.action.setPopup({tabId: tabId, popup: 'popup.html'}, () => {
+//             if (chrome.runtime.lastError) {
+//                 console.error('Error setting popup:', chrome.runtime.lastError);
+//             } else {
+//                 console.log('Popup set successfully');
+//             }
+//         });
+//     }
+// })
