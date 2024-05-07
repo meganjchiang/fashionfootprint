@@ -7,9 +7,9 @@ document.addEventListener('DOMContentLoaded', function() {
         console.log("Retrieved filtered data from local storage:", result);
         const itemsContainer = document.getElementById('result');
 
-        if (result.data && result.data.length > 0) {
+        if (result.filteredData && result.filteredData.length > 0) {
             let row = null; // holds row element
-            result.data.forEach((item, index) => {
+            result.filteredData.forEach((item, index) => {
                 console.log("item", item);
                 // new row for every two items
                 if (index % 2 === 0) {
