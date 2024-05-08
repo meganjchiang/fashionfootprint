@@ -1,11 +1,16 @@
 // triggers next function after html page loaded and calls popup.js
 document.addEventListener('DOMContentLoaded', function() {
+    console.log("Popup script loaded");
+
     // retrieves data from Chrome's local storage (from content.js) 
-    chrome.storage.local.get('data', function(result) {
+    chrome.storage.local.get('filteredData', function(result) { 
+        console.log("Retrieved filtered data from local storage:", result);
         const itemsContainer = document.getElementById('result');
-        if (result.data && result.data.length > 0) {
+
+        if (result.filteredData && result.filteredData.length > 0) {
             let row = null; // holds row element
-            result.data.forEach((item, index) => {
+            result.filteredData.forEach((item, index) => {
+                console.log("item", item);
                 // new row for every two items
                 if (index % 2 === 0) {
                     row = document.createElement('div');
