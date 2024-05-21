@@ -47,6 +47,33 @@ document.addEventListener('DOMContentLoaded', function() {
         })
         .catch(error => console.error('Error fetching data from backend:', error));
     });
+
+    document.getElementById('fetch-video-links').addEventListener('click', function() {
+        chrome.storage.local.get('videoId', function(result) {
+            console.log("Retrieved video id from local storage:", result.videoId);
+            const videoId = result.videoId;
+            if (videoId) {
+                fetch(`http://127.0.0.1:5000/api/video_links/${videoId}`, {
+                    method: 'GET'
+                })
+                .then(response => response.json())
+                .then(youtube_data => {
+                    console.log("Video links fetched from flask:", youtube_data);
+                    const videoLinksContainer = document.getElementById('video-links-result');
+                    if (youtube_data.links && youtube_data.links.length > 0) {
+                        videoLinksContainer.innerHTML = youtube_data.links.map(link => `<div>${link}</div>`).join('');
+                        displayData(youtube_data, videoLinksContainer);
+                    } else {
+                        videoLinksContainer.innerHTML = '<p>No links found for this video :(</p>';
+                    }
+                })
+                .catch(error => console.error("Error fetching video links:", error));
+            } else {
+                console.error("No video id found in local storage");
+                document.getElementById('video-links-result').innerHTML = '<p>No video ID found in local storage</p>';
+            }
+        });
+    });
 });
 
 function displayData(data, container) {
@@ -54,5 +81,8 @@ function displayData(data, container) {
     let row = null;
     data.forEach((item, index) => {
         console.log("item", item);
+    })
+    youtube_data.forEach((item, index) => {
+        console.log("item", item)
     })
 }

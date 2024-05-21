@@ -36,8 +36,9 @@
     },
     "content_scripts": [
       {
-        "matches": ["https://*.youtube.com/*"],
-        "js": ["content.js"]
+        "matches": ["*://*.youtube.com/*"],
+        "js": ["content.js"],
+        "run_at": "document_idle"
       }
     ],
     "content_security_policy": {
