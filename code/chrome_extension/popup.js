@@ -30,4 +30,29 @@ document.addEventListener('DOMContentLoaded', function() {
             itemsContainer.innerHTML = '<p>No items found with this link :(</p>';
         }
     });
+
+    document.getElementById('fetch-backend-data').addEventListener('click', function() {
+        fetch('http://127.0.0.1:5000/api/data', {
+            method: 'GET'
+        })
+        .then(response => response.json())
+        .then(data => {
+            console.log("Data fetched from Flask backend:", data);
+            const backendDataContainer = document.getElementById('backend-result');
+            if (data && data.length > 0) {
+                displayData(data, backendDataContainer);
+            } else {
+                backendDataContainer.innerHTML = '<p>No data retrieved from backend :(</p>';
+            }
+        })
+        .catch(error => console.error('Error fetching data from backend:', error));
+    });
 });
+
+function displayData(data, container) {
+    container.innerHTML = '';
+    let row = null;
+    data.forEach((item, index) => {
+        console.log("item", item);
+    })
+}
