@@ -23,9 +23,11 @@ def data():
 @app.route('/api/video_links/<video_id>', methods=['GET'])
 def get_video_links(video_id):
     keywords = ['haul', 'clothing', 'clothes', 'shop', 'shopping', 'try on', 'try-on',
-                'review', 'styling', 'outfit', 'wardrobe', 'capsule', 'style', 'purchase']
+                'review', 'styling', 'outfit', 'outfits', 'wardrobe', 'capsule', 'style',
+                'purchase', 'lookbook', 'essentials', 'staples']
     social_media_links = ['pinterest', 'youtube', 'youtu.be', 'twitter', 'instagram', 'tiktok',
-                          'reddit', 'twitch', 'facebook', 'thmatc', 'spotify', 'vinted', 'epidemicsound']
+                          'reddit', 'twitch', 'facebook', 'thmatc', 'spotify', 'vinted', 'epidemicsound',
+                          'linktr.ee', 'buymeacoffee', 'squarespace']
     
     # get data from youtube api via video id
     url = f'https://www.googleapis.com/youtube/v3/videos?part=snippet&id={video_id}&key={api_key}'

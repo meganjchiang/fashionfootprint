@@ -31,6 +31,46 @@ document.addEventListener('DOMContentLoaded', function() {
     //     }
     // });
 
+    // Function to update the video ID in the popup HTML
+    // function updateVideoId(videoId) {
+    //     const videoIdElement = document.getElementById('video-id');
+    //     if (videoIdElement) {
+    //         videoIdElement.innerText = `Video ID: ${videoId}`;
+    //     }
+    // }
+
+    // event listener for messages from the background script
+    chrome.runtime.onMessage.addListener(function(message, sender, sendResponse) {
+        if (message.videoId) {
+            // Update the UI with the new video ID
+            const videoId = message.videoId;
+            
+            // console.log("Received new video ID in popup:", videoId);
+            // updateVideoId(videoId);
+
+            // Fetch video links when the video ID is updated
+            fetchVideoLinks(videoId);
+        }
+    });
+
+    // fetch video links from the backend
+    function fetchVideoLinks(videoId) {
+        fetch(`http://127.0.0.1:5000/api/video_links/${videoId}`, {
+            method: 'GET'
+        })
+        .then(response => response.json())
+        .then(data => {
+            console.log("Video links fetched from Flask:", data);
+            const videoLinksContainer = document.getElementById('video-links-result');
+            if (data.links && data.links.length > 0) {
+                displayData(data.links, videoLinksContainer);
+            } else {
+                videoLinksContainer.innerHTML = '<p>No links found for this video :(</p>';
+            }
+        })
+        .catch(error => console.error("Error fetching video links:", error));
+    }
+
     document.getElementById('fetch-backend-data').addEventListener('click', function() {
         fetch('http://127.0.0.1:5000/api/data', {
             method: 'GET'
@@ -53,21 +93,22 @@ document.addEventListener('DOMContentLoaded', function() {
             console.log("Retrieved video id from local storage:", result.videoId);
             const videoId = result.videoId;
             if (videoId) {
-                fetch(`http://127.0.0.1:5000/api/video_links/${videoId}`, {
-                    method: 'GET'
-                })
-                .then(response => response.json())
-                .then(data => {
-                    console.log("Video links fetched from flask:", data);
-                    const videoLinksContainer = document.getElementById('video-links-result');
-                    if (data.links && data.links.length > 0) {
-                        // videoLinksContainer.innerHTML = youtube_data.links.map(link => `<div>${link}</div>`).join('');
-                        displayData(data, videoLinksContainer);
-                    } else {
-                        videoLinksContainer.innerHTML = '<p>No links found for this video :(</p>';
-                    }
-                })
-                .catch(error => console.error("Error fetching video links:", error));
+                fetchVideoLinks(videoId);
+                // fetch(`http://127.0.0.1:5000/api/video_links/${videoId}`, {
+                //     method: 'GET'
+                // })
+                // .then(response => response.json())
+                // .then(data => {
+                //     console.log("Video links fetched from flask:", data);
+                //     const videoLinksContainer = document.getElementById('video-links-result');
+                //     if (data.links && data.links.length > 0) {
+                //         // videoLinksContainer.innerHTML = youtube_data.links.map(link => `<div>${link}</div>`).join('');
+                //         displayData(data, videoLinksContainer);
+                //     } else {
+                //         videoLinksContainer.innerHTML = '<p>No links found for this video :(</p>';
+                //     }
+                // })
+                // .catch(error => console.error("Error fetching video links:", error));
             } else {
                 console.error("No video id found in local storage");
                 document.getElementById('video-links-result').innerHTML = '<p>No video ID found in local storage</p>';

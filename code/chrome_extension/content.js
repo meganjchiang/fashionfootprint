@@ -82,6 +82,10 @@ chrome.storage.local.set({ 'videoId': videoId }, function() {
     });
 });
 
+chrome.tabs.onUpdated.addListener(function(tabId, changeInfo, tab) {
+    alert('updated from contentscript');
+ });
+
 // send request to flask server
 // fetch(`http://127.0.0.1:5000/api/video_links/${videoId}`)
 //     // process response from flask - parse JSON response into JS object
