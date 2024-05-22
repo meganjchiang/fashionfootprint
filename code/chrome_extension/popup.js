@@ -57,12 +57,12 @@ document.addEventListener('DOMContentLoaded', function() {
                     method: 'GET'
                 })
                 .then(response => response.json())
-                .then(youtube_data => {
-                    console.log("Video links fetched from flask:", youtube_data);
+                .then(data => {
+                    console.log("Video links fetched from flask:", data);
                     const videoLinksContainer = document.getElementById('video-links-result');
-                    if (youtube_data.links && youtube_data.links.length > 0) {
-                        videoLinksContainer.innerHTML = youtube_data.links.map(link => `<div>${link}</div>`).join('');
-                        displayData(youtube_data, videoLinksContainer);
+                    if (data.links && data.links.length > 0) {
+                        // videoLinksContainer.innerHTML = youtube_data.links.map(link => `<div>${link}</div>`).join('');
+                        displayData(data, videoLinksContainer);
                     } else {
                         videoLinksContainer.innerHTML = '<p>No links found for this video :(</p>';
                     }
@@ -81,8 +81,5 @@ function displayData(data, container) {
     let row = null;
     data.forEach((item, index) => {
         console.log("item", item);
-    })
-    youtube_data.forEach((item, index) => {
-        console.log("item", item)
     })
 }

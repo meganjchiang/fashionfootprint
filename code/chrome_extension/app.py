@@ -22,9 +22,10 @@ def data():
 
 @app.route('/api/video_links/<video_id>', methods=['GET'])
 def get_video_links(video_id):
-    keywords = ['haul', 'clothing', 'clothes', 'shop', 'shopping', 'try on', 'try-on', 'review', 'styling']
-    social_media_links = ['pinterest', 'youtube', 'twitter', 'instagram', 'tiktok',
-                          'reddit', 'twitch', 'facebook', 'thmatc', 'spotify', 'vinted']
+    keywords = ['haul', 'clothing', 'clothes', 'shop', 'shopping', 'try on', 'try-on',
+                'review', 'styling', 'outfit', 'wardrobe', 'capsule', 'style', 'purchase']
+    social_media_links = ['pinterest', 'youtube', 'youtu.be', 'twitter', 'instagram', 'tiktok',
+                          'reddit', 'twitch', 'facebook', 'thmatc', 'spotify', 'vinted', 'epidemicsound']
     
     # get data from youtube api via video id
     url = f'https://www.googleapis.com/youtube/v3/videos?part=snippet&id={video_id}&key={api_key}'
@@ -40,14 +41,15 @@ def get_video_links(video_id):
         # extract links from description
         links = re.findall(r'(https?://\S+)', description)
 
+        title_og = video_details.get('title', '')
         # makes all titles lowercase so code can match on any version of title:
-        title = video_details.get('title', '').lower()
+        title_lower = title_og.lower()
 
         # filters based on fashion related keywords
-        if any(keyword in title for keyword in keywords):
+        if any(keyword in title_lower for keyword in keywords):
             # filters out social media links
             filtered_links = [link for link in links if not any(social in link for social in social_media_links)]
-            return jsonify({'video_id': video_id, 'links': filtered_links})
+            return jsonify({'title': title_og, 'video_id': video_id, 'links': filtered_links})
         else:
             return jsonify({'error': 'Not a fashion-related video'}), 404
     else:
