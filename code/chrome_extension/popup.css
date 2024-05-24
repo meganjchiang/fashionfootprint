@@ -1,15 +1,16 @@
 body {
-    font-family: 'Roboto', sans-serif;
-    background-color: #ABC4DD;
+    background-color: #CDDFF0;
     color: white;
-    font-weight: bold;
-    margin: 0;
-    padding: 0;
-    display: flex;
+    border: solid 1.8px;
+    border-color: #233A76;
+    /* font-weight: bold; */
+    /* margin: 0;
+    padding: 0; */
+    /* display: flex;
     justify-content: center;
-    align-items: center;
-    height: 100vh;
-    overflow: auto;
+    align-items: center; */
+    /* height: 100vh;
+    overflow: auto; */
 }
 
 .container {
