@@ -94,21 +94,6 @@ document.addEventListener('DOMContentLoaded', function() {
             const videoId = result.videoId;
             if (videoId) {
                 fetchVideoLinks(videoId);
-                // fetch(`http://127.0.0.1:5000/api/video_links/${videoId}`, {
-                //     method: 'GET'
-                // })
-                // .then(response => response.json())
-                // .then(data => {
-                //     console.log("Video links fetched from flask:", data);
-                //     const videoLinksContainer = document.getElementById('video-links-result');
-                //     if (data.links && data.links.length > 0) {
-                //         // videoLinksContainer.innerHTML = youtube_data.links.map(link => `<div>${link}</div>`).join('');
-                //         displayData(data, videoLinksContainer);
-                //     } else {
-                //         videoLinksContainer.innerHTML = '<p>No links found for this video :(</p>';
-                //     }
-                // })
-                // .catch(error => console.error("Error fetching video links:", error));
             } else {
                 console.error("No video id found in local storage");
                 document.getElementById('video-links-result').innerHTML = '<p>No video ID found in local storage</p>';
@@ -120,6 +105,28 @@ document.addEventListener('DOMContentLoaded', function() {
 function displayData(data, container) {
     container.innerHTML = '';
     let row = null;
+
+    // test getting brand ratings from JSON file (with Shein)
+    // get brand ratings from brand_ratings_only.JSON
+    fetch(chrome.runtime.getURL('data/brand_ratings_only.JSON'))
+    .then(response => response.json())
+    .then(ratingsData => {
+        // find the rating for the brand 'Shein' (case-insensitive)
+        const sheinRating = ratingsData.find(rating => rating.brand.toLowerCase() === 'shein');
+
+        // if a rating is found, display rating on extension
+        if (sheinRating) {
+            console.log(`SHEIN rating: ${sheinRating.avg_brand_rating}`);
+            // Update the UI with the rating
+            const ratingElement = document.createElement('div');
+            ratingElement.innerText = `SHEIN rating: ${sheinRating.avg_brand_rating}`;
+            container.appendChild(ratingElement);
+        } else {
+            console.log('No rating found for SHEIN');
+        }
+    })
+    .catch(error => console.error('Error fetching brand ratings:', error));
+
     data.forEach((item, index) => {
         console.log("item", item);
     })
