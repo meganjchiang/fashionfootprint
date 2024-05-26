@@ -1,0 +1,5310 @@
+[
+ {
+   "brand": "KNOWN SUPPLY",
+   "avg_brand_rating": 2.85
+ },
+ {
+   "brand": "AMENDI",
+   "avg_brand_rating": 3.23
+ },
+ {
+   "brand": "SANVT",
+   "avg_brand_rating": 1.7
+ },
+ {
+   "brand": "Patagonia",
+   "avg_brand_rating": 4.33
+ },
+ {
+   "brand": "Scotch & Soda",
+   "avg_brand_rating": 3.3
+ },
+ {
+   "brand": "KINdom",
+   "avg_brand_rating": 1.7
+ },
+ {
+   "brand": "Ecoalf",
+   "avg_brand_rating": 2.85
+ },
+ {
+   "brand": "Unspun",
+   "avg_brand_rating": 3.9
+ },
+ {
+   "brand": "Pangaia",
+   "avg_brand_rating": 3.77
+ },
+ {
+   "brand": "Po-Zu",
+   "avg_brand_rating": 2.85
+ },
+ {
+   "brand": "Taylor Stitch",
+   "avg_brand_rating": 3.15
+ },
+ {
+   "brand": "Selfmade",
+   "avg_brand_rating": 3.3
+ },
+ {
+   "brand": "Wolven",
+   "avg_brand_rating": 3.23
+ },
+ {
+   "brand": "People Tree",
+   "avg_brand_rating": 3.9
+ },
+ {
+   "brand": "DillySocks",
+   "avg_brand_rating": 3.23
+ },
+ {
+   "brand": "Thousand Fell",
+   "avg_brand_rating": 1.7
+ },
+ {
+   "brand": "The Good Tee",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Reprise",
+   "avg_brand_rating": 1.7
+ },
+ {
+   "brand": "CHNGE",
+   "avg_brand_rating": 3.77
+ },
+ {
+   "brand": "Pact",
+   "avg_brand_rating": 3.77
+ },
+ {
+   "brand": "Girlfriend Collective",
+   "avg_brand_rating": 3.77
+ },
+ {
+   "brand": "prAna",
+   "avg_brand_rating": 2.35
+ },
+ {
+   "brand": "Conscious Step",
+   "avg_brand_rating": 2.85
+ },
+ {
+   "brand": "NAADAM",
+   "avg_brand_rating": 2.35
+ },
+ {
+   "brand": "Save the Duck",
+   "avg_brand_rating": 3.15
+ },
+ {
+   "brand": "EDWIN",
+   "avg_brand_rating": 1.7
+ },
+ {
+   "brand": "Kozm",
+   "avg_brand_rating": 1.7
+ },
+ {
+   "brand": "Adelante Made-to-Order",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Coalatree",
+   "avg_brand_rating": 3.15
+ },
+ {
+   "brand": "The Classic T-Shirt Company",
+   "avg_brand_rating": 2.85
+ },
+ {
+   "brand": "SOKO",
+   "avg_brand_rating": 3.3
+ },
+ {
+   "brand": "Frankie Collective",
+   "avg_brand_rating": 2.85
+ },
+ {
+   "brand": "Brilliant Earth",
+   "avg_brand_rating": 1.7
+ },
+ {
+   "brand": "Whimsy + Row",
+   "avg_brand_rating": 3.77
+ },
+ {
+   "brand": "Triarchy",
+   "avg_brand_rating": 4.43
+ },
+ {
+   "brand": "Ecologyst",
+   "avg_brand_rating": 3.3
+ },
+ {
+   "brand": "Astor & Orion",
+   "avg_brand_rating": 1.7
+ },
+ {
+   "brand": "Reformation",
+   "avg_brand_rating": 3.23
+ },
+ {
+   "brand": "Nisolo",
+   "avg_brand_rating": 2.85
+ },
+ {
+   "brand": "Colorful Standard",
+   "avg_brand_rating": 3.77
+ },
+ {
+   "brand": "GOEX Apparel",
+   "avg_brand_rating": 1.7
+ },
+ {
+   "brand": "Beckett Simonon",
+   "avg_brand_rating": 3.3
+ },
+ {
+   "brand": "ADIFF",
+   "avg_brand_rating": 3.3
+ },
+ {
+   "brand": "Filippa K",
+   "avg_brand_rating": 1.7
+ },
+ {
+   "brand": "Kuyichi Pure Goods",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Parker Clay",
+   "avg_brand_rating": 2.85
+ },
+ {
+   "brand": "Dedicated",
+   "avg_brand_rating": 3.9
+ },
+ {
+   "brand": "AlterX Co.",
+   "avg_brand_rating": 3.3
+ },
+ {
+   "brand": "BAM Bamboo Clothing",
+   "avg_brand_rating": 2.85
+ },
+ {
+   "brand": "culthread",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Koio",
+   "avg_brand_rating": 2.35
+ },
+ {
+   "brand": "Tentree",
+   "avg_brand_rating": 3.77
+ },
+ {
+   "brand": "Kotn",
+   "avg_brand_rating": 3.77
+ },
+ {
+   "brand": "Zero Waste Daniel",
+   "avg_brand_rating": 4.33
+ },
+ {
+   "brand": "Ninety Percent",
+   "avg_brand_rating": 3.77
+ },
+ {
+   "brand": "Cotopaxi",
+   "avg_brand_rating": 3.23
+ },
+ {
+   "brand": "ETRE Organic Underwear",
+   "avg_brand_rating": 1.7
+ },
+ {
+   "brand": "Boyish Jeans",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "United by Blue",
+   "avg_brand_rating": 2.85
+ },
+ {
+   "brand": "Nudie Jeans",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Organic Basics",
+   "avg_brand_rating": 3.9
+ },
+ {
+   "brand": "Suit Supply",
+   "avg_brand_rating": 3.3
+ },
+ {
+   "brand": "Frank & Oak",
+   "avg_brand_rating": 1.7
+ },
+ {
+   "brand": "ISTO",
+   "avg_brand_rating": 2.85
+ },
+ {
+   "brand": "Subset",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "MATE the Label",
+   "avg_brand_rating": 3.77
+ },
+ {
+   "brand": "Iron Roots",
+   "avg_brand_rating": 3.9
+ },
+ {
+   "brand": "Warby Parker",
+   "avg_brand_rating": 1.7
+ },
+ {
+   "brand": "Finisterre",
+   "avg_brand_rating": 3.23
+ },
+ {
+   "brand": "Fite Fashion",
+   "avg_brand_rating": 1.7
+ },
+ {
+   "brand": "Icebreaker",
+   "avg_brand_rating": 2.57
+ },
+ {
+   "brand": "MUD Jeans",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Arvin Goods",
+   "avg_brand_rating": 1.7
+ },
+ {
+   "brand": "Toad&Co",
+   "avg_brand_rating": 3.65
+ },
+ {
+   "brand": "Voyce Threads",
+   "avg_brand_rating": 1.7
+ },
+ {
+   "brand": "Ten Thousand Villages",
+   "avg_brand_rating": 1.7
+ },
+ {
+   "brand": "Groceries Apparel",
+   "avg_brand_rating": 2.85
+ },
+ {
+   "brand": "OSOM",
+   "avg_brand_rating": 1.7
+ },
+ {
+   "brand": "No Nasties",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "8000Kicks",
+   "avg_brand_rating": 1.7
+ },
+ {
+   "brand": "Ministry of Supply",
+   "avg_brand_rating": 2.85
+ },
+ {
+   "brand": "Topiku",
+   "avg_brand_rating": 3.3
+ },
+ {
+   "brand": "Liila",
+   "avg_brand_rating": 1.7
+ },
+ {
+   "brand": "Up-fuse",
+   "avg_brand_rating": 4.5
+ },
+ {
+   "brand": "Outerknown",
+   "avg_brand_rating": 4.33
+ },
+ {
+   "brand": "Etiko",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Hernest Project",
+   "avg_brand_rating": 3.23
+ },
+ {
+   "brand": "PANAFRICA",
+   "avg_brand_rating": 2.85
+ },
+ {
+   "brand": "Teemill",
+   "avg_brand_rating": 3.35
+ },
+ {
+   "brand": "Veja",
+   "avg_brand_rating": 2.85
+ },
+ {
+   "brand": "Lucy & Yak",
+   "avg_brand_rating": 4.33
+ },
+ {
+   "brand": "Marimekko",
+   "avg_brand_rating": 1.7
+ },
+ {
+   "brand": "Asket",
+   "avg_brand_rating": 3.23
+ },
+ {
+   "brand": "Burning Heart",
+   "avg_brand_rating": 3.3
+ },
+ {
+   "brand": "Vustra",
+   "avg_brand_rating": 1.7
+ },
+ {
+   "brand": "Rozenbroek",
+   "avg_brand_rating": 3.57
+ },
+ {
+   "brand": "ARMEDANGELS",
+   "avg_brand_rating": 3.9
+ },
+ {
+   "brand": "TAMGA",
+   "avg_brand_rating": 3.3
+ },
+ {
+   "brand": "Outland Denim",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Kowtow",
+   "avg_brand_rating": 3.77
+ },
+ {
+   "brand": "Stella McCartney",
+   "avg_brand_rating": 3.23
+ },
+ {
+   "brand": "Indigenous",
+   "avg_brand_rating": 3.65
+ },
+ {
+   "brand": "AARVEN",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "A A K S",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Aestethic London",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "A-dam",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Adele Dejak",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Absolutely Bear",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Adarche Clothing",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "A.BCH",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "AFROBLONDE",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "(di)vision",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "ACBC",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "A. ROEGE HOVE",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "A_C",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "AEANCE",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "AERA",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Adidas",
+   "avg_brand_rating": 2.5
+ },
+ {
+   "brand": "About Companions",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "A Happy Brand",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Les Sublimes",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "[eyd]",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "7PLIS",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "A Natural Connection",
+   "avg_brand_rating": 3.5
+ },
+ {
+   "brand": "337 BRAND",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "AGMES",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Adelaide C. Ecoage",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Afends",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "1 People",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "4Kinship",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Adidas by Stella McCartney",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "ABLE",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Aiayu",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Alder",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "amaud",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Amber Days",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Aks",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Ales Grey",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "ALMOST THERE",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Akola",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "AKOIASWIM",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Altar",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Amber Goes Green",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Allmade",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Altra",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Alighieri",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Ana Luisa",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Amble Outdoors",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "amt.",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Alchemy Goods",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Amour Vert",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Akala",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Alkemie",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "All Blues",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "ALEEM YUSUF",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "All The Wild Roses",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Ambiletics",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "ALTER X Company",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Amadeus",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Alchemist",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "allthingsfi",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "ANTTI",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Apple Oak Fibre Works",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "ANINI",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Arc’teryx",
+   "avg_brand_rating": 2.5
+ },
+ {
+   "brand": "Araks",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Anne Hermine",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Art’Abaska",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Ansea",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Artichoke",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "ARIELLE",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Anthea Crawford",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Antiform",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "AndAll",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Arnsdorf",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Anabela Chan",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Andorine",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Another Tomorrow",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "arch4",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Arrels Barcelona",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Annie Hamilton",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Antonello Tedde",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Anchal",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "ARTICLE22",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Après Studio",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Artknit Studios",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Andersen-Andersen",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Anekdot",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Angels Ambition",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Anywhere",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Ay",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "AuTerra",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "B.L.A.H.",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Aventura",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "BAGGU",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Avila",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Bandsome",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Aware…the social design project",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Aster & Oak",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Automic Gold",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "autark",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Ayten Gasson",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "BASTET NOIR",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "B_Boheme",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Athleta",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Avani",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Atelier Lavoisier",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Bario Neal",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "B Sides",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "AVNIER",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Baserange",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "ASK SCANDINAVIA",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Balenciaga",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "BALL",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Bam Loves Boo",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Band of Rascals",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Baiia",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Auria Paris",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "bleed",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Bhumi",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Bibico",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "BAYTHE",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Beaumont Organic",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Bellerose",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Billi London",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "BEEN London",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Blonde Gone Rogue",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "BeeKeeper Parade",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Biehler",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "BEDI",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Becci Boo’s Custom Shoes",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "BITE",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Batoko",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "BeezyMama",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Biankina",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Blanche",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Bianca Spender",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Bleue Burnham",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Batch 1 UK",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Bethany Williams",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Baukjen",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "behno",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Better World Fashion",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Beyond Skin",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Beulah",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Blue Of A Kind",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Bilboa",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Birdsong",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Bozena Jankowska",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "BUFF",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "blufruit",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "bogdar",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Brothers We Stand",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "BoBo GloBal",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Bougainvillea London",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "BOTTLETOP",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Bolso",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Botto Giuseppe",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Boob",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Brava Fabrics",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Boody",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "BRING",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "BONDI BORN",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Blutsgeschwister",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Bunti",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Burgeon Outdoor",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Bonito",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Bow&Bo",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Blue Wren Collective",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Boucheron",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Boll & Branch",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Bobo Choses",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Boma",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "BOA Basics",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Bon Label",
+   "avg_brand_rating": 4.5
+ },
+ {
+   "brand": "Bower",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Bluebuck",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Boyish",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Chelsea Bravo",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Charli Cohen",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "CARCEL",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "By Walid",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Casa Raki",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Chillax",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "BYBBA",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Charlee Swim",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Camp Cove Swim",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Capodimonti Cashmere",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Chick Lane",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Cagey’s Planet",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "CAFIN",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Burton",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Calle Del Mar",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "CARPASUS",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Chic Made Consciously",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Casco Totes",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "CASUPO",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Burnt Soul",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "CARIUMA",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "CARE BY ME",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Caftanii",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "BUSHY",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "CasaGIN",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Carlie Ballard",
+   "avg_brand_rating": 4.5
+ },
+ {
+   "brand": "Charlie Mae Swimwear",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Catarina Mina",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Carmina Campus",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "CAES",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Classic Cotton Co",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Converse",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Circle Sportswear",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "COG",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "CHPO",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "ColieCo",
+   "avg_brand_rating": 4.5
+ },
+ {
+   "brand": "Club Chainstitch",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Christy Dawn",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Chopova Lowena",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Citizen Wolf",
+   "avg_brand_rating": 4.5
+ },
+ {
+   "brand": "Coco & Kandy",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "CLOUDY",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Coolawoola",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Colorado Threads",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Cleobella",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Corkor",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Come Back As A Flower",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Contessa Volpi",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Ciganka – Artforms from Nature",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Clubhouse Vintage",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Conscious the label",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "COSSAC",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Continew",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Cingomma",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Coq en Pâte",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Circos",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "DAWN Denim",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Coyuchi",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Dai",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Crystalyn Kae",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Cus",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Diemonde",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Dharma Bums",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Deadwood",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Deux Mains",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Cuisse de Grenouille",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Day Won",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Desert Dyes",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Desmond & Dempsey",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Dickies",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Destination Dress",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Dear Denier",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "D&DEPARTMENT",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Delayne Dixon",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Designers Remix",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Dilli Grey",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Cousin Billie",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Dazey LA",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Dear Darling Berlin",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Dapper Alice",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "DAYWEARLAB",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Delikate Rayne",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "éclipse",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Ekta Helsinki",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Earth Divas",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Dimples",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Dots On Tots",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Edwin USA",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Ecoology",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Edeline Lee",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Dirty Velvet",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Ecologie by AWDis",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Eco Intimates",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Dora Larsen",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Dorsu",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "EcoRight",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Dreamers & Drifters",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "econscious",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Donatella Fabio Beachwear",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Dominique Healy",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "DuchXFashion",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "E.L.V. Denim",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Dressarte Paris",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Drivemebikini",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Divine",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "dk active",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Eileen Fisher",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "ecuvo",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "DÔEN",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Eguzkilore",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Dresden",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "émoi émoi",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Endless Joy",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "ÉTICA",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "ETQ",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Ethletic",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Elkline",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Fabrik",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "EllA Fashion",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "ENDANGERED",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "eleven44",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Enfant Terrible",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Erin Draper",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Elk",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Erba",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Elsien Gringhuis",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Enter the E",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Elizabeth Suzann Studio",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "ettitude",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Elliss",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Elle Evans",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Escama Studio",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Engel",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Encircled",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Elvis & Kresse",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "El Naturalista",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Ella & Witt",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "erlich textil",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Elegantees",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Everpress",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Flamingos’ Life",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Florence Given",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Fresh Cuts Clothing",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "FM 669",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Flare Street",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Fair Harbor",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "FUTURA Jewelry",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Floris van Bommel",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Fayettechill",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Free Label",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "FREED",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Finn + Emma",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "FRANC",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "For Love and Lemons",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Flax and Loom",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Frugi",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "fairechild",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Faithfull the Brand",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Forét",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "FIL MELANGE",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Fjällräven",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Fair Indigo",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "FTC Cashmere",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "FTLA Apparel",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Fanfare",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "FREITAG",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Farm to Hanger",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Flowfold",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Galamaar",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Gaia Segattini Knotwear",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Good Guys",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Gergana Ivanova",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Good Citizens Eyewear",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "GAI+LISVA",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Goddess Gear",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Goat Organic Apparel",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Glass Onion",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Good for Sunday",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Go Gently Nation",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "go as u.r",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "GR10K",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "GOT BAG",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Granelito",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "goodtrip",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Gina Marie Handbags",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Gaia Conceptions",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "GARY MASH",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Greenpacha",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Garçon Français",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Gazur",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Graceful District",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "GOODEE",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Gray Label",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "GRAMMAR",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "General Sleep",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "goodsociety",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Greenfibres",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "HarperSage",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "HNST",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "GROUNDTRUTH",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Hackwith Design House",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Heiko",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Hindbag",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Happy Earth Apparel",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "HARA the label",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "harly jae",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Haglöfs",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Greg Lauren",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "GuterStoff",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Hailey Gerrits",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Gunda Hafner",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Harriet Morris",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Holly Ryan",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Gugguu",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "HOCOSA",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Hemen Biarritz",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "HERTH",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Gung Ho Design",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "GUNAS",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "haikure",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Grounded People",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Harvest & Mill",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Herdentier",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Grüne Erde",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Gyre",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "J. Hannah",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Honest Basics",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "I was a Sari",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "HYER GOODS",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Infantium Victoria",
+   "avg_brand_rating": 4.5
+ },
+ {
+   "brand": "Hoppidi Handmade",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Jack Wolfskin",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Houdini",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "I’mdividual",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Indego Africa",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Hopaal",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Isla In Bloom",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "INGMARSON",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Icebug",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "HoMie",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Ilk + Ernie",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "ID.EIGHT",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "ilovemixtapes",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Hopeless Lingerie",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "iQ UV",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "INTOA design",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Jackalo",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Indiebride",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "In2Green",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "In The Soulshine",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Horizon Athletic",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "JammaCaps",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Johnstons of Elgin",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Katla",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "JOYN",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Jaffic",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Kampos",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Jyoti – Fair Works",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "JEM",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Jamido",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "JENNIFER BEHR",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Jackfruit the label",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "KAY KONECNA STUDIO",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "KATTAN",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "KasuReKids",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Jamie + The Jones",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "JAN ‘N JUNE",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Junk Studios",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "KAPOK KNOT",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Joanie",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Joslin",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Joyya",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Jenny Yoo",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Katharine Hamnett",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Juwelier Willer",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Jillian Boustred",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Josette la Chouette",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Kapten & Son",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Just Bee Queen",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Kalaurie",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Jungle Folk",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Knock Knock",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "KIDSOFBROKENFUTURE",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Kimoa",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Kilomet109",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Kings of Indigo",
+   "avg_brand_rating": 4.5
+ },
+ {
+   "brand": "Konges Sløjd",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Komodo",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "KENT",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "KORALI",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "KOHR",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Kozii Swimwear",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "KnowledgeCotton Apparel",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "KIDS WORLDWIDE",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Kuyichi",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Krochet Kids",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Kitikate",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "KIZASI",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Kuwaii",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "KOKOworld",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "kekai Swimwear",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Kiku Boutique",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Klättermusen",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Knickey",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Know The Origin",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Kordal Studio",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Kimai",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Leanne Marshall",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "LAmade Clothing",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Lâcher Prise",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "LaBante",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "lemlem",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Labienhecha",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "la fille d’O",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Laura Lombardi",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "L’Estrange London",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "L’Envers",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Lefrik",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "LAUDAE",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "LA Relaxed",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "LDP",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Lauren Holloway",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "La Methode",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Laura Elizabeth Jewelry",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Lapuan Kankurit",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Kysal",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Lando Studio",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "lana",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Leisure Lab",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Leni Swims",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "LangerChen",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "LANIUS",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Kzeniya",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "les boutons",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "La Bottega di Brunella",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Lazy Oaf",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Le Loopas",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Linenfox",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Licia Florio",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Losano",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Lost in Paris",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Libeco",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Little Emperor",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Linen Wedding Dress",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Lionel the Label",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Les Récupérables",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Little Man Happy",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Londre Bodywear",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Lola & Stella",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Liv:ra",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Living Crafts",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "LONGEVITY LONDON",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Löffler",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "loud + proud",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "London W11",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Little Green Radicals",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "LNDR",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Lilian von Trapp",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Little Nature Lover",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Looptworks",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Lilac Limited Crochet",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Linenbee",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Lonely Kids Club",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Loop Swim",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "LOCI",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Lezat",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "LOCAL EUROPEAN",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Magenta Threads",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Louisa Parris",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Love and Confuse",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Madia & Matilda",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "MANDALA",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "LUNGE",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "LOUDBODIES",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "LOVJOI",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Mara Hoffman",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Make An Impact",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "LoveLux",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Maggie Marilyn",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Mario Doni",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "LUNA & ROSE",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Luva Huva",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Magpie Goose",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Lusana",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Mama;licious",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "LOVE BRAND & Co",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Luxtra",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Mantis World",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Marks & Spencer",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Luna + Sun",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Mariclaro",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Manimekala",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "MagicLinen",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Loyal E. Paris",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Marcia",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Malaika New York",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "MIMIKRI",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Maxomorra",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "MIAOU",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Merry People",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Mila.Vert",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Melissa Joy Manning",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Megan Leone Designs",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Mashu",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "MiiK",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Miga Swimwear",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Meemoza",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "MATONA",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Miakoda",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Martina Spetlova",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "milo+nicki",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Mien",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Mighty Good Basics",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Mayamiko",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Marlies Dekkers",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Mightly",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Mars Loves Her",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Materiel",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Martha Medeiros",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "MELAWEAR",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Milkweed Baby",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Maya Magal",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Mata Traders",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Mimi Holvast",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Mimi Prober",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Miss Rose Sister Violet",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Molo",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Mirasa Design",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Most Prominent Co.",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "MINI A TURE",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Monkee Genes",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Mnmur",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Minimalist",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Morgan Lane",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Muchachomalo",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "mmb by hand",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Modibodi",
+   "avg_brand_rating": 3.5
+ },
+ {
+   "brand": "Mini Rodini",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "MIUSA",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Modallica",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Mworks",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "MinimalisticLinen",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "MONKIND",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Monica Vinader",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Mumutane",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "mori",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "MISSING",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Mother of Pearl",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Moumout",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Monsoon Blooms",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Mochi",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Mireia Playà",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Monica + Andy",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Nat-2",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Nightswim",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Näz",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "NDX",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Natalie Perry",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Naja",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "NICO",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Natalija",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "NIKIN",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Nimble",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "NiciArt",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "NAGNATA",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "NAGO",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Napapijri",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Natasha Tonic",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "MYMARINI",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Natalie Marie Jewellery",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "NAE Vegan Shoes",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Neococo",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Myrrhia Fine Knitwear",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Neem",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "nat’v basics",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Natalie Rolt",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Nike",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Nina Nest",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Natascha von Hirschhausen",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Mykke Hoffmann",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Nena & Co.",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Neu Nomads",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Nina Rein",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Noani",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Noctu",
+   "avg_brand_rating": 4.5
+ },
+ {
+   "brand": "Nui Organics",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Nomadic State of Mind",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "O My Bag",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "nu-in",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Nobody Denim",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Niovi Organics",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "NoMiNoU",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Nu Swim",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Norden",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Noumenon",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Nothing New",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Normal Knit",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "NOT OURS",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Nisa",
+   "avg_brand_rating": 4.5
+ },
+ {
+   "brand": "NINA YUUN",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "nobodinoz",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Non",
+   "avg_brand_rating": 4.5
+ },
+ {
+   "brand": "Nurture The Nest",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Nomads Clothing",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Nube",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "NOAH",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Not Just Pajama",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Nubikk",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Ognx",
+   "avg_brand_rating": 3.5
+ },
+ {
+   "brand": "Olmsted Outerwear",
+   "avg_brand_rating": 4.5
+ },
+ {
+   "brand": "Oobi",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Ōshadi",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "OffOn",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Orbasics",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Origin",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Oy",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "One Vintage",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "OVS",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Olistic the Label",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Organic Crew",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Organique",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Olderbrother",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Okabashi",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Orit Elhanati",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Original Weekend",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "OMNES",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Otiumberg",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Offbeat Sweetie",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Oddish",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "OhSevenDays",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Ohoy Swim",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "O.T.A",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Opera Campi",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Osei-Duro",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Olga Joan",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Paparesta Accessories",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Patrick McDowell",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Pecegueiro & F.os",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Phoebe English",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Par Moi",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Parva Studios",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Petits Vilains",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "peony",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Passion Lilie",
+   "avg_brand_rating": 4.5
+ },
+ {
+   "brand": "Petit Pli",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Parade",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Panamuna Project",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "PaaPii Design",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Park & Fifth Clothing Co",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "PETERSON STOOP",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Peninsula Swimwear",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Palava",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Phyne",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Philine of San Francisco",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Pareto",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "PH5",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Pala Eyewear",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Pansy",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Pantee",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Pop My Way",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Plant Faced Clothing",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Pure Magnolia",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Proclaim",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Piccalilly",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Pressio",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Prairie Underground",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Pig and Hen",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "PSYLO",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Pico",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Protean London",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Piña",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Puffin Gear",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Poppie the Label",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Pitupi",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "pinqponq",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "PLASTICITY",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "PLAYFÜL",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "POPLINEN",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Prota Fiori",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "PRISTINE",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Pippa Holt",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Pleatsmama",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Printfresh",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Prim Stargazer",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Puma",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Pure Apparel",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Polly Wales",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Picture",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Pure Pod",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "ReCreate",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Reflexone",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Recycledbags.Co",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Real Deal Brazil",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "RÄTHEL & WOLF",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Purnama",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "RE-BELLO",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Purusha People",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "recolution",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Redrew",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Redwood Classics Apparel",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Rentrayage",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "PYUA",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Quazi Design",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Rains",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "RÆBURN",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "RESAP Paris",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Q for Quinn",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "RAANI the label",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Rapanui",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "QWSTION",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Rave Review",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "REEF",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "REER3",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Qeelin",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Pyrrha",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Raven + Lily",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Quincy Mae",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "S A Y A",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "RŪPAHAUS",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "RVDK",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Salewa",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Saana ja Olli",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Rive Droite",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Roberts Wood",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Salomon",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Safal Kids",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "RESTYLE",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "ROSE + REGGIE",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Sage Larock",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "ReUsefulThingsStudio",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "RESIDUS",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Ruhe",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Saalt",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Riley Studio",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Rokit Vintage",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Saint Basics",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Salt Gypsy",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Rotholz",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Rice & Carry",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Rodebjer",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Rifò",
+   "avg_brand_rating": 4.5
+ },
+ {
+   "brand": "Rumpl",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "S Threads Boutique",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Sagebrush Surf Bags",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Rowan Grey",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Rudy Jude",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Santos by Monica",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Samuji",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Sardine Clothing Company",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Self Cinema",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Señorita LEMONIEZ",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "SEP",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Seea",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "SAYE",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "SeamsFriendly",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "SEEKER",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Sami Miro Vintage",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Sauths",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Sarah Sue Design",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Sealand",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Sancho’s",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Sense Organics",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "SEPTEMBER",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Seek Collective",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Seek Dry Goods",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Salty Swimwear",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Sasta",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Sand Snow Linen",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Seegarn",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "SANIKAI",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Sans Beast",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Seventy + Mochi",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Savannah Morrow The Label",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "SANTICLER",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Sandqvist",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Solstice Kids",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Shola Branson",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Social Catalysts",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Smalls Merino",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Sotela",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Softandwet",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "SKFK",
+   "avg_brand_rating": 4.5
+ },
+ {
+   "brand": "Silou",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Sinerji",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "simply grey",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "SHIBUI",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "sisam",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "SLVRLAKE",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Sorella Organics",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "sherris",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Shakti.ism",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "societywild",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Smycka",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Soleil Soleil",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "SNAP",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Sevya",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Sister Organics",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "soleRebels",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Slow Stitch Studio",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "SILENT WAVE INDIGO",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Son of a Tailor",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Skall Studio",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "SO-LE Studio",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "SilkGenie",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Solosix",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "STORY mfg.",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "SPELL",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "TAMGA Designs",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Stay Wild",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Tattered Eden",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Sylven New York",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Souldaze",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "SÜK Workwear",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Sun50",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "SUI",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "SukkhaCitta",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Stature",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Soul Flower",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Tasi Travels",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Studio Courtenay",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Swedish Stockings",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Stephen Webster",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Souple Luz",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Svala",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "TALA",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Tatti Chic",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Talia Collins",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Swim Against",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Symbology",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "STANLEY/STELLA",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Studio 189",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Superstainable",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Sustain by Kat",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "The Anjelms Project",
+   "avg_brand_rating": 4.5
+ },
+ {
+   "brand": "The Blue Rabbit House",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "The Common Good Company",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "The Ethical Silk Company",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "TERAS",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "The Artful Mitten",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Ternua",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "The Boy&I",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "The Campamento",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "The Kozm",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "TAUKO",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Thaely",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Terra Dea",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Tetiana K",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Teatum Jones",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Terra Thread",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "The Level Collective",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "The Crafty Bird",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "The Knotty Ones",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "The bonnie mob",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "tehadesigns",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "The Blue Suit",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Tekla",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Teva",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Tiger Prints",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "The Recycled Planet",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Théla",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "The White Briefs",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "The Rushing Hour",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Thunderpants USA",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "The R Collective",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Thesus",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "The Standard Stitch",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "This is Unfolded",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "The Maker Collection",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "THE MORPHBAG BY GSK",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Threads 4 Thought",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "The Moonrise Project",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "THEA WITH LOVE",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "The Social Outfit",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Thunderpants NZ",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "The Very Good Bra",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "The Social Studio",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "The Spotted Quoll Studio",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "ThokkThokk",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "The SUSS Edit",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "The Summer House",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "The White Ribbon",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "The North Face",
+   "avg_brand_rating": 3.5
+ },
+ {
+   "brand": "Thought",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Thief&Bandit",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "The Tiny Closet",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Thinking MU",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Think Big Little People",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Toby Tiger",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Tultex",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Tzoma",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Tiny Twig",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Tivoli",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Two Sparrow Australia",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Treekid",
+   "avg_brand_rating": 4.5
+ },
+ {
+   "brand": "Tuckerman & Co",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "True Tribe",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Timberland",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Tree of Life",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Touch Me Not",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Twofold Clothing",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "TWOTHIRDS",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Toit Volant",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Tomorrow Denim",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Tommy & Lottie",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Tri Colour Federation",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Tortoise The Label",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Tropicfeel",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Two Little Beans & Co",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Tomo & Edie",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "TRENDY STREET",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Titania Inglis",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Turtledove London",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Tripulse",
+   "avg_brand_rating": 4.5
+ },
+ {
+   "brand": "U-MASK",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Tread & Butter",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Under The Nile",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "VATTER",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Variety Hour",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Unrecorded",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Ulalü",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "UndeadMagpie",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Untouched World",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Ucon Acrobatics",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "VAUDE",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Velocio",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Underprotection",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Velvet Heartbeat",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Uskees",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "VENIM",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Vernisse",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Unrobe",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Vanina",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "VegasRabbitClothing",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "UNOA",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "US Blanks",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "VEERAH",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Vege Threads",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Untold Jewellery",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Ukiyo",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Unbelts",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Vesica Piscis",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Will’s Vegan Store",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Wear Your Love",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "VRAI",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Virón",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "WAMA",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Vild House of Little",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "WE-AR4",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "von Holzhausen",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "wayre",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Wemoto",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Vietopia",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Wellicious",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Vitamin A",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Wild Country",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "WAWWA",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "WALD Berlin",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "WalkinThroughFlowers",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "West Activewear",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "village thrive",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "VYAYAMA",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "VOIT",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Wildflo Studio",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Wildling",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Vigo Swim",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Viverano",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "WeAreNativ",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Wilson and Frenchy",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Where Does It Come From?",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "WACCOWACCO",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "ZUZU & CO",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "WUF KIDS",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Yuki Threads",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "WWAKE",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "wunderwerk",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "宝島染工 / Takarajima Senkou",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "XZOUIX",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Yes And",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Yes Friends",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Yanawara",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "YU STEPANEL",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Zazi",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Zuri",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Wuxly Movement",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Wolf and Zephyr",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Windsor Lane",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Woron",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Zulu & Zephyr",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Wires",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Wyatt and Jack",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Zilver",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Y.O.U Underwear",
+   "avg_brand_rating": 5
+ },
+ {
+   "brand": "Womsh",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Winter Water Factory",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "YoRo Naturals",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Wouf",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "ZEROBARRACENTO",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "World Of Crow",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "石徹白洋品店 / Itoshiro Yohinten",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Princess Polly",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Brandy Melville",
+   "avg_brand_rating": 1
+ },
+ {
+   "brand": "Shein",
+   "avg_brand_rating": 1
+ },
+ {
+   "brand": "Abercrombie & Fitch",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Amazon",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "ASOS",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Forever 21",
+   "avg_brand_rating": 1
+ },
+ {
+   "brand": "American Eagle",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Alo",
+   "avg_brand_rating": 1
+ },
+ {
+   "brand": "Acne Studios",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Alice + Olivia",
+   "avg_brand_rating": 1
+ },
+ {
+   "brand": "Sandy Liang",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Billabong",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Aritzia",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Uniqlo",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Area",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Bottega Veneta",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Brooks Brothers",
+   "avg_brand_rating": 1
+ },
+ {
+   "brand": "Burberry",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Chanel",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Coach",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Fendi",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Gucci",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Hermes",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Louis Vuitton",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Prada",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Ralph Lauren",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Saint Laurent",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Telfar",
+   "avg_brand_rating": 1
+ },
+ {
+   "brand": "The Row",
+   "avg_brand_rating": 1
+ },
+ {
+   "brand": "Theory",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Tom Ford",
+   "avg_brand_rating": 1
+ },
+ {
+   "brand": "Tory Burch",
+   "avg_brand_rating": 1
+ },
+ {
+   "brand": "Valentino",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "7 For All Mankind",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Banana Republic",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Boden",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Buck Mason",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Calvin Klein",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Carhartt",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Columbia",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Djerf Avenue",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Doen",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Edikted",
+   "avg_brand_rating": 1
+ },
+ {
+   "brand": "Everlane",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Frankies Bikinis",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Good American",
+   "avg_brand_rating": 1
+ },
+ {
+   "brand": "House of Sunny",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "J.Crew",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Levi's",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Madewell",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Quince",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "RE/DONE",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Réalisation Par",
+   "avg_brand_rating": 1
+ },
+ {
+   "brand": "REI",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Sezane",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Summersalt",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Tommy Hilfiger",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "True Religion",
+   "avg_brand_rating": 1
+ },
+ {
+   "brand": "Wrangler",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Aeropostale",
+   "avg_brand_rating": 1
+ },
+ {
+   "brand": "Boohoo",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Cider",
+   "avg_brand_rating": 1
+ },
+ {
+   "brand": "Fashion Nova",
+   "avg_brand_rating": 1
+ },
+ {
+   "brand": "GUESS",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Hollister",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Hot Topic",
+   "avg_brand_rating": 1
+ },
+ {
+   "brand": "House of CB",
+   "avg_brand_rating": 1
+ },
+ {
+   "brand": "Mango",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Missguided",
+   "avg_brand_rating": 1
+ },
+ {
+   "brand": "Nasty Gal",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "PacSun",
+   "avg_brand_rating": 1
+ },
+ {
+   "brand": "PrettyLittleThing",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Primark",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Romwe",
+   "avg_brand_rating": 1
+ },
+ {
+   "brand": "Temu",
+   "avg_brand_rating": 1
+ },
+ {
+   "brand": "Topshop",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Torrid",
+   "avg_brand_rating": 1
+ },
+ {
+   "brand": "Under Armour",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Victoria's Secret",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Yesstyle",
+   "avg_brand_rating": 1
+ },
+ {
+   "brand": "Ann Taylor",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Aerie",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Garage",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Pink",
+   "avg_brand_rating": 2
+ },
+ {
+   "brand": "Esprit",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "LOVETRUST",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Yoga Democracy",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "京和晒綿紗 / kyowazarashi mensha",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Holzweiler",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Isadore Apparel",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Kathmandu",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Peak Performance",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "MORI",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "BJ’s PJ’s",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Owlivia",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "MARUPE LINEN HOUSE",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Fruit of the Loom",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Maya Eco",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Silq Rose",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Mummelito",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Geggamoja",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Rock On Ruby",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "menique",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Dagsmejan",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Loom",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "The Madison Collection",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Y-3",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Le Slip Français",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "UGG",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Lelasilk",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Merino Kids",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "LesJour!",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Setup",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Eco Tee Co",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Hēdoïne",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Organically",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Le Gramme",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Derbe",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Accel Lifestyle",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Smartwool",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "WAXON",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "GU",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Bedhead Pajamas",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Wallace Cotton",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "MANOLA",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Kat The Label",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Earth Baby Outfitters",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "GILDA & PEARL",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Maylyn & Co.",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "les girls les boys",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "CDLP",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "MORALFIBRE",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "DUE.",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Loulou Lollipop",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Barta Jeans",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "Viktoria and Woods",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Royal Apparel",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "MPG Sport",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "From The Heart",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "BELLA+CANVAS",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Polarn O. Pyret",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Hamilton and Hare",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Xiao Wang",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Message Factory",
+   "avg_brand_rating": 4
+ },
+ {
+   "brand": "We Are HAH",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Erin Snow",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Macpac",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Pour Les Femmes",
+   "avg_brand_rating": 3
+ },
+ {
+   "brand": "Princesse tam.tam",
+   "avg_brand_rating": 3
+ }
+]

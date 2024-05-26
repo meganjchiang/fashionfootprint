@@ -11,6 +11,7 @@
     ],
     "host_permissions": [
       "https://*.youtube.com/*",
+      "http://127.0.0.1:5000/*",
       "<all_urls>"
     ],
     "action": {
@@ -35,12 +36,13 @@
     },
     "content_scripts": [
       {
-        "matches": ["https://*.youtube.com/*"],
-        "js": ["content.js"]
+        "matches": ["*://*.youtube.com/*"],
+        "js": ["content.js"],
+        "run_at": "document_idle"
       }
     ],
     "content_security_policy": {
-      "extension_pages": "script-src 'self'; object-src 'self'"
+      "extension_pages": "script-src 'self'; object-src 'self'; connect-src 'self' http://127.0.0.1:5000"
     },
     "web_accessible_resources": [
       {

@@ -32,3 +32,28 @@ chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
     }
 });
 
+// Event listener for tab updates
+chrome.tabs.onUpdated.addListener(function(tabId, changeInfo, tab) {
+    if (changeInfo.url) {
+        // Check if the updated URL is a YouTube video URL
+        if (isYouTubeVideo(changeInfo.url)) {
+            // Extract the video ID from the URL
+            const videoId = extractYouTubeVideoId(changeInfo.url);
+            // console.log("YouTube video ID:", videoId);
+            
+            // Send a message to the popup script
+            chrome.runtime.sendMessage({ videoId: videoId });
+        }
+    }
+});
+
+// Function to check if a URL is a YouTube video URL
+function isYouTubeVideo(url) {
+    return /^https?:\/\/(?:www\.)?youtube.com\/watch\?(?=.*v=\w+)/.test(url);
+}
+
+// Function to extract the video ID from a YouTube video URL
+function extractYouTubeVideoId(url) {
+    const match = url.match(/[?&]v=([^&]+)/);
+    return match ? match[1] : null;
+}
