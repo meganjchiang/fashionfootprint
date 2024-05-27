@@ -3,6 +3,7 @@ import requests
 import re
 import config
 from aritzia_scrape import scrape_materials
+from material_calculator import get_material_score
 
 api_key = config.API_KEY
 
@@ -53,11 +54,15 @@ def get_video_links(video_id):
             # filters out social media links
             filtered_links = [link for link in links if not any(social in link for social in social_media_links)]
 
-            scraped_data = []
+            scraped_data = {}
             for link in filtered_links:
                 scraped_result = scrape_materials(link)
                 if not scraped_result.get('Error'):
-                    scraped_data.append(scraped_result)
+                    scraped_data[scraped_result['item']] = scraped_result
+
+                material_score = get_material_score(scraped_result)
+                print(material_score)
+                scraped_data['material_score'] = material_score
             return jsonify({'title': title_og, 'video_id': video_id, 'links': filtered_links, 'materials': scraped_data})
         else:
             return jsonify({'error': 'Not a fashion-related video'}), 404
