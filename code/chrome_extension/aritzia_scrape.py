@@ -5,15 +5,15 @@ from urllib3.util.retry import Retry
 from bs4 import BeautifulSoup
 import re
 
-# Create session
-session = requests.Session()
-# Retry five times in case of exception
-retry = Retry(connect=5, backoff_factor=0.5)
-# Apply delays between attempts
-adapter = HTTPAdapter(max_retries=retry)
-session.mount('https://', adapter)
-
 def scrape_materials(url):
+    # Create session
+    session = requests.Session()
+    # Retry five times in case of exception
+    retry = Retry(connect=5, backoff_factor=0.5)
+    # Apply delays between attempts
+    adapter = HTTPAdapter(max_retries=retry)
+    session.mount('https://', adapter)
+
     try:
         # search for brand review
         review = session.get(url)

@@ -2,6 +2,7 @@ from flask import Flask, jsonify, request
 import requests
 import re
 import config
+from aritzia_scrape import scrape_materials
 
 api_key = config.API_KEY
 
@@ -51,7 +52,13 @@ def get_video_links(video_id):
         if any(keyword in title_lower for keyword in keywords):
             # filters out social media links
             filtered_links = [link for link in links if not any(social in link for social in social_media_links)]
-            return jsonify({'title': title_og, 'video_id': video_id, 'links': filtered_links})
+
+            scraped_data = []
+            for link in filtered_links:
+                scraped_result = scrape_materials(link)
+                if not scraped_result.get('Error'):
+                    scraped_data.append(scraped_result)
+            return jsonify({'title': title_og, 'video_id': video_id, 'links': filtered_links, 'materials': scraped_data})
         else:
             return jsonify({'error': 'Not a fashion-related video'}), 404
     else:
