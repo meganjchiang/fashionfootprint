@@ -1,12 +1,12 @@
 import pandas as pd
 import requests
-textile_df = pd.read_csv('../../data/Fabric Sustainability Data - Textile Research.csv')
+textile_df = pd.read_csv('data/Fabric Sustainability Data - Textile Research.csv')
 textile_df.head()
 # item is in this format: item = {'item': 'Linen Blend Belted Sleeveless Lapel Dress (JW Anderson)', 'silk': 53, 'linen': 33, 'cotton': 14}
 
 def get_material_score(item) -> float:
     # keep only materials and percentages
-    materials_and_percents = {(key.replace(' ', '_')).upper(): value for key, value in item.items() if key != 'item'}
+    materials_and_percents = {(key.replace(' ', '_')).upper(): value for key, value in item.items() if key != 'item' and key != 'site'}
 
     # weights
     material_weight = 1/3
