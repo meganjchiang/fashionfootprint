@@ -106,28 +106,145 @@ function displayData(data, container) {
     container.innerHTML = '';
     let row = null;
 
-    // test getting brand ratings from JSON file (with Shein)
-    // get brand ratings from brand_ratings_only.JSON
-    fetch(chrome.runtime.getURL('data/brand_ratings_only.JSON'))
-    .then(response => response.json())
-    .then(ratingsData => {
-        // find the rating for the brand 'Shein' (case-insensitive)
-        const sheinRating = ratingsData.find(rating => rating.brand.toLowerCase() === 'shein');
+    // // get brand ratings from brand_ratings_only.JSON
+    // fetch(chrome.runtime.getURL('data/brand_ratings_only.JSON'))
+    // .then(response => response.json())
+    // .then(ratingsData => {
+    //     const brandName = 'sezane'
 
-        // if a rating is found, display rating on extension
-        if (sheinRating) {
-            console.log(`SHEIN rating: ${sheinRating.avg_brand_rating}`);
-            // Update the UI with the rating
-            const ratingElement = document.createElement('div');
-            ratingElement.innerText = `SHEIN rating: ${sheinRating.avg_brand_rating}`;
-            container.appendChild(ratingElement);
-        } else {
-            console.log('No rating found for SHEIN');
-        }
-    })
-    .catch(error => console.error('Error fetching brand ratings:', error));
+    //     // find the rating for the brand 'Shein' (case-insensitive)
+    //     const brandRating = ratingsData.find(rating => rating.brand.toLowerCase() === brandName);
+
+    //     // if a rating is found, display rating on extension
+    //     if (brandRating) {
+    //         console.log(`Brand: ${brandRating.brand}`);
+    //         console.log(`Brand Rating: ${brandRating.avg_brand_rating}/5`);
+    //         console.log(`Price: ${brandRating.price_level}`);
+    //         console.log(`Country of Origin: ${brandRating.location}`);
+        
+    //         // Create and append elements for each piece of information
+    //         const brandElement = document.createElement('div');
+    //         brandElement.innerText = `Brand: ${brandRating.brand}`;
+    //         container.appendChild(brandElement);
+
+    //         // Check if the rating has no decimal part
+    //         let ratingValue;
+    //         if (brandRating.avg_brand_rating % 1 === 0) {
+    //             ratingValue = Math.round(brandRating.avg_brand_rating);
+    //         } else {
+    //             ratingValue = brandRating.avg_brand_rating;
+    //         }
+
+    //         const ratingElement = document.createElement('div');
+    //         ratingElement.innerText = `Brand Rating: ${brandRating.avg_brand_rating}/5`;
+    //         container.appendChild(ratingElement);
+
+    //         const priceLevelElement = document.createElement('div');
+    //         priceLevelElement.innerText = `Price: ${'$'.repeat(Math.round(brandRating.price_level))}`;
+    //         container.appendChild(priceLevelElement);
+        
+    //         const locationElement = document.createElement('div');
+    //         locationElement.innerText = `Country of Origin: ${brandRating.location}`;
+    //         container.appendChild(locationElement);
+    //     } else {
+    //         console.log(`No rating found for ${brand_name}`);
+    //     }
+    // })
+    // .catch(error => console.error('Error fetching brand ratings:', error));
+
+    // start of working code
 
     data.forEach((item, index) => {
         console.log("item", item);
+
+        // get brand ratings from brand_ratings_only.JSON
+        fetch(chrome.runtime.getURL('data/brand_ratings_only.JSON'))
+        .then(response => response.json())
+        .then(ratingsData => {
+            const brandName = 'aritzia'
+
+            // find the rating for the brand 'Shein' (case-insensitive)
+            const brandRating = ratingsData.find(rating => rating.brand.toLowerCase() === brandName);
+
+            // if a rating is found, display rating on extension
+            if (brandRating) {
+                console.log(`Brand: ${brandRating.brand}`);
+                console.log(`Brand Rating: ${brandRating.avg_brand_rating}/5`);
+                console.log(`Price: ${brandRating.price_level}`);
+                console.log(`Country of Origin: ${brandRating.location}`);
+            
+                // Create and append elements for each piece of information
+                const brandElement = document.createElement('div');
+                brandElement.innerText = `Brand: ${brandRating.brand}`;
+                container.appendChild(brandElement);
+
+                const ratingElement = document.createElement('div');
+                ratingElement.innerText = `Brand Rating: ${brandRating.avg_brand_rating}/5`;
+                container.appendChild(ratingElement);
+
+                const priceLevelElement = document.createElement('div');
+                priceLevelElement.innerText = `Price: ${'$'.repeat(brandRating.price_level)}`;
+                container.appendChild(priceLevelElement);
+            
+                const locationElement = document.createElement('div');
+                locationElement.innerText = `Country of Origin: ${brandRating.location}`;
+                container.appendChild(locationElement);
+
+                const productLinkElement = document.createElement('a');
+                productLinkElement.innerText = `Link to Product`;
+                productLinkElement.href = item; // Set the link
+                productLinkElement.target = "_blank"; // Open link in new tab
+                productLinkElement.style.color = "blue"; // Set the default color
+                productLinkElement.style.textDecoration = "none"; // Remove underline
+                productLinkElement.addEventListener("mouseover", () => {
+                    productLinkElement.style.color = "red"; // Change color on hover
+                });
+                productLinkElement.addEventListener("mouseout", () => {
+                    productLinkElement.style.color = "blue";
+                });
+                container.appendChild(productLinkElement);
+
+                const spaceElement = document.createElement('div');
+                spaceElement.style.marginBottom = '20px';
+                container.appendChild(spaceElement);
+            } else {
+                console.log(`No rating found for ${brand_name}`);
+            }
+        })
+        .catch(error => console.error('Error fetching brand ratings:', error));
     })
-}
+
+    // end of working code
+
+    // data.forEach((item, index) => {
+    //     console.log("item", item);
+    
+    //     // Fetch the webpage content
+    //     fetch(item)
+    //     .then(response => response.text())
+    //     .then(html => {
+    //         // Create a temporary div element to parse the HTML content
+    //         const tempDiv = document.createElement('div');
+    //         tempDiv.innerHTML = html;
+    
+    //         // Find the meta tag with property 'og:site_name' and get the content
+    //         const metaTag = tempDiv.querySelector('meta[property="og:site_name"]');
+    //         const brandName = metaTag ? metaTag.getAttribute('content') : null;
+    
+    //         // Display the brand name if found
+    //         if (brandName) {
+    //             console.log(`Brand: ${brandName}`);
+    
+    //             // Create and append elements for each piece of information
+    //             const brandElement = document.createElement('div');
+    //             brandElement.innerText = `Brand: ${brandName}`;
+    //             container.appendChild(brandElement);
+    
+    //             // You can fetch brand ratings based on this brand name and display them as well
+    //         } else {
+    //             console.log('No brand name found in meta tags');
+    //         }
+    //     })
+    //     .catch(error => console.error('Error fetching webpage content:', item));
+    // });
+}    
