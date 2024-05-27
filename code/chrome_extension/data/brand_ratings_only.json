@@ -1,5310 +1,7964 @@
 [
  {
    "brand": "KNOWN SUPPLY",
-   "avg_brand_rating": 2.85
+   "avg_brand_rating": "2.85",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "AMENDI",
-   "avg_brand_rating": 3.23
+   "avg_brand_rating": "3.233333333333333",
+   "price_level": 3,
+   "location": "Sweden"
  },
  {
    "brand": "SANVT",
-   "avg_brand_rating": 1.7
+   "avg_brand_rating": "1.7",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Patagonia",
-   "avg_brand_rating": 4.33
+   "avg_brand_rating": "4.333333333333333",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Scotch & Soda",
-   "avg_brand_rating": 3.3
+   "avg_brand_rating": "3.3",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "KINdom",
-   "avg_brand_rating": 1.7
+   "avg_brand_rating": "1.7",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Ecoalf",
-   "avg_brand_rating": 2.85
+   "avg_brand_rating": "2.85",
+   "price_level": 2,
+   "location": "Spain"
  },
  {
    "brand": "Unspun",
-   "avg_brand_rating": 3.9
+   "avg_brand_rating": "3.9",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Pangaia",
-   "avg_brand_rating": 3.77
+   "avg_brand_rating": "3.766666666666667",
+   "price_level": 4,
+   "location": "United Kingdom"
  },
  {
    "brand": "Po-Zu",
-   "avg_brand_rating": 2.85
+   "avg_brand_rating": "2.85",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Taylor Stitch",
-   "avg_brand_rating": 3.15
+   "avg_brand_rating": "3.15",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Selfmade",
-   "avg_brand_rating": 3.3
+   "avg_brand_rating": "3.3",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Wolven",
-   "avg_brand_rating": 3.23
+   "avg_brand_rating": "3.233333333333333",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "People Tree",
-   "avg_brand_rating": 3.9
+   "avg_brand_rating": "3.9",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "DillySocks",
-   "avg_brand_rating": 3.23
+   "avg_brand_rating": "3.233333333333333",
+   "price_level": 1,
+   "location": "Switzerland"
  },
  {
    "brand": "Thousand Fell",
-   "avg_brand_rating": 1.7
+   "avg_brand_rating": "1.7",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "The Good Tee",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "Canada"
  },
  {
    "brand": "Reprise",
-   "avg_brand_rating": 1.7
+   "avg_brand_rating": "1.7",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "CHNGE",
-   "avg_brand_rating": 3.77
+   "avg_brand_rating": "3.766666666666667",
+   "price_level": 1,
+   "location": "United States"
  },
  {
    "brand": "Pact",
-   "avg_brand_rating": 3.77
+   "avg_brand_rating": "3.766666666666667",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Girlfriend Collective",
-   "avg_brand_rating": 3.77
+   "avg_brand_rating": "3.766666666666667",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "prAna",
-   "avg_brand_rating": 2.35
+   "avg_brand_rating": "2.35",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Conscious Step",
-   "avg_brand_rating": 2.85
+   "avg_brand_rating": "2.85",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "NAADAM",
-   "avg_brand_rating": 2.35
+   "avg_brand_rating": "2.35",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Save the Duck",
-   "avg_brand_rating": 3.15
+   "avg_brand_rating": "3.15",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "EDWIN",
-   "avg_brand_rating": 1.7
+   "avg_brand_rating": "1.7",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Kozm",
-   "avg_brand_rating": 1.7
+   "avg_brand_rating": "1.7",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Adelante Made-to-Order",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Coalatree",
-   "avg_brand_rating": 3.15
+   "avg_brand_rating": "3.15",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "The Classic T-Shirt Company",
-   "avg_brand_rating": 2.85
+   "avg_brand_rating": "2.85",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "SOKO",
-   "avg_brand_rating": 3.3
+   "avg_brand_rating": "3.3",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Frankie Collective",
-   "avg_brand_rating": 2.85
+   "avg_brand_rating": "2.85",
+   "price_level": 2,
+   "location": "Canada"
  },
  {
    "brand": "Brilliant Earth",
-   "avg_brand_rating": 1.7
+   "avg_brand_rating": "1.7",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Whimsy + Row",
-   "avg_brand_rating": 3.77
+   "avg_brand_rating": "3.766666666666667",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Triarchy",
-   "avg_brand_rating": 4.43
+   "avg_brand_rating": "4.433333333333334",
+   "price_level": 4,
+   "location": "United States"
  },
  {
    "brand": "Ecologyst",
-   "avg_brand_rating": 3.3
+   "avg_brand_rating": "3.3",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Astor & Orion",
-   "avg_brand_rating": 1.7
+   "avg_brand_rating": "1.7",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Reformation",
-   "avg_brand_rating": 3.23
+   "avg_brand_rating": "3.233333333333333",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Nisolo",
-   "avg_brand_rating": 2.85
+   "avg_brand_rating": "2.85",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Colorful Standard",
-   "avg_brand_rating": 3.77
+   "avg_brand_rating": "3.766666666666667",
+   "price_level": 2,
+   "location": "Denmark"
  },
  {
    "brand": "GOEX Apparel",
-   "avg_brand_rating": 1.7
+   "avg_brand_rating": "1.7",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Beckett Simonon",
-   "avg_brand_rating": 3.3
+   "avg_brand_rating": "3.3",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "ADIFF",
-   "avg_brand_rating": 3.3
+   "avg_brand_rating": "3.3",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Filippa K",
-   "avg_brand_rating": 1.7
+   "avg_brand_rating": "1.7",
+   "price_level": 3,
+   "location": "Sweden"
  },
  {
    "brand": "Kuyichi Pure Goods",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Parker Clay",
-   "avg_brand_rating": 2.85
+   "avg_brand_rating": "2.85",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Dedicated",
-   "avg_brand_rating": 3.9
+   "avg_brand_rating": "3.9",
+   "price_level": 2,
+   "location": "Sweden"
  },
  {
    "brand": "AlterX Co.",
-   "avg_brand_rating": 3.3
+   "avg_brand_rating": "3.3",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "BAM Bamboo Clothing",
-   "avg_brand_rating": 2.85
+   "avg_brand_rating": "2.85",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "culthread",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Koio",
-   "avg_brand_rating": 2.35
+   "avg_brand_rating": "2.35",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Tentree",
-   "avg_brand_rating": 3.77
+   "avg_brand_rating": "3.766666666666667",
+   "price_level": 2,
+   "location": "Canada"
  },
  {
    "brand": "Kotn",
-   "avg_brand_rating": 3.77
+   "avg_brand_rating": "3.766666666666667",
+   "price_level": 2,
+   "location": "Canada"
  },
  {
    "brand": "Zero Waste Daniel",
-   "avg_brand_rating": 4.33
+   "avg_brand_rating": "4.333333333333333",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Ninety Percent",
-   "avg_brand_rating": 3.77
+   "avg_brand_rating": "3.766666666666667",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Cotopaxi",
-   "avg_brand_rating": 3.23
+   "avg_brand_rating": "3.233333333333333",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "ETRE Organic Underwear",
-   "avg_brand_rating": 1.7
+   "avg_brand_rating": "1.7",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Boyish Jeans",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "United by Blue",
-   "avg_brand_rating": 2.85
+   "avg_brand_rating": "2.85",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Nudie Jeans",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 3,
+   "location": "Sweden"
  },
  {
    "brand": "Organic Basics",
-   "avg_brand_rating": 3.9
+   "avg_brand_rating": "3.9",
+   "price_level": 3,
+   "location": "Denmark"
  },
  {
    "brand": "Suit Supply",
-   "avg_brand_rating": 3.3
+   "avg_brand_rating": "3.3",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Frank & Oak",
-   "avg_brand_rating": 1.7
+   "avg_brand_rating": "1.7",
+   "price_level": 2,
+   "location": "Canada"
  },
  {
    "brand": "ISTO",
-   "avg_brand_rating": 2.85
+   "avg_brand_rating": "2.85",
+   "price_level": 2,
+   "location": "Portugal"
  },
  {
    "brand": "Subset",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "MATE the Label",
-   "avg_brand_rating": 3.77
+   "avg_brand_rating": "3.766666666666667",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Iron Roots",
-   "avg_brand_rating": 3.9
+   "avg_brand_rating": "3.9",
+   "price_level": 3,
+   "location": "Netherlands"
  },
  {
    "brand": "Warby Parker",
-   "avg_brand_rating": 1.7
+   "avg_brand_rating": "1.7",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Finisterre",
-   "avg_brand_rating": 3.23
+   "avg_brand_rating": "3.233333333333333",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Fite Fashion",
-   "avg_brand_rating": 1.7
+   "avg_brand_rating": "1.7",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Icebreaker",
-   "avg_brand_rating": 2.57
+   "avg_brand_rating": "2.566666666666667",
+   "price_level": 2,
+   "location": "New Zealand"
  },
  {
    "brand": "MUD Jeans",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "Netherlands"
  },
  {
    "brand": "Arvin Goods",
-   "avg_brand_rating": 1.7
+   "avg_brand_rating": "1.7",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Toad&Co",
-   "avg_brand_rating": 3.65
+   "avg_brand_rating": "3.65",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Voyce Threads",
-   "avg_brand_rating": 1.7
+   "avg_brand_rating": "1.7",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Ten Thousand Villages",
-   "avg_brand_rating": 1.7
+   "avg_brand_rating": "1.7",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Groceries Apparel",
-   "avg_brand_rating": 2.85
+   "avg_brand_rating": "2.85",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "OSOM",
-   "avg_brand_rating": 1.7
+   "avg_brand_rating": "1.7",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "No Nasties",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "India"
  },
  {
    "brand": "8000Kicks",
-   "avg_brand_rating": 1.7
+   "avg_brand_rating": "1.7",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Ministry of Supply",
-   "avg_brand_rating": 2.85
+   "avg_brand_rating": "2.85",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Topiku",
-   "avg_brand_rating": 3.3
+   "avg_brand_rating": "3.3",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Liila",
-   "avg_brand_rating": 1.7
+   "avg_brand_rating": "1.7",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Up-fuse",
-   "avg_brand_rating": 4.5
+   "avg_brand_rating": "4.5",
+   "price_level": 2,
+   "location": "Egypt"
  },
  {
    "brand": "Outerknown",
-   "avg_brand_rating": 4.33
+   "avg_brand_rating": "4.333333333333333",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Etiko",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Hernest Project",
-   "avg_brand_rating": 3.23
+   "avg_brand_rating": "3.233333333333333",
+   "price_level": 2,
+   "location": "Canada"
  },
  {
    "brand": "PANAFRICA",
-   "avg_brand_rating": 2.85
+   "avg_brand_rating": "2.85",
+   "price_level": 2,
+   "location": "France"
  },
  {
    "brand": "Teemill",
-   "avg_brand_rating": 3.35
+   "avg_brand_rating": "3.35",
+   "price_level": 1,
+   "location": "United Kingdom"
  },
  {
    "brand": "Veja",
-   "avg_brand_rating": 2.85
+   "avg_brand_rating": "2.85",
+   "price_level": 2,
+   "location": "France"
  },
  {
    "brand": "Lucy & Yak",
-   "avg_brand_rating": 4.33
+   "avg_brand_rating": "4.333333333333333",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Marimekko",
-   "avg_brand_rating": 1.7
+   "avg_brand_rating": "1.7",
+   "price_level": 2,
+   "location": "Finland"
  },
  {
    "brand": "Asket",
-   "avg_brand_rating": 3.23
+   "avg_brand_rating": "3.233333333333333",
+   "price_level": 3,
+   "location": "Sweden"
  },
  {
    "brand": "Burning Heart",
-   "avg_brand_rating": 3.3
+   "avg_brand_rating": "3.3",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Vustra",
-   "avg_brand_rating": 1.7
+   "avg_brand_rating": "1.7",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Rozenbroek",
-   "avg_brand_rating": 3.57
+   "avg_brand_rating": "3.5666666666666664",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "ARMEDANGELS",
-   "avg_brand_rating": 3.9
+   "avg_brand_rating": "3.9",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "TAMGA",
-   "avg_brand_rating": 3.3
+   "avg_brand_rating": "3.3",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Outland Denim",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Kowtow",
-   "avg_brand_rating": 3.77
+   "avg_brand_rating": "3.766666666666667",
+   "price_level": 2,
+   "location": "New Zealand"
  },
  {
    "brand": "Stella McCartney",
-   "avg_brand_rating": 3.23
+   "avg_brand_rating": "3.233333333333333",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Indigenous",
-   "avg_brand_rating": 3.65
+   "avg_brand_rating": "3.65",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "AARVEN",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "A A K S",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Aestethic London",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "A-dam",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Netherlands"
  },
  {
    "brand": "Adele Dejak",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Kenya"
  },
  {
    "brand": "Absolutely Bear",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Adarche Clothing",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Spain"
  },
  {
    "brand": "A.BCH",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "AFROBLONDE",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "Australia"
  },
  {
    "brand": "(di)vision",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "ACBC",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "Italy"
  },
  {
    "brand": "A. ROEGE HOVE",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "Denmark"
  },
  {
    "brand": "A_C",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "AEANCE",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "Germany"
  },
  {
    "brand": "AERA",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Adidas",
-   "avg_brand_rating": 2.5
+   "avg_brand_rating": "2.5",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "About Companions",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "A Happy Brand",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Sweden"
  },
  {
    "brand": "Les Sublimes",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "France"
  },
  {
    "brand": "[eyd]",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "7PLIS",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "France"
  },
  {
    "brand": "A Natural Connection",
-   "avg_brand_rating": 3.5
+   "avg_brand_rating": "3.5",
+   "price_level": 3,
+   "location": "Belgium"
  },
  {
    "brand": "337 BRAND",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "AGMES",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Adelaide C. Ecoage",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Italy"
  },
  {
    "brand": "Afends",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "1 People",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Denmark"
  },
  {
    "brand": "4Kinship",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Adidas by Stella McCartney",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "Germany"
  },
  {
    "brand": "ABLE",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Aiayu",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Denmark"
  },
  {
    "brand": "Alder",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Canada"
  },
  {
    "brand": "amaud",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 4,
+   "location": "Japan"
  },
  {
    "brand": "Amber Days",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Aks",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Ales Grey",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "ALMOST THERE",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Akola",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "AKOIASWIM",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Indonesia"
  },
  {
    "brand": "Altar",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United States"
  },
  {
    "brand": "Amber Goes Green",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "Canada"
  },
  {
    "brand": "Allmade",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "United States"
  },
  {
    "brand": "Altra",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Alighieri",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United Kingdom"
  },
  {
    "brand": "Ana Luisa",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Amble Outdoors",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "amt.",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Spain"
  },
  {
    "brand": "Alchemy Goods",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Amour Vert",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Akala",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Alkemie",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "All Blues",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "Sweden"
  },
  {
    "brand": "ALEEM YUSUF",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "All The Wild Roses",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Ambiletics",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Germany"
  },
  {
    "brand": "ALTER X Company",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Amadeus",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United Kingdom"
  },
  {
    "brand": "Alchemist",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Netherlands"
  },
  {
    "brand": "allthingsfi",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "ANTTI",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Apple Oak Fibre Works",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "Ireland"
  },
  {
    "brand": "ANINI",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "United States"
  },
  {
    "brand": "Arc’teryx",
-   "avg_brand_rating": 2.5
+   "avg_brand_rating": "2.5",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Araks",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Anne Hermine",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "Austria"
  },
  {
    "brand": "Art’Abaska",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Ansea",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Artichoke",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Italy"
  },
  {
    "brand": "ARIELLE",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Anthea Crawford",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "Antiform",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "AndAll",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Hong Kong"
  },
  {
    "brand": "Arnsdorf",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "Anabela Chan",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United Kingdom"
  },
  {
    "brand": "Andorine",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Portugal"
  },
  {
    "brand": "Another Tomorrow",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United States"
  },
  {
    "brand": "arch4",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 4,
+   "location": "United Kingdom"
  },
  {
    "brand": "Arrels Barcelona",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Spain"
  },
  {
    "brand": "Annie Hamilton",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Antonello Tedde",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Anchal",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "ARTICLE22",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Après Studio",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Artknit Studios",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Italy"
  },
  {
    "brand": "Andersen-Andersen",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Denmark"
  },
  {
    "brand": "Anekdot",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Germany"
  },
  {
    "brand": "Angels Ambition",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Germany"
  },
  {
    "brand": "Anywhere",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Ay",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Japan"
  },
  {
    "brand": "AuTerra",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "South Africa"
  },
  {
    "brand": "B.L.A.H.",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "Netherlands"
  },
  {
    "brand": "Aventura",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "BAGGU",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "United States"
  },
  {
    "brand": "Avila",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "Bandsome",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Aware…the social design project",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Aster & Oak",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Automic Gold",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United States"
  },
  {
    "brand": "autark",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "Ayten Gasson",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "BASTET NOIR",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Macedonia, the Former Yugoslav Republic of"
  },
  {
    "brand": "B_Boheme",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Athleta",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Avani",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Switzerland"
  },
  {
    "brand": "Atelier Lavoisier",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "France"
  },
  {
    "brand": "Bario Neal",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United States"
  },
  {
    "brand": "B Sides",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 4,
+   "location": "United States"
  },
  {
    "brand": "AVNIER",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "France"
  },
  {
    "brand": "Baserange",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "France"
  },
  {
    "brand": "ASK SCANDINAVIA",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Finland"
  },
  {
    "brand": "Balenciaga",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 4,
+   "location": "France"
  },
  {
    "brand": "BALL",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Denmark"
  },
  {
    "brand": "Bam Loves Boo",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Band of Rascals",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "Baiia",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Auria Paris",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "France"
  },
  {
    "brand": "bleed",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Bhumi",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "Bibico",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "BAYTHE",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Beaumont Organic",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Bellerose",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Belgium"
  },
  {
    "brand": "Billi London",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "BEEN London",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Blonde Gone Rogue",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "BeeKeeper Parade",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Biehler",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Germany"
  },
  {
    "brand": "BEDI",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Becci Boo’s Custom Shoes",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "BITE",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Sweden"
  },
  {
    "brand": "Batoko",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "BeezyMama",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 1,
+   "location": "United States"
  },
  {
    "brand": "Biankina",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Blanche",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 4,
+   "location": "Australia"
  },
  {
    "brand": "Bianca Spender",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "Bleue Burnham",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United Kingdom"
  },
  {
    "brand": "Batch 1 UK",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 1,
+   "location": "United Kingdom"
  },
  {
    "brand": "Bethany Williams",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Baukjen",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "behno",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Better World Fashion",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Denmark"
  },
  {
    "brand": "Beyond Skin",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Beulah",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Blue Of A Kind",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Italy"
  },
  {
    "brand": "Bilboa",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Birdsong",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Bozena Jankowska",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "BUFF",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "blufruit",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "bogdar",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Bulgaria"
  },
  {
    "brand": "Brothers We Stand",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "BoBo GloBal",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Bougainvillea London",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "BOTTLETOP",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Bolso",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Guatemala"
  },
  {
    "brand": "Botto Giuseppe",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Italy"
  },
  {
    "brand": "Boob",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Sweden"
  },
  {
    "brand": "Brava Fabrics",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Spain"
  },
  {
    "brand": "Boody",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "BRING",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Japan"
  },
  {
    "brand": "BONDI BORN",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "Blutsgeschwister",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "Bunti",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Burgeon Outdoor",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Bonito",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Spain"
  },
  {
    "brand": "Bow&Bo",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Blue Wren Collective",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Boucheron",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 4,
+   "location": "France"
  },
  {
    "brand": "Boll & Branch",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Bobo Choses",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Spain"
  },
  {
    "brand": "Boma",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 1,
+   "location": "United States"
  },
  {
    "brand": "BOA Basics",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Bon Label",
-   "avg_brand_rating": 4.5
+   "avg_brand_rating": "4.5",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Bower",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Bluebuck",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "France"
  },
  {
    "brand": "Boyish",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Chelsea Bravo",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Charli Cohen",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "CARCEL",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "Denmark"
  },
  {
    "brand": "By Walid",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United Kingdom"
  },
  {
    "brand": "Casa Raki",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Chillax",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Turkey"
  },
  {
    "brand": "BYBBA",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Charlee Swim",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Camp Cove Swim",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Capodimonti Cashmere",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "Italy"
  },
  {
    "brand": "Chick Lane",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 1,
+   "location": "United States"
  },
  {
    "brand": "Cagey’s Planet",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "CAFIN",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Burton",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Calle Del Mar",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United States"
  },
  {
    "brand": "CARPASUS",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Switzerland"
  },
  {
    "brand": "Chic Made Consciously",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Casco Totes",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "CASUPO",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Burnt Soul",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "CARIUMA",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Brazil"
  },
  {
    "brand": "CARE BY ME",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "Denmark"
  },
  {
    "brand": "Caftanii",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "Italy"
  },
  {
    "brand": "BUSHY",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "CasaGIN",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Italy"
  },
  {
    "brand": "Carlie Ballard",
-   "avg_brand_rating": 4.5
+   "avg_brand_rating": "4.5",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Charlie Mae Swimwear",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Catarina Mina",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "Brazil"
  },
  {
    "brand": "Carmina Campus",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Italy"
  },
  {
    "brand": "CAES",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Netherlands"
  },
  {
    "brand": "Classic Cotton Co",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Converse",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Circle Sportswear",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "France"
  },
  {
    "brand": "COG",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "France"
  },
  {
    "brand": "CHPO",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Sweden"
  },
  {
    "brand": "ColieCo",
-   "avg_brand_rating": 4.5
+   "avg_brand_rating": "4.5",
+   "price_level": 3,
+   "location": "Portugal"
  },
  {
    "brand": "Club Chainstitch",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 1,
+   "location": "United States"
  },
  {
    "brand": "Christy Dawn",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Chopova Lowena",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United Kingdom"
  },
  {
    "brand": "Citizen Wolf",
-   "avg_brand_rating": 4.5
+   "avg_brand_rating": "4.5",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Coco & Kandy",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Bulgaria"
  },
  {
    "brand": "CLOUDY",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Japan"
  },
  {
    "brand": "Coolawoola",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Poland"
  },
  {
    "brand": "Colorado Threads",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Cleobella",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Corkor",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Portugal"
  },
  {
    "brand": "Come Back As A Flower",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United States"
  },
  {
    "brand": "Contessa Volpi",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Ciganka – Artforms from Nature",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Clubhouse Vintage",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Conscious the label",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Portugal"
  },
  {
    "brand": "COSSAC",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Continew",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Korea, Republic of"
  },
  {
    "brand": "Cingomma",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Italy"
  },
  {
    "brand": "Coq en Pâte",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Circos",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "DAWN Denim",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "Coyuchi",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Dai",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Crystalyn Kae",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Cus",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Spain"
  },
  {
    "brand": "Diemonde",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Sweden"
  },
  {
    "brand": "Dharma Bums",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "Deadwood",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "Sweden"
  },
  {
    "brand": "Deux Mains",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Haiti"
  },
  {
    "brand": "Cuisse de Grenouille",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "France"
  },
  {
    "brand": "Day Won",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Desert Dyes",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Desmond & Dempsey",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Dickies",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 1,
+   "location": "United States"
  },
  {
    "brand": "Destination Dress",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Dear Denier",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Denmark"
  },
  {
    "brand": "D&DEPARTMENT",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Delayne Dixon",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Canada"
  },
  {
    "brand": "Designers Remix",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Denmark"
  },
  {
    "brand": "Dilli Grey",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Cousin Billie",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Dazey LA",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Dear Darling Berlin",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "Dapper Alice",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "DAYWEARLAB",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Delikate Rayne",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "éclipse",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Ekta Helsinki",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Finland"
  },
  {
    "brand": "Earth Divas",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "United States"
  },
  {
    "brand": "Dimples",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "New Zealand"
  },
  {
    "brand": "Dots On Tots",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "United States"
  },
  {
    "brand": "Edwin USA",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Ecoology",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Spain"
  },
  {
    "brand": "Edeline Lee",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United Kingdom"
  },
  {
    "brand": "Dirty Velvet",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Ecologie by AWDis",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "United Kingdom"
  },
  {
    "brand": "Eco Intimates",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "Dora Larsen",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Dorsu",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "Cambodia"
  },
  {
    "brand": "EcoRight",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "India"
  },
  {
    "brand": "Dreamers & Drifters",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "econscious",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "United States"
  },
  {
    "brand": "Donatella Fabio Beachwear",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "Mexico"
  },
  {
    "brand": "Dominique Healy",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "DuchXFashion",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "E.L.V. Denim",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 4,
+   "location": "United Kingdom"
  },
  {
    "brand": "Dressarte Paris",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "France"
  },
  {
    "brand": "Drivemebikini",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Poland"
  },
  {
    "brand": "Divine",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "dk active",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "Eileen Fisher",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "ecuvo",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "Japan"
  },
  {
    "brand": "DÔEN",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Eguzkilore",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "Spain"
  },
  {
    "brand": "Dresden",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "émoi émoi",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "France"
  },
  {
    "brand": "Endless Joy",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United Kingdom"
  },
  {
    "brand": "ÉTICA",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "ETQ",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "Netherlands"
  },
  {
    "brand": "Ethletic",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "Elkline",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "Fabrik",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "EllA Fashion",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "Australia"
  },
  {
    "brand": "ENDANGERED",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Netherlands"
  },
  {
    "brand": "eleven44",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Indonesia"
  },
  {
    "brand": "Enfant Terrible",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "Erin Draper",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Elk",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "Erba",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Elsien Gringhuis",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Netherlands"
  },
  {
    "brand": "Enter the E",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Japan"
  },
  {
    "brand": "Elizabeth Suzann Studio",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "ettitude",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Elliss",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Elle Evans",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Escama Studio",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Engel",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Germany"
  },
  {
    "brand": "Encircled",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Canada"
  },
  {
    "brand": "Elvis & Kresse",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "El Naturalista",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "Spain"
  },
  {
    "brand": "Ella & Witt",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "erlich textil",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "Germany"
  },
  {
    "brand": "Elegantees",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Everpress",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "United Kingdom"
  },
  {
    "brand": "Flamingos’ Life",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Florence Given",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Fresh Cuts Clothing",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Ireland"
  },
  {
    "brand": "FM 669",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Flare Street",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Fair Harbor",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "FUTURA Jewelry",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 4,
+   "location": "United States"
  },
  {
    "brand": "Floris van Bommel",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "Netherlands"
  },
  {
    "brand": "Fayettechill",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Free Label",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Canada"
  },
  {
    "brand": "FREED",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "Canada"
  },
  {
    "brand": "Finn + Emma",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "FRANC",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Canada"
  },
  {
    "brand": "For Love and Lemons",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Flax and Loom",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Frugi",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "fairechild",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Canada"
  },
  {
    "brand": "Faithfull the Brand",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Forét",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Denmark"
  },
  {
    "brand": "FIL MELANGE",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Japan"
  },
  {
    "brand": "Fjällräven",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Fair Indigo",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "FTC Cashmere",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "Switzerland"
  },
  {
    "brand": "FTLA Apparel",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Fanfare",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "FREITAG",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Switzerland"
  },
  {
    "brand": "Farm to Hanger",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "Flowfold",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Galamaar",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Gaia Segattini Knotwear",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Italy"
  },
  {
    "brand": "Good Guys",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "France"
  },
  {
    "brand": "Gergana Ivanova",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Good Citizens Eyewear",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "Australia"
  },
  {
    "brand": "GAI+LISVA",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Goddess Gear",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Goat Organic Apparel",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Netherlands"
  },
  {
    "brand": "Glass Onion",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 1,
+   "location": "United Kingdom"
  },
  {
    "brand": "Good for Sunday",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Canada"
  },
  {
    "brand": "Go Gently Nation",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "go as u.r",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Belgium"
  },
  {
    "brand": "GR10K",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 2,
+   "location": "Italy"
  },
  {
    "brand": "GOT BAG",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "Granelito",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "goodtrip",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Gina Marie Handbags",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Gaia Conceptions",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "GARY MASH",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "Austria"
  },
  {
    "brand": "Greenpacha",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Garçon Français",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Gazur",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "Germany"
  },
  {
    "brand": "Graceful District",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "GOODEE",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Canada"
  },
  {
    "brand": "Gray Label",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Netherlands"
  },
  {
    "brand": "GRAMMAR",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "General Sleep",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "New Zealand"
  },
  {
    "brand": "goodsociety",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "Greenfibres",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "HarperSage",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "HNST",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Belgium"
  },
  {
    "brand": "GROUNDTRUTH",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "United Kingdom"
  },
  {
    "brand": "Hackwith Design House",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Heiko",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "United Kingdom"
  },
  {
    "brand": "Hindbag",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "France"
  },
  {
    "brand": "Happy Earth Apparel",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "HARA the label",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "harly jae",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Canada"
  },
  {
    "brand": "Haglöfs",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Greg Lauren",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United States"
  },
  {
    "brand": "GuterStoff",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Austria"
  },
  {
    "brand": "Hailey Gerrits",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Canada"
  },
  {
    "brand": "Gunda Hafner",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Harriet Morris",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United Kingdom"
  },
  {
    "brand": "Holly Ryan",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "Australia"
  },
  {
    "brand": "Gugguu",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Finland"
  },
  {
    "brand": "HOCOSA",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Hemen Biarritz",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "France"
  },
  {
    "brand": "HERTH",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Italy"
  },
  {
    "brand": "Gung Ho Design",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "GUNAS",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "haikure",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "Italy"
  },
  {
    "brand": "Grounded People",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Canada"
  },
  {
    "brand": "Harvest & Mill",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Herdentier",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "Grüne Erde",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Gyre",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "J. Hannah",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United States"
  },
  {
    "brand": "Honest Basics",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "Germany"
  },
  {
    "brand": "I was a Sari",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "India"
  },
  {
    "brand": "HYER GOODS",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Infantium Victoria",
-   "avg_brand_rating": 4.5
+   "avg_brand_rating": "4.5",
+   "price_level": 4,
+   "location": "Germany"
  },
  {
    "brand": "Hoppidi Handmade",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "Sweden"
  },
  {
    "brand": "Jack Wolfskin",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "Houdini",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Sweden"
  },
  {
    "brand": "I’mdividual",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Indego Africa",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Hopaal",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "France"
  },
  {
    "brand": "Isla In Bloom",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "INGMARSON",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Icebug",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Sweden"
  },
  {
    "brand": "HoMie",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Ilk + Ernie",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "ID.EIGHT",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Italy"
  },
  {
    "brand": "ilovemixtapes",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "Germany"
  },
  {
    "brand": "Hopeless Lingerie",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "iQ UV",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "INTOA design",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 1,
+   "location": "Finland"
  },
  {
    "brand": "Jackalo",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "Netherlands"
  },
  {
    "brand": "Indiebride",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United Kingdom"
  },
  {
    "brand": "In2Green",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "In The Soulshine",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "Australia"
  },
  {
    "brand": "Horizon Athletic",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "JammaCaps",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 1,
+   "location": "United States"
  },
  {
    "brand": "Johnstons of Elgin",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United Kingdom"
  },
  {
    "brand": "Katla",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "JOYN",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Jaffic",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Kampos",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Italy"
  },
  {
    "brand": "Jyoti – Fair Works",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "JEM",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "France"
  },
  {
    "brand": "Jamido",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Belarus"
  },
  {
    "brand": "JENNIFER BEHR",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 4,
+   "location": "United States"
  },
  {
    "brand": "Jackfruit the label",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "KAY KONECNA STUDIO",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "KATTAN",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "KasuReKids",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "Japan"
  },
  {
    "brand": "Jamie + The Jones",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "JAN ‘N JUNE",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Junk Studios",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "KAPOK KNOT",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Japan"
  },
  {
    "brand": "Joanie",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Joslin",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "Joyya",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 1,
+   "location": "New Zealand"
  },
  {
    "brand": "Jenny Yoo",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Katharine Hamnett",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Juwelier Willer",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 4,
+   "location": "Germany"
  },
  {
    "brand": "Jillian Boustred",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "Josette la Chouette",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "France"
  },
  {
    "brand": "Kapten & Son",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "Just Bee Queen",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Kalaurie",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "Jungle Folk",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Switzerland"
  },
  {
    "brand": "Knock Knock",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Lithuania"
  },
  {
    "brand": "KIDSOFBROKENFUTURE",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Italy"
  },
  {
    "brand": "Kimoa",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Spain"
  },
  {
    "brand": "Kilomet109",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Viet Nam"
  },
  {
    "brand": "Kings of Indigo",
-   "avg_brand_rating": 4.5
+   "avg_brand_rating": "4.5",
+   "price_level": 2,
+   "location": "Netherlands"
  },
  {
    "brand": "Konges Sløjd",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Komodo",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "KENT",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "KORALI",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Cyprus"
  },
  {
    "brand": "KOHR",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Kozii Swimwear",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "KnowledgeCotton Apparel",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Denmark"
  },
  {
    "brand": "KIDS WORLDWIDE",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Kuyichi",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Netherlands"
  },
  {
    "brand": "Krochet Kids",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "United States"
  },
  {
    "brand": "Kitikate",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Czech Republic"
  },
  {
    "brand": "KIZASI",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Japan"
  },
  {
    "brand": "Kuwaii",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "KOKOworld",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Poland"
  },
  {
    "brand": "kekai Swimwear",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Kiku Boutique",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United Kingdom"
  },
  {
    "brand": "Klättermusen",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Knickey",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Know The Origin",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Kordal Studio",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Kimai",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United Kingdom"
  },
  {
    "brand": "Leanne Marshall",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 4,
+   "location": "United States"
  },
  {
    "brand": "LAmade Clothing",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Lâcher Prise",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "LaBante",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "lemlem",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Labienhecha",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Spain"
  },
  {
    "brand": "la fille d’O",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Laura Lombardi",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "L’Estrange London",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "L’Envers",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Lefrik",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Spain"
  },
  {
    "brand": "LAUDAE",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "Canada"
  },
  {
    "brand": "LA Relaxed",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "LDP",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "Lauren Holloway",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "La Methode",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Italy"
  },
  {
    "brand": "Laura Elizabeth Jewelry",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Lapuan Kankurit",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "Finland"
  },
  {
    "brand": "Kysal",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "France"
  },
  {
    "brand": "Lando Studio",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Turkey"
  },
  {
    "brand": "lana",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "Leisure Lab",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Leni Swims",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "LangerChen",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Germany"
  },
  {
    "brand": "LANIUS",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "Kzeniya",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "les boutons",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "Germany"
  },
  {
    "brand": "La Bottega di Brunella",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Italy"
  },
  {
    "brand": "Lazy Oaf",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Le Loopas",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Linenfox",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Lithuania"
  },
  {
    "brand": "Licia Florio",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Italy"
  },
  {
    "brand": "Losano",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Lost in Paris",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 4,
+   "location": "Australia"
  },
  {
    "brand": "Libeco",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Belgium"
  },
  {
    "brand": "Little Emperor",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "Australia"
  },
  {
    "brand": "Linen Wedding Dress",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Lithuania"
  },
  {
    "brand": "Lionel the Label",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Les Récupérables",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "France"
  },
  {
    "brand": "Little Man Happy",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "Londre Bodywear",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Lola & Stella",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "United States"
  },
  {
    "brand": "Liv:ra",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Living Crafts",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "LONGEVITY LONDON",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Löffler",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "loud + proud",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "London W11",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Little Green Radicals",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "LNDR",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "Lilian von Trapp",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 4,
+   "location": "Germany"
  },
  {
    "brand": "Little Nature Lover",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Looptworks",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Lilac Limited Crochet",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Linenbee",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Latvia"
  },
  {
    "brand": "Lonely Kids Club",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "Loop Swim",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "China"
  },
  {
    "brand": "LOCI",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Lezat",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "LOCAL EUROPEAN",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Magenta Threads",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Louisa Parris",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United Kingdom"
  },
  {
    "brand": "Love and Confuse",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 2,
+   "location": "Lithuania"
  },
  {
    "brand": "Madia & Matilda",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "MANDALA",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "LUNGE",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Germany"
  },
  {
    "brand": "LOUDBODIES",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Romania"
  },
  {
    "brand": "LOVJOI",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "Mara Hoffman",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Make An Impact",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "LoveLux",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Maggie Marilyn",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "New Zealand"
  },
  {
    "brand": "Mario Doni",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Italy"
  },
  {
    "brand": "LUNA & ROSE",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "New Zealand"
  },
  {
    "brand": "Luva Huva",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Magpie Goose",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Lusana",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Mama;licious",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "LOVE BRAND & Co",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Luxtra",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Mantis World",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Marks & Spencer",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Luna + Sun",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Mariclaro",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 3,
+   "location": "Canada"
  },
  {
    "brand": "Manimekala",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "MagicLinen",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Loyal E. Paris",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "France"
  },
  {
    "brand": "Marcia",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "France"
  },
  {
    "brand": "Malaika New York",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "MIMIKRI",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Hungary"
  },
  {
    "brand": "Maxomorra",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Sweden"
  },
  {
    "brand": "MIAOU",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Merry People",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Mila.Vert",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 3,
+   "location": "Slovenia"
  },
  {
    "brand": "Melissa Joy Manning",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 4,
+   "location": "United States"
  },
  {
    "brand": "Megan Leone Designs",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Mashu",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "MiiK",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Canada"
  },
  {
    "brand": "Miga Swimwear",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Meemoza",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Canada"
  },
  {
    "brand": "MATONA",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Austria"
  },
  {
    "brand": "Miakoda",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Martina Spetlova",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United Kingdom"
  },
  {
    "brand": "milo+nicki",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Mien",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Mighty Good Basics",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 1,
+   "location": "Australia"
  },
  {
    "brand": "Mayamiko",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Marlies Dekkers",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Mightly",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Mars Loves Her",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "France"
  },
  {
    "brand": "Materiel",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "Georgia"
  },
  {
    "brand": "Martha Medeiros",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 4,
+   "location": "Brazil"
  },
  {
    "brand": "MELAWEAR",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Germany"
  },
  {
    "brand": "Milkweed Baby",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 1,
+   "location": "United States"
  },
  {
    "brand": "Maya Magal",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United Kingdom"
  },
  {
    "brand": "Mata Traders",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Mimi Holvast",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Mimi Prober",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United States"
  },
  {
    "brand": "Miss Rose Sister Violet",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Molo",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Denmark"
  },
  {
    "brand": "Mirasa Design",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Most Prominent Co.",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "MINI A TURE",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "Denmark"
  },
  {
    "brand": "Monkee Genes",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Mnmur",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "Italy"
  },
  {
    "brand": "Minimalist",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Morgan Lane",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United States"
  },
  {
    "brand": "Muchachomalo",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "Netherlands"
  },
  {
    "brand": "mmb by hand",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "United States"
  },
  {
    "brand": "Modibodi",
-   "avg_brand_rating": 3.5
+   "avg_brand_rating": "3.5",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Mini Rodini",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Sweden"
  },
  {
    "brand": "MIUSA",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Modallica",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Mworks",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "France"
  },
  {
    "brand": "MinimalisticLinen",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Lithuania"
  },
  {
    "brand": "MONKIND",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "Monica Vinader",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United Kingdom"
  },
  {
    "brand": "Mumutane",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "Denmark"
  },
  {
    "brand": "mori",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "MISSING",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United Kingdom"
  },
  {
    "brand": "Mother of Pearl",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Moumout",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "France"
  },
  {
    "brand": "Monsoon Blooms",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "Mochi",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Netherlands"
  },
  {
    "brand": "Mireia Playà",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Monica + Andy",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Nat-2",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "Nightswim",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Näz",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "NDX",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Japan"
  },
  {
    "brand": "Natalie Perry",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United Kingdom"
  },
  {
    "brand": "Naja",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "NICO",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "Natalija",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "NIKIN",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Switzerland"
  },
  {
    "brand": "Nimble",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "NiciArt",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "NAGNATA",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "NAGO",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Poland"
  },
  {
    "brand": "Napapijri",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "Italy"
  },
  {
    "brand": "Natasha Tonic",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "MYMARINI",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Germany"
  },
  {
    "brand": "Natalie Marie Jewellery",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "Australia"
  },
  {
    "brand": "NAE Vegan Shoes",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Portugal"
  },
  {
    "brand": "Neococo",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Myrrhia Fine Knitwear",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Neem",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "nat’v basics",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Natalie Rolt",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "Nike",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Nina Nest",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Natascha von Hirschhausen",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Germany"
  },
  {
    "brand": "Mykke Hoffmann",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Germany"
  },
  {
    "brand": "Nena & Co.",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Neu Nomads",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Nina Rein",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Germany"
  },
  {
    "brand": "Noani",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "Noctu",
-   "avg_brand_rating": 4.5
+   "avg_brand_rating": "4.5",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Nui Organics",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Nomadic State of Mind",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "O My Bag",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Netherlands"
  },
  {
    "brand": "nu-in",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Sweden"
  },
  {
    "brand": "Nobody Denim",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "Niovi Organics",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "Australia"
  },
  {
    "brand": "NoMiNoU",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Canada"
  },
  {
    "brand": "Nu Swim",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Norden",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Canada"
  },
  {
    "brand": "Noumenon",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Netherlands"
  },
  {
    "brand": "Nothing New",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Normal Knit",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Italy"
  },
  {
    "brand": "NOT OURS",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Korea, Republic of"
  },
  {
    "brand": "Nisa",
-   "avg_brand_rating": 4.5
+   "avg_brand_rating": "4.5",
+   "price_level": 2,
+   "location": "New Zealand"
  },
  {
    "brand": "NINA YUUN",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Switzerland"
  },
  {
    "brand": "nobodinoz",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Spain"
  },
  {
    "brand": "Non",
-   "avg_brand_rating": 4.5
+   "avg_brand_rating": "4.5",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Nurture The Nest",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 1,
+   "location": "Australia"
  },
  {
    "brand": "Nomads Clothing",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Nube",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "NOAH",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Germany"
  },
  {
    "brand": "Not Just Pajama",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Nubikk",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "Netherlands"
  },
  {
    "brand": "Ognx",
-   "avg_brand_rating": 3.5
+   "avg_brand_rating": "3.5",
+   "price_level": 3,
+   "location": "Germany"
  },
  {
    "brand": "Olmsted Outerwear",
-   "avg_brand_rating": 4.5
+   "avg_brand_rating": "4.5",
+   "price_level": 4,
+   "location": "Canada"
  },
  {
    "brand": "Oobi",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Ōshadi",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "OffOn",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Lithuania"
  },
  {
    "brand": "Orbasics",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "Origin",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "United Kingdom"
  },
  {
    "brand": "Oy",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Switzerland"
  },
  {
    "brand": "One Vintage",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United Kingdom"
  },
  {
    "brand": "OVS",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Italy"
  },
  {
    "brand": "Olistic the Label",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "France"
  },
  {
    "brand": "Organic Crew",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Organique",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Portugal"
  },
  {
    "brand": "Olderbrother",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Okabashi",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "United States"
  },
  {
    "brand": "Orit Elhanati",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "Denmark"
  },
  {
    "brand": "Original Weekend",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "OMNES",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Otiumberg",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United Kingdom"
  },
  {
    "brand": "Offbeat Sweetie",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Oddish",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "OhSevenDays",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Turkey"
  },
  {
    "brand": "Ohoy Swim",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Portugal"
  },
  {
    "brand": "O.T.A",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "France"
  },
  {
    "brand": "Opera Campi",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Italy"
  },
  {
    "brand": "Osei-Duro",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Ghana"
  },
  {
    "brand": "Olga Joan",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Paparesta Accessories",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Italy"
  },
  {
    "brand": "Patrick McDowell",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United Kingdom"
  },
  {
    "brand": "Pecegueiro & F.os",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Portugal"
  },
  {
    "brand": "Phoebe English",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Par Moi",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Parva Studios",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Petits Vilains",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Canada"
  },
  {
    "brand": "peony",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Passion Lilie",
-   "avg_brand_rating": 4.5
+   "avg_brand_rating": "4.5",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Petit Pli",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Parade",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Panamuna Project",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "PaaPii Design",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 1,
+   "location": "Finland"
  },
  {
    "brand": "Park & Fifth Clothing Co",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Canada"
  },
  {
    "brand": "PETERSON STOOP",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "Netherlands"
  },
  {
    "brand": "Peninsula Swimwear",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Italy"
  },
  {
    "brand": "Palava",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Phyne",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "Philine of San Francisco",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Pareto",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "PH5",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Pala Eyewear",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Pansy",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Pantee",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Pop My Way",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Plant Faced Clothing",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Pure Magnolia",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "Canada"
  },
  {
    "brand": "Proclaim",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Piccalilly",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Pressio",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Prairie Underground",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Pig and Hen",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Netherlands"
  },
  {
    "brand": "PSYLO",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Pico",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Protean London",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Piña",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Puffin Gear",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 1,
+   "location": "Canada"
  },
  {
    "brand": "Poppie the Label",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Pitupi",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 1,
+   "location": "Sweden"
  },
  {
    "brand": "pinqponq",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Germany"
  },
  {
    "brand": "PLASTICITY",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Japan"
  },
  {
    "brand": "PLAYFÜL",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "POPLINEN",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Prota Fiori",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "PRISTINE",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Japan"
  },
  {
    "brand": "Pippa Holt",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "Ireland"
  },
  {
    "brand": "Pleatsmama",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Korea, Republic of"
  },
  {
    "brand": "Printfresh",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Prim Stargazer",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Canada"
  },
  {
    "brand": "Puma",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "Pure Apparel",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Polly Wales",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United States"
  },
  {
    "brand": "Picture",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "France"
  },
  {
    "brand": "Pure Pod",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "ReCreate",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "New Zealand"
  },
  {
    "brand": "Reflexone",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "United Kingdom"
  },
  {
    "brand": "Recycledbags.Co",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "Australia"
  },
  {
    "brand": "Real Deal Brazil",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "RÄTHEL & WOLF",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Purnama",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "Singapore"
  },
  {
    "brand": "RE-BELLO",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "Italy"
  },
  {
    "brand": "Purusha People",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "recolution",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "Redrew",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "Redwood Classics Apparel",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Canada"
  },
  {
    "brand": "Rentrayage",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "PYUA",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Germany"
  },
  {
    "brand": "Quazi Design",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 1,
+   "location": "Swaziland"
  },
  {
    "brand": "Rains",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "Denmark"
  },
  {
    "brand": "RÆBURN",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "RESAP Paris",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "France"
  },
  {
    "brand": "Q for Quinn",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Canada"
  },
  {
    "brand": "RAANI the label",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Rapanui",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "United Kingdom"
  },
  {
    "brand": "QWSTION",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Switzerland"
  },
  {
    "brand": "Rave Review",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "Sweden"
  },
  {
    "brand": "REEF",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "REER3",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "Qeelin",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 4,
+   "location": "China"
  },
  {
    "brand": "Pyrrha",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "Canada"
  },
  {
    "brand": "Raven + Lily",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Quincy Mae",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "S A Y A",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "RŪPAHAUS",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "RVDK",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "Netherlands"
  },
  {
    "brand": "Salewa",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "Italy"
  },
  {
    "brand": "Saana ja Olli",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Finland"
  },
  {
    "brand": "Rive Droite",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "France"
  },
  {
    "brand": "Roberts Wood",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United Kingdom"
  },
  {
    "brand": "Salomon",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "France"
  },
  {
    "brand": "Safal Kids",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 1,
+   "location": "Estonia"
  },
  {
    "brand": "RESTYLE",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Finland"
  },
  {
    "brand": "ROSE + REGGIE",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Sage Larock",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "ReUsefulThingsStudio",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "RESIDUS",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Sweden"
  },
  {
    "brand": "Ruhe",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Saalt",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Riley Studio",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Rokit Vintage",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Saint Basics",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Netherlands"
  },
  {
    "brand": "Salt Gypsy",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Rotholz",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "Rice & Carry",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "Sri Lanka"
  },
  {
    "brand": "Rodebjer",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "Sweden"
  },
  {
    "brand": "Rifò",
-   "avg_brand_rating": 4.5
+   "avg_brand_rating": "4.5",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Rumpl",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "S Threads Boutique",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Sagebrush Surf Bags",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Rowan Grey",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Rudy Jude",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Santos by Monica",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Samuji",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Finland"
  },
  {
    "brand": "Sardine Clothing Company",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Self Cinema",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Sweden"
  },
  {
    "brand": "Señorita LEMONIEZ",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "SEP",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Switzerland"
  },
  {
    "brand": "Seea",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "SAYE",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Spain"
  },
  {
    "brand": "SeamsFriendly",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "India"
  },
  {
    "brand": "SEEKER",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Sami Miro Vintage",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Sauths",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Lithuania"
  },
  {
    "brand": "Sarah Sue Design",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Canada"
  },
  {
    "brand": "Sealand",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "South Africa"
  },
  {
    "brand": "Sancho’s",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Sense Organics",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "Germany"
  },
  {
    "brand": "SEPTEMBER",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Seek Collective",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Seek Dry Goods",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Salty Swimwear",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Sasta",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "Finland"
  },
  {
    "brand": "Sand Snow Linen",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Lithuania"
  },
  {
    "brand": "Seegarn",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "Germany"
  },
  {
    "brand": "SANIKAI",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Switzerland"
  },
  {
    "brand": "Sans Beast",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Seventy + Mochi",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Savannah Morrow The Label",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "SANTICLER",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Sandqvist",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Sweden"
  },
  {
    "brand": "Solstice Kids",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Shola Branson",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United Kingdom"
  },
  {
    "brand": "Social Catalysts",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Smalls Merino",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Sotela",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Softandwet",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Italy"
  },
  {
    "brand": "SKFK",
-   "avg_brand_rating": 4.5
+   "avg_brand_rating": "4.5",
+   "price_level": 2,
+   "location": "Spain"
  },
  {
    "brand": "Silou",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Sinerji",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "simply grey",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Slovakia"
  },
  {
    "brand": "SHIBUI",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "sisam",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "SLVRLAKE",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Sorella Organics",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "sherris",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Shakti.ism",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "United Kingdom"
  },
  {
    "brand": "societywild",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Smycka",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 4,
+   "location": "Sweden"
  },
  {
    "brand": "Soleil Soleil",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "SNAP",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "France"
  },
  {
    "brand": "Sevya",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Sister Organics",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "soleRebels",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Ethiopia"
  },
  {
    "brand": "Slow Stitch Studio",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "SILENT WAVE INDIGO",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 4,
+   "location": "Netherlands"
  },
  {
    "brand": "Son of a Tailor",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Denmark"
  },
  {
    "brand": "Skall Studio",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Denmark"
  },
  {
    "brand": "SO-LE Studio",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Italy"
  },
  {
    "brand": "SilkGenie",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 1,
+   "location": "United Kingdom"
  },
  {
    "brand": "Solosix",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "STORY mfg.",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United Kingdom"
  },
  {
    "brand": "SPELL",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "TAMGA Designs",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "Canada"
  },
  {
    "brand": "Stay Wild",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Tattered Eden",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Sylven New York",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Souldaze",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Italy"
  },
  {
    "brand": "SÜK Workwear",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Sun50",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "SUI",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "India"
  },
  {
    "brand": "SukkhaCitta",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Indonesia"
  },
  {
    "brand": "Stature",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "Soul Flower",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Tasi Travels",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "Studio Courtenay",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Swedish Stockings",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Sweden"
  },
  {
    "brand": "Stephen Webster",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United Kingdom"
  },
  {
    "brand": "Souple Luz",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Japan"
  },
  {
    "brand": "Svala",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "TALA",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Tatti Chic",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "United Kingdom"
  },
  {
    "brand": "Talia Collins",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Swim Against",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Spain"
  },
  {
    "brand": "Symbology",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "STANLEY/STELLA",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 1,
+   "location": "Belgium"
  },
  {
    "brand": "Studio 189",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Superstainable",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Denmark"
  },
  {
    "brand": "Sustain by Kat",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "The Anjelms Project",
-   "avg_brand_rating": 4.5
+   "avg_brand_rating": "4.5",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "The Blue Rabbit House",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Belgium"
  },
  {
    "brand": "The Common Good Company",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "The Ethical Silk Company",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Ireland"
  },
  {
    "brand": "TERAS",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Japan"
  },
  {
    "brand": "The Artful Mitten",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Ternua",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Spain"
  },
  {
    "brand": "The Boy&I",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "The Campamento",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Spain"
  },
  {
    "brand": "The Kozm",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "TAUKO",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Finland"
  },
  {
    "brand": "Thaely",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "India"
  },
  {
    "brand": "Terra Dea",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "Tetiana K",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Canada"
  },
  {
    "brand": "Teatum Jones",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United Kingdom"
  },
  {
    "brand": "Terra Thread",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "The Level Collective",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "The Crafty Bird",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 1,
+   "location": "United Kingdom"
  },
  {
    "brand": "The Knotty Ones",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Lithuania"
  },
  {
    "brand": "The bonnie mob",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "tehadesigns",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "The Blue Suit",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 3,
+   "location": "Switzerland"
  },
  {
    "brand": "Tekla",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Denmark"
  },
  {
    "brand": "Teva",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Tiger Prints",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "United Kingdom"
  },
  {
    "brand": "The Recycled Planet",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Théla",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "Greece"
  },
  {
    "brand": "The White Briefs",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Sweden"
  },
  {
    "brand": "The Rushing Hour",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Thunderpants USA",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "The R Collective",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "Hong Kong"
  },
  {
    "brand": "Thesus",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Canada"
  },
  {
    "brand": "The Standard Stitch",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "This is Unfolded",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "The Maker Collection",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Finland"
  },
  {
    "brand": "THE MORPHBAG BY GSK",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Threads 4 Thought",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "The Moonrise Project",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "THEA WITH LOVE",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 1,
+   "location": "Australia"
  },
  {
    "brand": "The Social Outfit",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Thunderpants NZ",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "New Zealand"
  },
  {
    "brand": "The Very Good Bra",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "The Social Studio",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "The Spotted Quoll Studio",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "ThokkThokk",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "The SUSS Edit",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Ireland"
  },
  {
    "brand": "The Summer House",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "India"
  },
  {
    "brand": "The White Ribbon",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "The North Face",
-   "avg_brand_rating": 3.5
+   "avg_brand_rating": "3.5",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Thought",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Thief&Bandit",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Canada"
  },
  {
    "brand": "The Tiny Closet",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Thinking MU",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Spain"
  },
  {
    "brand": "Think Big Little People",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "United States"
  },
  {
    "brand": "Toby Tiger",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "United Kingdom"
  },
  {
    "brand": "Tultex",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 1,
+   "location": "United States"
  },
  {
    "brand": "Tzoma",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Tiny Twig",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "Australia"
  },
  {
    "brand": "Tivoli",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Slovenia"
  },
  {
    "brand": "Two Sparrow Australia",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Treekid",
-   "avg_brand_rating": 4.5
+   "avg_brand_rating": "4.5",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Tuckerman & Co",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "True Tribe",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "France"
  },
  {
    "brand": "Timberland",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Tree of Life",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Touch Me Not",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Hungary"
  },
  {
    "brand": "Twofold Clothing",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "TWOTHIRDS",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Spain"
  },
  {
    "brand": "Toit Volant",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Tomorrow Denim",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Denmark"
  },
  {
    "brand": "Tommy & Lottie",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "United Kingdom"
  },
  {
    "brand": "Tri Colour Federation",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Tortoise The Label",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "Singapore"
  },
  {
    "brand": "Tropicfeel",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Two Little Beans & Co",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 1,
+   "location": "United States"
  },
  {
    "brand": "Tomo & Edie",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "Japan"
  },
  {
    "brand": "TRENDY STREET",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Titania Inglis",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Turtledove London",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "United Kingdom"
  },
  {
    "brand": "Tripulse",
-   "avg_brand_rating": 4.5
+   "avg_brand_rating": "4.5",
+   "price_level": 3,
+   "location": "Sweden"
  },
  {
    "brand": "U-MASK",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Tread & Butter",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Under The Nile",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "United States"
  },
  {
    "brand": "VATTER",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 3,
+   "location": "Germany"
  },
  {
    "brand": "Variety Hour",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "Unrecorded",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Netherlands"
  },
  {
    "brand": "Ulalü",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "UndeadMagpie",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Poland"
  },
  {
    "brand": "Untouched World",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "New Zealand"
  },
  {
    "brand": "Ucon Acrobatics",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "VAUDE",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Germany"
  },
  {
    "brand": "Velocio",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Underprotection",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Denmark"
  },
  {
    "brand": "Velvet Heartbeat",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "New Zealand"
  },
  {
    "brand": "Uskees",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "VENIM",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Vernisse",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Italy"
  },
  {
    "brand": "Unrobe",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 3,
+   "location": "Netherlands"
  },
  {
    "brand": "Vanina",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Lebanon"
  },
  {
    "brand": "VegasRabbitClothing",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "UNOA",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "US Blanks",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 1,
+   "location": "United States"
  },
  {
    "brand": "VEERAH",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Vege Threads",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Untold Jewellery",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Ukiyo",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Unbelts",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Canada"
  },
  {
    "brand": "Vesica Piscis",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Spain"
  },
  {
    "brand": "Will’s Vegan Store",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Wear Your Love",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 4,
+   "location": "United States"
  },
  {
    "brand": "VRAI",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United States"
  },
  {
    "brand": "Virón",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "WAMA",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Vild House of Little",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "WE-AR4",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "von Holzhausen",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "wayre",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Wemoto",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "Vietopia",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Switzerland"
  },
  {
    "brand": "Wellicious",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "Vitamin A",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Wild Country",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Italy"
  },
  {
    "brand": "WAWWA",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "WALD Berlin",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Germany"
  },
  {
    "brand": "WalkinThroughFlowers",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 1,
+   "location": "United States"
  },
  {
    "brand": "West Activewear",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "village thrive",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "VYAYAMA",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "VOIT",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Wildflo Studio",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Canada"
  },
  {
    "brand": "Wildling",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "Germany"
  },
  {
    "brand": "Vigo Swim",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Puerto Rico"
  },
  {
    "brand": "Viverano",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "WeAreNativ",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Wilson and Frenchy",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 1,
+   "location": "Australia"
  },
  {
    "brand": "Where Does It Come From?",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "WACCOWACCO",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Japan"
  },
  {
    "brand": "ZUZU & CO",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "WUF KIDS",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Latvia"
  },
  {
    "brand": "Yuki Threads",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "WWAKE",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United States"
  },
  {
    "brand": "wunderwerk",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "宝島染工 / Takarajima Senkou",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "XZOUIX",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Slovakia"
  },
  {
    "brand": "Yes And",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Yes Friends",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 1,
+   "location": "United Kingdom"
  },
  {
    "brand": "Yanawara",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "YU STEPANEL",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Zazi",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "Netherlands"
  },
  {
    "brand": "Zuri",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Wuxly Movement",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Canada"
  },
  {
    "brand": "Wolf and Zephyr",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Windsor Lane",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Woron",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Denmark"
  },
  {
    "brand": "Zulu & Zephyr",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Wires",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Wyatt and Jack",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Zilver",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "United Kingdom"
  },
  {
    "brand": "Y.O.U Underwear",
-   "avg_brand_rating": 5
+   "avg_brand_rating": "5.0",
+   "price_level": 4,
+   "location": "United Kingdom"
  },
  {
    "brand": "Womsh",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 4,
+   "location": "Italy"
  },
  {
    "brand": "Winter Water Factory",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "YoRo Naturals",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 1,
+   "location": "United States"
  },
  {
    "brand": "Wouf",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Spain"
  },
  {
    "brand": "ZEROBARRACENTO",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "Italy"
  },
  {
    "brand": "World Of Crow",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 3,
+   "location": "India"
  },
  {
    "brand": "石徹白洋品店 / Itoshiro Yohinten",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Princess Polly",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Brandy Melville",
-   "avg_brand_rating": 1
+   "avg_brand_rating": "1.0",
+   "price_level": 1,
+   "location": "United States"
  },
  {
    "brand": "Shein",
-   "avg_brand_rating": 1
+   "avg_brand_rating": "1.0",
+   "price_level": 1,
+   "location": "China"
  },
  {
    "brand": "Abercrombie & Fitch",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Amazon",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "ASOS",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Forever 21",
-   "avg_brand_rating": 1
+   "avg_brand_rating": "1.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "American Eagle",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Alo",
-   "avg_brand_rating": 1
+   "avg_brand_rating": "1.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Acne Studios",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "Sweden"
  },
  {
    "brand": "Alice + Olivia",
-   "avg_brand_rating": 1
+   "avg_brand_rating": "1.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Sandy Liang",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 4,
+   "location": "United States"
  },
  {
    "brand": "Billabong",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Aritzia",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 3,
+   "location": "Canada"
  },
  {
    "brand": "Uniqlo",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 1,
+   "location": "Japan"
  },
  {
    "brand": "Area",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 4,
+   "location": "United States"
  },
  {
    "brand": "Bottega Veneta",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 4,
+   "location": "Italy"
  },
  {
    "brand": "Brooks Brothers",
-   "avg_brand_rating": 1
+   "avg_brand_rating": "1.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Burberry",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 4,
+   "location": "United Kingdom"
  },
  {
    "brand": "Chanel",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 4,
+   "location": "United Kingdom"
  },
  {
    "brand": "Coach",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Fendi",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 4,
+   "location": "Italy"
  },
  {
    "brand": "Gucci",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 4,
+   "location": "Italy"
  },
  {
    "brand": "Hermes",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 3,
+   "location": "France"
  },
  {
    "brand": "Louis Vuitton",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 4,
+   "location": "France"
  },
  {
    "brand": "Prada",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 4,
+   "location": "Italy"
  },
  {
    "brand": "Ralph Lauren",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Saint Laurent",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 4,
+   "location": "France"
  },
  {
    "brand": "Telfar",
-   "avg_brand_rating": 1
+   "avg_brand_rating": "1.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "The Row",
-   "avg_brand_rating": 1
+   "avg_brand_rating": "1.0",
+   "price_level": 4,
+   "location": "United States"
  },
  {
    "brand": "Theory",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Tom Ford",
-   "avg_brand_rating": 1
+   "avg_brand_rating": "1.0",
+   "price_level": 4,
+   "location": "United States"
  },
  {
    "brand": "Tory Burch",
-   "avg_brand_rating": 1
+   "avg_brand_rating": "1.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Valentino",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 4,
+   "location": "Italy"
  },
  {
    "brand": "7 For All Mankind",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Banana Republic",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Boden",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Buck Mason",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Calvin Klein",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Carhartt",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 3,
+   "location": "Germany"
  },
  {
    "brand": "Columbia",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Djerf Avenue",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Sweden"
  },
  {
    "brand": "Doen",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Edikted",
-   "avg_brand_rating": 1
+   "avg_brand_rating": "1.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Everlane",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Frankies Bikinis",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Good American",
-   "avg_brand_rating": 1
+   "avg_brand_rating": "1.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "House of Sunny",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "J.Crew",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Levi's",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Madewell",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Quince",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "RE/DONE",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Réalisation Par",
-   "avg_brand_rating": 1
+   "avg_brand_rating": "1.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "REI",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Sezane",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 3,
+   "location": "France"
  },
  {
    "brand": "Summersalt",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Tommy Hilfiger",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "True Religion",
-   "avg_brand_rating": 1
+   "avg_brand_rating": "1.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Wrangler",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Aeropostale",
-   "avg_brand_rating": 1
+   "avg_brand_rating": "1.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Boohoo",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Cider",
-   "avg_brand_rating": 1
+   "avg_brand_rating": "1.0",
+   "price_level": 2,
+   "location": "Hong Kong"
  },
  {
    "brand": "Fashion Nova",
-   "avg_brand_rating": 1
+   "avg_brand_rating": "1.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "GUESS",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Hollister",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Hot Topic",
-   "avg_brand_rating": 1
+   "avg_brand_rating": "1.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "House of CB",
-   "avg_brand_rating": 1
+   "avg_brand_rating": "1.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Mango",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 2,
+   "location": "Spain"
  },
  {
    "brand": "Missguided",
-   "avg_brand_rating": 1
+   "avg_brand_rating": "1.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Nasty Gal",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "PacSun",
-   "avg_brand_rating": 1
+   "avg_brand_rating": "1.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "PrettyLittleThing",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Primark",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 1,
+   "location": "Ireland"
  },
  {
    "brand": "Romwe",
-   "avg_brand_rating": 1
+   "avg_brand_rating": "1.0",
+   "price_level": 1,
+   "location": "United States"
  },
  {
    "brand": "Temu",
-   "avg_brand_rating": 1
+   "avg_brand_rating": "1.0",
+   "price_level": 1,
+   "location": "United States"
  },
  {
    "brand": "Topshop",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "Torrid",
-   "avg_brand_rating": 1
+   "avg_brand_rating": "1.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Under Armour",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Victoria's Secret",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Yesstyle",
-   "avg_brand_rating": 1
+   "avg_brand_rating": "1.0",
+   "price_level": 2,
+   "location": "Hong Kong"
  },
  {
    "brand": "Ann Taylor",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Aerie",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Garage",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 1,
+   "location": "Canada"
  },
  {
    "brand": "Pink",
-   "avg_brand_rating": 2
+   "avg_brand_rating": "2.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Esprit",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "LOVETRUST",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Yoga Democracy",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "京和晒綿紗 / kyowazarashi mensha",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Holzweiler",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "Norway"
  },
  {
    "brand": "Isadore Apparel",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "Slovakia"
  },
  {
    "brand": "Kathmandu",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Peak Performance",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Sweden"
  },
  {
    "brand": "MORI",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "BJ’s PJ’s",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Owlivia",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "MARUPE LINEN HOUSE",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Latvia"
  },
  {
    "brand": "Fruit of the Loom",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Maya Eco",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "Kuwait"
  },
  {
    "brand": "Silq Rose",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 1,
+   "location": "United Kingdom"
  },
  {
    "brand": "Mummelito",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "Geggamoja",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Sweden"
  },
  {
    "brand": "Rock On Ruby",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United Kingdom"
  },
  {
    "brand": "menique",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Dagsmejan",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "Switzerland"
  },
  {
    "brand": "Loom",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "France"
  },
  {
    "brand": "The Madison Collection",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Y-3",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 4,
+   "location": "Germany"
  },
  {
    "brand": "Le Slip Français",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "UGG",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Lelasilk",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "Viet Nam"
  },
  {
    "brand": "Merino Kids",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "New Zealand"
  },
  {
    "brand": "LesJour!",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Setup",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 1,
+   "location": "United Kingdom"
  },
  {
    "brand": "Eco Tee Co",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Hēdoïne",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Organically",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Japan"
  },
  {
    "brand": "Le Gramme",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 4,
+   "location": "France"
  },
  {
    "brand": "Derbe",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "Accel Lifestyle",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "Smartwool",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "WAXON",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "GU",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 1,
+   "location": "Japan"
  },
  {
    "brand": "Bedhead Pajamas",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Wallace Cotton",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "New Zealand"
  },
  {
    "brand": "MANOLA",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Spain"
  },
  {
    "brand": "Kat The Label",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "Earth Baby Outfitters",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "Canada"
  },
  {
    "brand": "GILDA & PEARL",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "Maylyn & Co.",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "Canada"
  },
  {
    "brand": "les girls les boys",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "United Kingdom"
  },
  {
    "brand": "CDLP",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "Sweden"
  },
  {
    "brand": "MORALFIBRE",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 1,
+   "location": "India"
  },
  {
    "brand": "DUE.",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "Lithuania"
  },
  {
    "brand": "Loulou Lollipop",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Canada"
  },
  {
    "brand": "Barta Jeans",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Germany"
  },
  {
    "brand": "Viktoria and Woods",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "Australia"
  },
  {
    "brand": "Royal Apparel",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 1,
+   "location": "United States"
  },
  {
    "brand": "MPG Sport",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Canada"
  },
  {
    "brand": "From The Heart",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "United States"
  },
  {
    "brand": "BELLA+CANVAS",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": null,
+   "location": ""
  },
  {
    "brand": "Polarn O. Pyret",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Sweden"
  },
  {
    "brand": "Hamilton and Hare",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 4,
+   "location": "United Kingdom"
  },
  {
    "brand": "Xiao Wang",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 4,
+   "location": "United States"
  },
  {
    "brand": "Message Factory",
-   "avg_brand_rating": 4
+   "avg_brand_rating": "4.0",
+   "price_level": 2,
+   "location": "Canada"
  },
  {
    "brand": "We Are HAH",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 3,
+   "location": "United States"
  },
  {
    "brand": "Erin Snow",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 4,
+   "location": "United States"
  },
  {
    "brand": "Macpac",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "Australia"
  },
  {
    "brand": "Pour Les Femmes",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 4,
+   "location": "United States"
  },
  {
    "brand": "Princesse tam.tam",
-   "avg_brand_rating": 3
+   "avg_brand_rating": "3.0",
+   "price_level": 2,
+   "location": "France"
  }
 ]
