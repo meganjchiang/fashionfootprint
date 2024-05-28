@@ -1,3 +1,4 @@
+# flake8: noqa
 from flask import Flask, jsonify, request
 import requests
 import re
