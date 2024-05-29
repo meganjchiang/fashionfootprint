@@ -4,6 +4,9 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 from bs4 import BeautifulSoup
 import re
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+import time
 
 def get_final_url(shortened_url):
     response = requests.head(shortened_url, allow_redirects=True)
@@ -12,6 +15,38 @@ def get_final_url(shortened_url):
         response = requests.head(final_url, allow_redirects=True)
         final_url = response.url
     return final_url
+
+
+
+# below is a revised url function using Selenium instead of requests -> this works on more types of shortened links but takes much longer
+
+# for this video https://www.youtube.com/watch?v=bvigH2FADPQ, it only takes 9 seconds with the original function but it takes
+# 45 seconds with the Selenium function :/
+
+# def get_final_url(url):
+#     try:
+#         chrome_options = Options()
+#         chrome_options.add_argument("--headless")
+#         driver = webdriver.Chrome(options=chrome_options)
+        
+#         # Open the webpage
+#         driver.get(url)
+
+#         # wait for page to load
+#         time.sleep(3)
+
+#         # get actual URL
+#         final_url = driver.current_url
+
+#         # remove tracking info from link
+#         final_url = final_url.split('?')[0]
+
+#         driver.quit()
+
+#         return final_url
+#     except Exception as e:
+#         print(f"An error occurred: {e}")
+#         return None
 
 def scrape_materials(url):
     url = get_final_url(url)
