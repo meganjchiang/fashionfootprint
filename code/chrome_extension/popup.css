@@ -17,7 +17,7 @@ body {
     width: 100%;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: center; */
     margin: auto 0;
 }
 
@@ -34,6 +34,27 @@ body {
     font-size: 1.8em;
     margin-bottom: 0.6em;
 } */
+
+/* LOADING */
+
+.loading-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.loading-image {
+    margin-top: 30px;
+    width: 50px;
+    height: 50px;
+}
+
+.loading-text {
+    margin-top: 20px;
+    font-size: 15px; 
+}
+
 
 /* RESULTS */
 
@@ -68,4 +89,19 @@ body {
 
 #result:nth-last-child(-n+2) .score-box {
     margin-bottom: 4em;
+}
+
+.product {
+    margin: 0 10px 20px 10px;
+}
+ 
+
+/* FOOTER (How We Rate) */
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 15px;
+    text-align: center;
 }

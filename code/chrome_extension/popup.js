@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // fetch video links from the backend
     function fetchVideoLinks(videoId) {
-        console.log('Loading :)')
+        console.log('Finding product details...')
         fetch(`http://127.0.0.1:5000/api/video_links/${videoId}`, {
             method: 'GET'
         })
@@ -25,8 +25,7 @@ document.addEventListener('DOMContentLoaded', function() {
             const videoLinksContainer = document.getElementById('video-links-result');
 
             if (data.links && data.links.length > 0) {
-                // displayData(data.links, videoLinksContainer);
-                displayData(data.product_details);
+                displayData(data.product_details, videoLinksContainer);
             } else {
                 videoLinksContainer.innerHTML = '<p>No links found for this video :(</p>';
             }
@@ -56,6 +55,26 @@ document.addEventListener('DOMContentLoaded', function() {
             console.log("Retrieved video id from local storage:", result.videoId);
             const videoId = result.videoId;
             if (videoId) {
+                const videoLinksContainer = document.getElementById('video-links-result');
+                
+                const loadingContainer = document.createElement('div');
+                loadingContainer.classList.add('loading-container');
+                
+                const loadingImage = document.createElement('img');
+                loadingImage.src = 'images/loading.gif';
+                loadingImage.alt = 'Loading';
+                loadingImage.classList.add('loading-image');
+
+                const loadingText = document.createElement('p');
+                loadingText.textContent = 'Finding product details...';
+                loadingText.classList.add('loading-text');
+                
+                loadingContainer.appendChild(loadingImage);
+                loadingContainer.appendChild(loadingText);
+                
+                
+                videoLinksContainer.appendChild(loadingContainer);
+
                 fetchVideoLinks(videoId);
             } else {
                 console.error("No video id found in local storage");
@@ -65,35 +84,42 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 });
 
-// function displayData(data, container) {
-function displayData(products) {
+function displayData(products, container) {
+    container.innerHTML = '';
     for (const key in products) {
-        // print blank line in console
-        console.log('\u200B');
-
         const product = products[key];
+        const productName = product.item;
+        const overallRating = product.overall_rating;
+        const materialRating = product.material_score;
+        const materials = product.materials;
+        const brand = product.site;
+        const brandRating = product.brand_rating;
+        const price = '$'.repeat(product.price_level);
+        const location = product.location;
+        const link = product.link;
 
-        console.log(`Product: ${product.item}`);
-        console.log(`Overall Footprint Score: ${product.overall_rating}/5`);
+        const productDiv = document.createElement('div');
+        productDiv.classList.add('product');
 
-        console.log(`Material Rating: ${product.material_score}/5`);
-        console.log('Materials:');
-        
-        const sortedMaterials = Object.entries(product.materials).sort((a, b) => b[1] - a[1]);
+        productDiv.innerHTML = `
+            <p>Product: ${productName}</p>
+            <p>Overall Footprint Score: ${overallRating}/5</p>
+            <p>Material Rating: ${materialRating}/5</p>
+            <p>Materials:</p>
+            <ul>
+                ${Object.entries(materials).map(([material, percentage]) =>
+                    `<li>${percentage}% ${material.charAt(0).toUpperCase() + material.slice(1)}</li>`
+                ).join('')}
+            </ul>
+            <p>Brand: ${brand}</p>
+            <p>Brand Rating: ${brandRating}/5</p>
+            <p>Price Level: ${price}</p>
+            <p>Country of Origin: ${location}</p>
+            <p>Product Link: <a href="${link}" target="_blank">${link}</a></p>
+        `;
 
-        for (const [material, percentage] of sortedMaterials) {
-            // make each first letter uppercase
-            const capitalizedMaterial = material.split(' ')
-                                        .map(word => word.charAt(0).toUpperCase() + word.slice(1))
-                                        .join(' ');
-            console.log(`   ${percentage}% ${capitalizedMaterial}`);
-        }
-        
-        console.log(`Brand: ${product.site}`);
-        console.log(`Brand Rating: ${product.brand_rating}/5`);
-        console.log(`Price Level: ${'$'.repeat(product.price_level)}`);
-        console.log(`Country of Origin: ${product.location}`);
-        
-        console.log(`Product Link: ${product.link}`);
+        container.appendChild(productDiv);
     }
-}    
+
+    console.log('Done :)');
+}
