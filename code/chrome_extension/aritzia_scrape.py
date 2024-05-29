@@ -5,7 +5,17 @@ from urllib3.util.retry import Retry
 from bs4 import BeautifulSoup
 import re
 
+def get_final_url(shortened_url):
+    response = requests.head(shortened_url, allow_redirects=True)
+    final_url = response.url
+    while 'rstyle.me' in final_url:
+        response = requests.head(final_url, allow_redirects=True)
+        final_url = response.url
+    return final_url
+
 def scrape_materials(url):
+    url = get_final_url(url)
+
     # Create session
     session = requests.Session()
     # Retry five times in case of exception
