@@ -91,7 +91,7 @@ function displayData(products, container) {
         const productName = product.item;
         const overallRating = product.overall_rating;
         const materialRating = product.material_score;
-        const materials = product.materials;
+        const materials = Object.entries(product.materials).sort((a, b) => b[1] - a[1]);
         const brand = product.site;
         const brandRating = product.brand_rating;
         const price = '$'.repeat(product.price_level);
@@ -107,9 +107,12 @@ function displayData(products, container) {
             <p>Material Rating: ${materialRating}/5</p>
             <p>Materials:</p>
             <ul>
-                ${Object.entries(materials).map(([material, percentage]) =>
-                    `<li>${percentage}% ${material.charAt(0).toUpperCase() + material.slice(1)}</li>`
-                ).join('')}
+                ${materials.map(([material, percentage]) => {
+                    const capitalizedMaterial = material.split(' ')
+                        .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+                        .join(' ');
+                    return `<li>${percentage}% ${capitalizedMaterial}</li>`;
+                }).join('')}
             </ul>
             <p>Brand: ${brand}</p>
             <p>Brand Rating: ${brandRating}/5</p>
