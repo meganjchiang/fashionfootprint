@@ -2,6 +2,7 @@
 from flask import Flask, jsonify, request
 import requests
 import re
+import unicodedata
 import config
 from aritzia_scrape import scrape_materials
 from material_calculator import get_material_score
@@ -22,6 +23,12 @@ def data():
         {"item_name": "Item 3", "avg_score": 90}
     ]
     return jsonify(data)
+
+def remove_unicode(text):
+    # Remove unicode characters and TM symbol
+    cleaned_text = unicodedata.normalize('NFKD', text).encode('ascii', 'ignore').decode('utf-8')
+    cleaned_text = cleaned_text.replace('TM', '')
+    return cleaned_text
 
 @app.route('/api/video_links/<video_id>', methods=['GET'])
 def get_video_links(video_id):
@@ -56,19 +63,22 @@ def get_video_links(video_id):
             filtered_links = [link for link in links if not any(social in link for social in social_media_links)]
 
             scraped_data = {}
+            material_scores = []
             for link in filtered_links:
                 scraped_result = scrape_materials(link)
                 if not scraped_result.get('Error'):
-                    scraped_data[scraped_result['item']] = scraped_result
+                    item_name = remove_unicode(scraped_result['item'])
+                    # item_name = scraped_result['item']
+                    material_rating = get_material_score(scraped_result)
+                    scraped_result['material_rating'] = material_rating
+                    scraped_data[item_name] = scraped_result
+                    material_scores.append(material_rating)
 
-                material_score = get_material_score(scraped_result)
-                print(material_score)
-                scraped_data['material_score'] = material_score
             return jsonify({'title': title_og, 'video_id': video_id, 'links': filtered_links, 'materials': scraped_data})
         else:
             return jsonify({'error': 'Not a fashion-related video'}), 404
     else:
-        return jsonify({'error', 'Video not found'}), 404
+        return jsonify({'error': 'Video not found'}), 404
 
 
 if __name__ == '__main__':

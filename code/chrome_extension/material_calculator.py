@@ -1,3 +1,4 @@
+# flake8: noqa
 import pandas as pd
 import requests
 textile_df = pd.read_csv('data/Fabric Sustainability Data - Textile Research.csv')
@@ -30,7 +31,7 @@ def get_material_score(item) -> float:
 
         # get whether the material is "preferred"
         preferred_value = textile_df.loc[textile_df['material_id'] == material, 'preferred'].values[0]
-        print(f'preferred: {preferred_value}')
+        # print(f'preferred: {preferred_value}')
 
         # if it is, add the material percentage to sum
         if preferred_value:
@@ -38,7 +39,7 @@ def get_material_score(item) -> float:
 
         # get whether the material is "biodegradable"
         biodegradable_value = textile_df.loc[textile_df['material_id'] == material, 'biodegradable'].values[0]
-        print(f'biodegradable: {biodegradable_value}')
+        # print(f'biodegradable: {biodegradable_value}')
 
         # if it is, add the material percentage to sum
         if biodegradable_value:
@@ -46,13 +47,13 @@ def get_material_score(item) -> float:
 
         # get whether there are good agricultural practices
         agr_impact_value = textile_df.loc[textile_df['material_id'] == material, 'agricultural_impact'].values[0]
-        print(f'agricultural impact: {agr_impact_value}')
+        # print(f'agricultural impact: {agr_impact_value}')
 
         # if it is, add the material percentage to sum
         if not agr_impact_value:
             agr_impact_sum += normalized_percent
 
-        print()
+        # print()
 
     # get material score after multiplying by weight
     material_score = material_weight * material_percent_sum
