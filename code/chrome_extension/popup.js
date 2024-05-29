@@ -15,6 +15,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // fetch video links from the backend
     function fetchVideoLinks(videoId) {
+        console.log('Loading :)')
         fetch(`http://127.0.0.1:5000/api/video_links/${videoId}`, {
             method: 'GET'
         })
@@ -22,13 +23,10 @@ document.addEventListener('DOMContentLoaded', function() {
         .then(data => {
             console.log("Video links fetched from Flask:", data);
             const videoLinksContainer = document.getElementById('video-links-result');
-            
-            data.materials.forEach((item, index) => {
-                console.log("materials", item);
-            })
 
             if (data.links && data.links.length > 0) {
-                displayData(data.links, videoLinksContainer);
+                // displayData(data.links, videoLinksContainer);
+                displayData(data.product_details);
             } else {
                 videoLinksContainer.innerHTML = '<p>No links found for this video :(</p>';
             }
@@ -67,67 +65,35 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 });
 
-function displayData(data, container) {
-    container.innerHTML = '';
-    let row = null;
+// function displayData(data, container) {
+function displayData(products) {
+    for (const key in products) {
+        // print blank line in console
+        console.log('\u200B');
 
-    data.forEach((item, index) => {
-        console.log("item", item);
+        const product = products[key];
 
-        // get brand ratings from brand_ratings_only.JSON
-        fetch(chrome.runtime.getURL('data/brand_ratings_only.JSON'))
-        .then(response => response.json())
-        .then(ratingsData => {
-            const brandName = 'aritzia'
+        console.log(`Product: ${product.item}`);
+        console.log(`Overall Footprint Score: ${product.overall_rating}/5`);
 
-            // find the rating for the brand 'Shein' (case-insensitive)
-            const brandRating = ratingsData.find(rating => rating.brand.toLowerCase() === brandName);
+        console.log(`Material Rating: ${product.material_score}/5`);
+        console.log('Materials:');
+        
+        const sortedMaterials = Object.entries(product.materials).sort((a, b) => b[1] - a[1]);
 
-            // if a rating is found, display rating on extension
-            if (brandRating) {
-                console.log(`Brand: ${brandRating.brand}`);
-                console.log(`Brand Rating: ${brandRating.avg_brand_rating}/5`);
-                console.log(`Price: ${brandRating.price_level}`);
-                console.log(`Country of Origin: ${brandRating.location}`);
-            
-                // Create and append elements for each piece of information
-                const brandElement = document.createElement('div');
-                brandElement.innerText = `Brand: ${brandRating.brand}`;
-                container.appendChild(brandElement);
-
-                const ratingElement = document.createElement('div');
-                ratingElement.innerText = `Brand Rating: ${brandRating.avg_brand_rating}/5`;
-                container.appendChild(ratingElement);
-
-                const priceLevelElement = document.createElement('div');
-                priceLevelElement.innerText = `Price: ${'$'.repeat(brandRating.price_level)}`;
-                container.appendChild(priceLevelElement);
-            
-                const locationElement = document.createElement('div');
-                locationElement.innerText = `Country of Origin: ${brandRating.location}`;
-                container.appendChild(locationElement);
-
-                const productLinkElement = document.createElement('a');
-                productLinkElement.innerText = `Link to Product`;
-                productLinkElement.href = item; // Set the link
-                productLinkElement.target = "_blank"; // Open link in new tab
-                productLinkElement.style.color = "blue"; // Set the default color
-                productLinkElement.style.textDecoration = "none"; // Remove underline
-                productLinkElement.addEventListener("mouseover", () => {
-                    productLinkElement.style.color = "red"; // Change color on hover
-                });
-                productLinkElement.addEventListener("mouseout", () => {
-                    productLinkElement.style.color = "blue";
-                });
-                container.appendChild(productLinkElement);
-
-                const spaceElement = document.createElement('div');
-                spaceElement.style.marginBottom = '20px';
-                container.appendChild(spaceElement);
-            } else {
-                console.log(`No rating found for ${brand_name}`);
-            }
-        })
-        .catch(error => console.error('Error fetching brand ratings:', error));
-    })
+        for (const [material, percentage] of sortedMaterials) {
+            // make each first letter uppercase
+            const capitalizedMaterial = material.split(' ')
+                                        .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+                                        .join(' ');
+            console.log(`   ${percentage}% ${capitalizedMaterial}`);
+        }
+        
+        console.log(`Brand: ${product.site}`);
+        console.log(`Brand Rating: ${product.brand_rating}/5`);
+        console.log(`Price Level: ${'$'.repeat(product.price_level)}`);
+        console.log(`Country of Origin: ${product.location}`);
+        
+        console.log(`Product Link: ${product.link}`);
+    }
 }    

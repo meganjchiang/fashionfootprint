@@ -3,11 +3,11 @@ import pandas as pd
 import requests
 textile_df = pd.read_csv('data/Fabric Sustainability Data - Textile Research.csv')
 textile_df.head()
-# item is in this format: item = {'item': 'Linen Blend Belted Sleeveless Lapel Dress (JW Anderson)', 'silk': 53, 'linen': 33, 'cotton': 14}
+# item is in this format: materials = {'silk': 53, 'linen': 33, 'cotton': 14}
 
-def get_material_score(item) -> float:
+def get_material_score(materials) -> float:
     # keep only materials and percentages
-    materials_and_percents = {(key.replace(' ', '_')).upper(): value for key, value in item.items() if key != 'item' and key != 'site'}
+    materials_and_percents = {key.upper().replace(' ', '_').replace('™', ''): value for key, value in materials.items()}
 
     # weights
     material_weight = 1/3
@@ -70,8 +70,8 @@ def get_material_score(item) -> float:
 
     return final_score
 
-# # example from material_calculator.ipynb
-# item = {'item': 'Linen Blend Belted Sleeveless Lapel Dress (JW Anderson)', 'silk': 53, 'linen': 33, 'cotton': 14}
+# example
+# materials = {'silk': 53, 'linen': 33, 'cotton': 14}
 
 # # get score out of 5
-# get_material_score(item)
+# print(get_material_score(materials))

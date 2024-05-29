@@ -5,6 +5,7 @@ import re
 import config
 from aritzia_scrape import scrape_materials
 from material_calculator import get_material_score
+import pandas as pd
 
 api_key = config.API_KEY
 
@@ -35,6 +36,8 @@ def get_video_links(video_id):
     social_media_links = ['pinterest', 'youtube', 'youtu.be', 'twitter', 'instagram', 'tiktok',
                           'reddit', 'twitch', 'facebook', 'thmatc', 'spotify', 'vinted', 'epidemicsound',
                           'linktr.ee', 'buymeacoffee', 'squarespace']
+
+    brand_ratings = pd.read_csv('data/brand_ratings_only.csv')
     
     # get data from youtube api via video id
     url = f'https://www.googleapis.com/youtube/v3/videos?part=snippet&id={video_id}&key={api_key}'
@@ -65,15 +68,23 @@ def get_video_links(video_id):
                     scraped_result = scrape_materials(link)
                     if not scraped_result.get('Error'):
                         item = scraped_result['item']
-                        material_score = get_material_score(scraped_result)
+                        material_score = get_material_score(scraped_result['materials'])
                         scraped_result['material_score'] = material_score
                         scraped_result['link'] = link
+
+                        brand_rating, price_level, location = brand_ratings.loc[brand_ratings['brand'] == scraped_result['site'],
+                                                                   ['avg_brand_rating', 'price_level', 'location']].values[0]
+
+                        scraped_result['brand_rating'] = brand_rating
+                        scraped_result['price_level'] = 'N/A' if pd.isna(price_level) else price_level
+                        scraped_result['location'] = 'N/A' if pd.isna(location) else location
+                        scraped_result['overall_rating'] = round((material_score + brand_rating) / 2, 2)
                         scraped_data[item] = scraped_result
                 except Exception as e:
                     logger.exception("An error occurred while processing link: %s", link)
                     continue
                 
-            return jsonify({'title': title_og, 'video_id': video_id, 'links': filtered_links, 'materials': scraped_data})
+            return jsonify({'title': title_og, 'video_id': video_id, 'links': filtered_links, 'product_details': scraped_data})
         else:
             return jsonify({'error': 'Not a fashion-related video'}), 404
     else:
