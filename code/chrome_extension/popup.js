@@ -157,15 +157,14 @@ function displayData(products, container) {
         }
 
         const summaryHTML = `
-            <div class="flex justify-between items-start space-x-2">
-                <div>
+            <div class="flex justify-between items-start space-x-2 cursor-pointer">
+                <div class="w-8/12">
                     <div class="flex items-center space-x-1">
-                        <a href="${link}" class="uppercase font-semibold text-sm underline" target="_blank">${productName}</a>
-                        <img src="images/external-link.png" class="h-3 w-3">
+                        <a href="${link}" class="uppercase font-semibold text-sm underline product-name" target="_blank">${productName}</a>
                     </div>
-                    <p class="uppercase text-xs">${brand}</p>
+                    <p class="uppercase text-xs mt-1">${brand}</p>
                 </div>
-                <div class="flex items-center space-x-2">
+                <div class="flex items-center space-x-4 align-middle">
                     <img src="${ratingImageSrc}" class="h-8 w-8">
                     <button class="toggle-details focus:outline-none">
                         <img src="images/downward-arrow.png" class="h-3 w-4">
@@ -176,11 +175,11 @@ function displayData(products, container) {
 
         const detailsHTML = `
             <div class="details hidden">
-                <p class="uppercase mt-2 text-xs">Overall Footprint Score: <span class="font-bold">${overallRating}/5</span></p>
-                <div class="flex flex-row justify-between mt-1 space-x-4">
-                    <div class="flex flex-col flex-1">
-                        <div class="flex items-center">
-                            <a href="${goy_link}" class="uppercase underline font-semibold text-xs mr-1" target="_blank">Material Rating:</a>
+                <p class="uppercase mt-2 text-xs mr-1">Overall Footprint Score: <span class="font-bold">${overallRating}/5</span></p>
+                <div class="flex flex-row justify-between mt-1">
+                    <div class="flex flex-col flex-1 pr-4 w-full">
+                        <div>
+                            <a href="${higg_link}" class="uppercase underline font-semibold text-xs mr-0.5" target="_blank">Material Rating:</a>
                             <span class="font-bold text-xs">${materialRating}/5</span>
                         </div>
                         <div class="mt-1">
@@ -195,15 +194,17 @@ function displayData(products, container) {
                             </ul>
                         </div>
                     </div>
-                    <div class="flex flex-col flex-1">
+                    <div class="flex flex-col">
                         <div class="flex items-center">
-                            <a href="${higg_link}" class="uppercase underline font-semibold text-xs mr-1" target="_blank">Brand Rating:</a>
+                            <a href="${goy_link}" class="uppercase underline font-semibold text-xs mr-0.5" target="_blank">Brand Rating:</a>
                             <span class="font-bold text-xs">${brandRating}/5</span>
                         </div>
                         <div class="mt-1">
                             <p class="uppercase text-xs">${brand}</p>
-                            <p class="text-xs">Price Level: ${price}</p>
-                            <p class="text-xs">Country: ${location}</p>
+                            <ul class="list-disc list-inside text-xs">
+                                <li class="text-xs">Price Level: ${price}</li>
+                                <li class="text-xs">Country: ${location}</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -211,21 +212,32 @@ function displayData(products, container) {
         `;
 
         const productDiv = document.createElement('div');
-        productDiv.classList.add('bg-white', 'p-2', 'rounded-lg', 'shadow-md', 'mb-3', 'mx-3');
+        productDiv.classList.add('bg-white', 'p-2', 'shadow-md', 'mb-3', 'mx-3');
         productDiv.innerHTML = summaryHTML + detailsHTML;
-
-        const toggleButton = productDiv.querySelector('.toggle-details');
-        const detailsDiv = productDiv.querySelector('.details');
-
-        toggleButton.addEventListener('click', function() {
-            detailsDiv.classList.toggle('hidden');
-            const arrow = toggleButton.querySelector('img');
-            if (detailsDiv.classList.contains('hidden')) {
-                arrow.src = 'images/downward-arrow.png';
-            } else {
-                arrow.src = 'images/upward-arrow.png';
+        productDiv.addEventListener('click', function(e) {
+            if (!e.target.closest('a')) {
+                const detailsDiv = productDiv.querySelector('.details');
+                detailsDiv.classList.toggle('hidden');
+                const arrow = productDiv.querySelector('.toggle-details img');
+                if (detailsDiv.classList.contains('hidden')) {
+                    arrow.src = 'images/downward-arrow.png';
+                } else {
+                    arrow.src = 'images/upward-arrow.png';
+                }
             }
         });
+        // const toggleButton = productDiv.querySelector('.toggle-details');
+        // const detailsDiv = productDiv.querySelector('.details');
+
+        // toggleButton.addEventListener('click', function() {
+        //     detailsDiv.classList.toggle('hidden');
+        //     const arrow = toggleButton.querySelector('img');
+        //     if (detailsDiv.classList.contains('hidden')) {
+        //         arrow.src = 'images/downward-arrow.png';
+        //     } else {
+        //         arrow.src = 'images/upward-arrow.png';
+        //     }
+        // });
 
         container.appendChild(productDiv);
     }

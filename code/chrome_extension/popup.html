@@ -30,7 +30,6 @@
             border-radius: 8px;
             text-align: center;
             cursor: pointer;
-            margin-bottom: 5px;
             transition: background-color 0.3s;
         }
         .custom-button:hover {
@@ -45,6 +44,15 @@
             text-align: center;
             background-color: #F0F3F5; 
         }
+        a.product-name:after {
+            display: inline-block; 
+            content: ""; 
+            background-image: url('images/external-link.png'); 
+            background-size: 10px 10px; 
+            width: 10px; 
+            height: 10px; 
+            margin-left: 2px;
+        }
     </style>
  
 </head>
@@ -53,22 +61,19 @@
         <h1 class="fahkwang text-center mt-3">FASHION FOOTPRINT</h1>
     </div>
     <div class="flex flex-col items-center">
-        <button id="fetch-backend-data" class="custom-button">Fetch Data from Backend</button>
+        <button id="fetch-backend-data" class="custom-button hidden">Fetch Data from Backend</button>
         <button id="fetch-video-links" class="custom-button">Fetch links</button>
         <div id="result"></div> <!-- container for results -->
         <div id="backend-result"></div> <!-- container for backend data -->
-        <div id="video-links-result" class="overflow-y-auto max-h-28rem w-full mb-11"></div> <!-- container for video links -->
+        <div id="video-links-result" class="overflow-y-auto max-h-32rem w-full mb-11"></div> <!-- container for video links -->
     </div>
 
     <!-- DROPDOWN TESTING (move to js when done) -->
     <!-- <div class="bg-white p-2 rounded-lg shadow-md mb-3 mx-3">
 
-        <div class="flex justify-between items-start space-x-2">
+        <div class="flex justify-between items-start">
             <div>
-                <div class="flex items-center space-x-1">
-                    <a href="https://www.aritzia.com/us/en/product/hold-it\u2122-new-bergman-tank/116146.html" class="uppercase font-semibold text-sm underline" target="_blank">Hold-It New Bergman Tank</a>
-                    <img src="images/external-link.png" class="h-3 w-3">
-                </div>
+                <a href="https://www.aritzia.com/us/en/product/hold-it\u2122-new-bergman-tank/116146.html" class="uppercase font-semibold text-sm underline product-name" target="_blank">HomeStretch™ Crew Waist Raglan T-Shirt</a>
                 <p class="uppercase text-xs">aritzia</p>
             </div>
             <div>
@@ -80,10 +85,11 @@
         </div>
         
         <p class="uppercase mt-2 text-xs">Overall Footprint Score: <span class="font-bold">1.83/5</span></p>
-        <div class="flex flex-row justify-between mt-1 space-x-4">
+        <div class="flex flex-row justify-between mt-1 space-x-6">
             <div class="flex flex-col flex-1">
-                <a href="https://directory.goodonyou.eco/brand/aritzia" class="uppercase underline font-semibold text-xs" target="_blank">Material Rating:</a>
-                <span class="font-bold">1.67/5</span>
+                <a href="https://www.selflessclothes.com/blog/sustainability-calculator/?material=COTTON&material=SPANDEX&percentage=88&percentage=12" class="uppercase underline font-semibold text-xs" target="_blank">
+                    Material Rating:</a>
+                    <span class="font-bold">1.67/5</span>
                 <div class="mt-1">
                     <p class="uppercase text-xs">Materials</p>
                     <ul class="list-disc list-inside text-xs">
@@ -94,7 +100,7 @@
             </div>
 
             <div class="flex flex-col flex-1">
-                <a href="https://www.selflessclothes.com/blog/sustainability-calculator/?material=COTTON&material=SPANDEX&percentage=88&percentage=12" class="uppercase underline font-semibold text-xs" target="_blank">Brand Rating:</a>
+                <a href="https://directory.goodonyou.eco/brand/aritzia" class="uppercase underline font-semibold text-xs" target="_blank">Brand Rating:</a>
                 <span class="font-bold">2/5</span>
                 <div class="mt-1">
                     <p class="uppercase text-xs">aritzia</p>
@@ -105,8 +111,8 @@
 
         </div>
 
-    </div> -->
-    
+    </div>
+     -->
 
     <div class="footer">
         <a href="https://sites.google.com/uw.edu/fashion-footprint/how-we-rate" target="_blank">How We Rate</a>
