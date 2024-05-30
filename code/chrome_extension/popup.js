@@ -141,6 +141,17 @@ function displayData(products, container) {
         const location = product.location;
         const link = product.link;
 
+        let ratingImageSrc = 'images/1-5.png'; // default
+        if (overallRating > 1.0 && overallRating <= 2.0) {
+            ratingImageSrc = 'images/2-5.png';
+        } else if (overallRating > 2.0 && overallRating <= 3.0) {
+            ratingImageSrc = 'images/3-5.png';
+        } else if (overallRating > 3.0 && overallRating <= 4.0) {
+            ratingImageSrc = 'images/4-5.png';
+        } else if (overallRating > 4.0 && overallRating <= 5.0) {
+            ratingImageSrc = 'images/5-5.png';
+        }
+
         const productDetails = `
             <p>Overall Footprint Score: ${overallRating}/5</p>
             <p>Material Rating: ${materialRating}/5</p>
@@ -158,7 +169,7 @@ function displayData(products, container) {
             <p>Price Level: ${price}</p>
             <p>Country of Origin: ${location}</p>
             <p>Product Link: <a href="${link}" target="_blank">${link}</a></p>
-            <img src="images/1-5.png" class="h-8 w-8">
+            <img src="${ratingImageSrc}" class="h-8 w-8">
         `;
 
         const productDiv = document.createElement('div');
