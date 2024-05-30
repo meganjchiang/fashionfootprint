@@ -158,6 +158,7 @@ function displayData(products, container) {
             <p>Price Level: ${price}</p>
             <p>Country of Origin: ${location}</p>
             <p>Product Link: <a href="${link}" target="_blank">${link}</a></p>
+            <img src="images/1-5.png" class="h-8 w-8">
         `;
 
         const productDiv = document.createElement('div');
