@@ -84,48 +84,50 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 });
 
-// function displayData(products, container) {
-//     container.innerHTML = '';
-//     for (const key in products) {
-//         const product = products[key];
-//         const productName = product.item;
-//         const overallRating = product.overall_rating;
-//         const materialRating = product.material_score;
-//         const materials = Object.entries(product.materials).sort((a, b) => b[1] - a[1]);
-//         const brand = product.site;
-//         const brandRating = product.brand_rating;
-//         const price = '$'.repeat(product.price_level);
-//         const location = product.location;
-//         const link = product.link;
 
-//         const productDiv = document.createElement('div');
-//         productDiv.classList.add('product');
+function displayData(products, container) {
+    container.innerHTML = '';
+    for (const key in products) {
+        const product = products[key];
+        const productName = product.item;
+        const overallRating = product.overall_rating;
+        const materialRating = product.material_score;
+        const materials = Object.entries(product.materials).sort((a, b) => b[1] - a[1]);
+        const brand = product.site;
+        const brandRating = product.brand_rating;
+        const price = '$'.repeat(product.price_level);
+        const location = product.location;
+        const link = product.link;
 
-//         productDiv.innerHTML = `
-//             <p>Product: ${productName}</p>
-//             <p>Overall Footprint Score: ${overallRating}/5</p>
-//             <p>Material Rating: ${materialRating}/5</p>
-//             <p>Materials:</p>
-//             <ul>
-//                 ${materials.map(([material, percentage]) => {
-//                     const capitalizedMaterial = material.split(' ')
-//                         .map(word => word.charAt(0).toUpperCase() + word.slice(1))
-//                         .join(' ');
-//                     return `<li>${percentage}% ${capitalizedMaterial}</li>`;
-//                 }).join('')}
-//             </ul>
-//             <p>Brand: ${brand}</p>
-//             <p>Brand Rating: ${brandRating}/5</p>
-//             <p>Price Level: ${price}</p>
-//             <p>Country of Origin: ${location}</p>
-//             <p>Product Link: <a href="${link}" target="_blank">${link}</a></p>
-//         `;
+        const productDiv = document.createElement('div');
+        productDiv.classList.add('product');
 
-//         container.appendChild(productDiv);
-//     }
+        productDiv.innerHTML = `
+            <p>Product: ${productName}</p>
+            <p>Overall Footprint Score: ${overallRating}/5</p>
+            <p>Material Rating: ${materialRating}/5</p>
+            <p>Materials:</p>
+            <ul>
+                ${materials.map(([material, percentage]) => {
+                    const capitalizedMaterial = material.split(' ')
+                        .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+                        .join(' ');
+                    return `<li>${percentage}% ${capitalizedMaterial}</li>`;
+                }).join('')}
+            </ul>
+            <p>Brand: ${brand}</p>
+            <p>Brand Rating: ${brandRating}/5</p>
+            <p>Price Level: ${price}</p>
+            <p>Country of Origin: ${location}</p>
+            <p>Product Link: <a href="${link}" target="_blank">${link}</a></p>
+        `;
 
-//     console.log('Done :)');
-// }
+        container.appendChild(productDiv);
+    }
+
+    console.log('Done :)');
+}
+
 
 function displayData(products, container) {
     container.innerHTML = '';
@@ -154,37 +156,142 @@ function displayData(products, container) {
             ratingImageSrc = 'images/5-5.png';
         }
 
-        const productDetails = `
-            <p>Overall Footprint Score: ${overallRating}/5</p>
-            <p><a href="${higg_link}" target="_blank">Material Rating</a>: ${materialRating}/5</p>
-            <p>Materials:</p>
-            <ul>
-                ${materials.map(([material, percentage]) => {
-                    const capitalizedMaterial = material.split(' ')
-                        .map(word => word.charAt(0).toUpperCase() + word.slice(1))
-                        .join(' ');
-                    return `<li>${percentage}% ${capitalizedMaterial}</li>`;
-                }).join('')}
-            </ul>
-            <p>Brand: ${brand}</p>
-            ${goy_link ? `<p><a href="${goy_link}" target="_blank">Brand Rating</a>: ${brandRating}/5</p>` : `<p>Brand Rating: ${brandRating}/5</p>`}
-            <p>Price Level: ${price}</p>
-            <p>Country of Origin: ${location}</p>
-            <p>Product Link: <a href="${link}" target="_blank">${link}</a></p>
-            <img src="${ratingImageSrc}" class="h-8 w-8">
+        const summaryHTML = `
+            <div class="flex justify-between items-start space-x-2">
+                <div>
+                    <div class="flex items-center space-x-1">
+                        <a href="${link}" class="uppercase font-semibold text-sm underline" target="_blank">${productName}</a>
+                        <img src="images/external-link.png" class="h-3 w-3">
+                    </div>
+                    <p class="uppercase text-xs">${brand}</p>
+                </div>
+                <div class="flex items-center space-x-2">
+                    <img src="${ratingImageSrc}" class="h-8 w-8">
+                    <button class="toggle-details focus:outline-none">
+                        <img src="images/downward-arrow.png" class="h-3 w-4">
+                    </button>
+                </div>
+            </div>
+        `;
+
+        const detailsHTML = `
+            <div class="details hidden">
+                <p class="uppercase mt-2 text-xs">Overall Footprint Score: <span class="font-bold">${overallRating}/5</span></p>
+                <div class="flex flex-row justify-between mt-1 space-x-4">
+                    <div class="flex flex-col flex-1">
+                        <div class="flex items-center">
+                            <a href="${goy_link}" class="uppercase underline font-semibold text-xs mr-1" target="_blank">Material Rating:</a>
+                            <span class="font-bold text-xs">${materialRating}/5</span>
+                        </div>
+                        <div class="mt-1">
+                            <p class="uppercase text-xs">Materials</p>
+                            <ul class="list-disc list-inside text-xs">
+                                ${materials.map(([material, percentage]) => {
+                                    const capitalizedMaterial = material.split(' ')
+                                        .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+                                        .join(' ');
+                                    return `<li>${percentage}% ${capitalizedMaterial}</li>`;
+                                }).join('')}
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="flex flex-col flex-1">
+                        <div class="flex items-center">
+                            <a href="${higg_link}" class="uppercase underline font-semibold text-xs mr-1" target="_blank">Brand Rating:</a>
+                            <span class="font-bold text-xs">${brandRating}/5</span>
+                        </div>
+                        <div class="mt-1">
+                            <p class="uppercase text-xs">${brand}</p>
+                            <p class="text-xs">Price Level: ${price}</p>
+                            <p class="text-xs">Country: ${location}</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
         `;
 
         const productDiv = document.createElement('div');
-        productDiv.classList.add('product');
+        productDiv.classList.add('bg-white', 'p-2', 'rounded-lg', 'shadow-md', 'mb-3', 'mx-3');
+        productDiv.innerHTML = summaryHTML + detailsHTML;
 
-        productDiv.innerHTML = `
-            <details>
-                <summary>${productName}</summary>
-                ${productDetails}
-            </details>
-        `;
+        const toggleButton = productDiv.querySelector('.toggle-details');
+        const detailsDiv = productDiv.querySelector('.details');
+
+        toggleButton.addEventListener('click', function() {
+            detailsDiv.classList.toggle('hidden');
+            const arrow = toggleButton.querySelector('img');
+            if (detailsDiv.classList.contains('hidden')) {
+                arrow.src = 'images/downward-arrow.png';
+            } else {
+                arrow.src = 'images/upward-arrow.png';
+            }
+        });
 
         container.appendChild(productDiv);
     }
     console.log('Done :)');
 }
+
+
+
+// function displayData(products, container) {
+//     container.innerHTML = '';
+//     for (const key in products) {
+//         const product = products[key];
+//         const productName = product.item;
+//         const overallRating = product.overall_rating;
+//         const materialRating = product.material_score;
+//         const materials = Object.entries(product.materials).sort((a, b) => b[1] - a[1]);
+//         const higg_link = product.higg_link;
+//         const brand = product.site;
+//         const brandRating = product.brand_rating;
+//         const price = '$'.repeat(product.price_level);
+//         const location = product.location;
+//         const link = product.link;
+//         const goy_link = product.goy_link;
+
+//         let ratingImageSrc = 'images/1-5.png'; // default
+//         if (overallRating > 1.0 && overallRating <= 2.0) {
+//             ratingImageSrc = 'images/2-5.png';
+//         } else if (overallRating > 2.0 && overallRating <= 3.0) {
+//             ratingImageSrc = 'images/3-5.png';
+//         } else if (overallRating > 3.0 && overallRating <= 4.0) {
+//             ratingImageSrc = 'images/4-5.png';
+//         } else if (overallRating > 4.0 && overallRating <= 5.0) {
+//             ratingImageSrc = 'images/5-5.png';
+//         }
+
+//         const productDetails = `
+//             <p>Overall Footprint Score: ${overallRating}/5</p>
+//             <p><a href="${higg_link}" target="_blank">Material Rating</a>: ${materialRating}/5</p>
+//             <p>Materials:</p>
+//             <ul>
+//                 ${materials.map(([material, percentage]) => {
+//                     const capitalizedMaterial = material.split(' ')
+//                         .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+//                         .join(' ');
+//                     return `<li>${percentage}% ${capitalizedMaterial}</li>`;
+//                 }).join('')}
+//             </ul>
+//             <p>Brand: ${brand}</p>
+//             ${goy_link ? `<p><a href="${goy_link}" target="_blank">Brand Rating</a>: ${brandRating}/5</p>` : `<p>Brand Rating: ${brandRating}/5</p>`}
+//             <p>Price Level: ${price}</p>
+//             <p>Country of Origin: ${location}</p>
+//             <p>Product Link: <a href="${link}" target="_blank">${link}</a></p>
+//             <img src="${ratingImageSrc}" class="h-8 w-8">
+//         `;
+
+//         const productDiv = document.createElement('div');
+//         productDiv.classList.add('product');
+
+//         productDiv.innerHTML = `
+//             <details>
+//                 <summary>${productName}</summary>
+//                 ${productDetails}
+//             </details>
+//         `;
+
+//         container.appendChild(productDiv);
+//     }
+//     console.log('Done :)');
+// }

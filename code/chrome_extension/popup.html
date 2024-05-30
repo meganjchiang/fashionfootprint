@@ -23,6 +23,28 @@
             font-size: 27px;
             text-shadow: 1px 1px 1.5px #9BA6AE;
         }
+        .custom-button {
+            background-color: #D9D9D9;
+            color: #1C69DD;
+            padding: 10px 20px;
+            border-radius: 8px;
+            text-align: center;
+            cursor: pointer;
+            margin-bottom: 5px;
+            transition: background-color 0.3s;
+        }
+        .custom-button:hover {
+            background-color: #c0c0c0;
+        }
+        .footer {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            padding: 15px;
+            text-align: center;
+            background-color: #F0F3F5; 
+        }
     </style>
 </head>
 <body>
@@ -30,50 +52,61 @@
         <h1 class="fahkwang text-center mt-3">FASHION FOOTPRINT</h1>
     </div>
     <div class="flex flex-col items-center">
-        <button id="fetch-backend-data">Fetch Data from Backend</button>
-        <button id="fetch-video-links">Fetch links</button>
+        <button id="fetch-backend-data" class="custom-button">Fetch Data from Backend</button>
+        <button id="fetch-video-links" class="custom-button">Fetch links</button>
         <div id="result"></div> <!-- container for results -->
         <div id="backend-result"></div> <!-- container for backend data -->
         <div id="video-links-result" class="overflow-y-auto max-h-28rem w-full px-2"></div> <!-- container for video links -->
     </div>
-    <div class="bg-white">
-        <div class="flex space-x-3">
+
+    <!-- DROPDOWN TESTING (move to js when done) -->
+    <!-- <div class="bg-white p-2 rounded-lg shadow-md mb-3 mx-3">
+
+        <div class="flex justify-between items-start space-x-2">
             <div>
-                <div class="flex space-x-1 items-center">
-                    <a href="https://www.aritzia.com/us/en/product/hold-it\u2122-new-bergman-tank/116146.html" class="uppercase font-semibold text-base underline" target="_blank">Hold-It New Bergman Tank</a>
+                <div class="flex items-center space-x-1">
+                    <a href="https://www.aritzia.com/us/en/product/hold-it\u2122-new-bergman-tank/116146.html" class="uppercase font-semibold text-sm underline" target="_blank">Hold-It New Bergman Tank</a>
                     <img src="images/external-link.png" class="h-3 w-3">
                 </div>
-                <p class="uppercase text-sm">aritzia</p>
+                <p class="uppercase text-xs">aritzia</p>
             </div>
             <div>
-                <img src="images/1-5.png" class="h-8 w-8">
+                <img src="images/1-5.png" class="h-8 w-8 ml-2">
             </div>
+            <button id="toggle-details" class="focus:outline-none">
+                <img src="images/downward-arrow.png" class="h-3 w-4">
+            </button>
         </div>
-       
         
-        <p class="uppercase mt-3">Overall Footprint Score: <span class="font-bold">1.83/5</span></p>
-        <div class="flex flex-row space-x-8 mt-1">
-            <div class="flex flex-col">
-                <p class="uppercase">Material Rating: 1.67/5</p>
-                <div class="mt-2">
-                    <p class="uppercase">Materials</p>
-                    <ul>
+        <p class="uppercase mt-2 text-xs">Overall Footprint Score: <span class="font-bold">1.83/5</span></p>
+        <div class="flex flex-row justify-between mt-1 space-x-4">
+            <div class="flex flex-col flex-1">
+                <a href="https://directory.goodonyou.eco/brand/aritzia" class="uppercase underline font-semibold text-xs" target="_blank">Material Rating:</a>
+                <span class="font-bold">1.67/5</span>
+                <div class="mt-1">
+                    <p class="uppercase text-xs">Materials</p>
+                    <ul class="list-disc list-inside text-xs">
                         <li class="capitalize">88% cotton</li>
                         <li class="capitalize">12% elastane</li>
                     </ul>
                 </div>
             </div>
-            <div class="flex flex-col">
-                <p class="uppercase">Brand Rating: 2/5</p>
-                <div class="mt-2">
-                    <p class="uppercase">aritzia</p>
-                    <p>Price Level: $$$</p>
-                    <p>Country: Canada</p>
+
+            <div class="flex flex-col flex-1">
+                <a href="https://www.selflessclothes.com/blog/sustainability-calculator/?material=COTTON&material=SPANDEX&percentage=88&percentage=12" class="uppercase underline font-semibold text-xs" target="_blank">Brand Rating:</a>
+                <span class="font-bold">2/5</span>
+                <div class="mt-1">
+                    <p class="uppercase text-xs">aritzia</p>
+                    <p class="text-xs">Price Level: $$$</p>
+                    <p class="text-xs">Country: Canada</p>
                 </div>
             </div>
+
         </div>
-        
-    </div>
+
+    </div> -->
+    
+
     <div class="footer">
         <a href="https://sites.google.com/uw.edu/fashion-footprint/how-we-rate" target="_blank">How We Rate</a>
     </div>
