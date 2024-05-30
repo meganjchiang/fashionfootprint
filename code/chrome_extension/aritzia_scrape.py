@@ -14,8 +14,10 @@ def get_final_url(shortened_url):
     while 'rstyle.me' in final_url:
         response = requests.head(final_url, allow_redirects=True)
         final_url = response.url
-    return final_url
 
+        # remove URL parameters/unecessary info from link
+        final_url = final_url.split('?')[0]
+    return final_url
 
 
 # below is a revised url function using Selenium instead of requests -> this works on more types of shortened links but takes much longer

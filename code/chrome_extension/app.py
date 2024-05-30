@@ -66,6 +66,9 @@ def get_video_links(video_id):
             scraped_data = {}
             for link in filtered_links:
                 try:
+                    # remove URL parameters/unecessary info from link
+                    link = link.split('?')[0]
+                    
                     scraped_result = scrape_materials(link)
                     if not scraped_result.get('Error'):
                         item = scraped_result['item']
