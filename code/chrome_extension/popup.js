@@ -13,6 +13,15 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 
+    document.addEventListener('click', evt => {
+        const a = evt.target.closest('a[href]');
+        if (a) {
+          evt.preventDefault();
+          chrome.tabs.create({url: a.href, active: false});
+        }
+      });
+      
+
     // fetch video links from the backend
     function fetchVideoLinks(videoId) {
         console.log('Finding product details...')
@@ -175,7 +184,7 @@ function displayData(products, container) {
 
         const detailsHTML = `
             <div class="details hidden">
-                <p class="uppercase mt-2 text-xs mr-1">Overall Footprint Score: <span class="font-bold">${overallRating}/5</span></p>
+                <p class="uppercase mt-4 text-xs mr-1">Overall Footprint Score: <span class="font-bold">${overallRating}/5</span></p>
                 <div class="flex flex-row justify-between mt-1">
                     <div class="flex flex-col flex-1 pr-4 w-full">
                         <div>
