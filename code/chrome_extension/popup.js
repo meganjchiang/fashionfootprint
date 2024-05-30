@@ -135,11 +135,13 @@ function displayData(products, container) {
         const overallRating = product.overall_rating;
         const materialRating = product.material_score;
         const materials = Object.entries(product.materials).sort((a, b) => b[1] - a[1]);
+        const higg_link = product.higg_link;
         const brand = product.site;
         const brandRating = product.brand_rating;
         const price = '$'.repeat(product.price_level);
         const location = product.location;
         const link = product.link;
+        const goy_link = product.goy_link;
 
         let ratingImageSrc = 'images/1-5.png'; // default
         if (overallRating > 1.0 && overallRating <= 2.0) {
@@ -154,7 +156,7 @@ function displayData(products, container) {
 
         const productDetails = `
             <p>Overall Footprint Score: ${overallRating}/5</p>
-            <p>Material Rating: ${materialRating}/5</p>
+            <p><a href="${higg_link}" target="_blank">Material Rating</a>: ${materialRating}/5</p>
             <p>Materials:</p>
             <ul>
                 ${materials.map(([material, percentage]) => {
@@ -165,7 +167,7 @@ function displayData(products, container) {
                 }).join('')}
             </ul>
             <p>Brand: ${brand}</p>
-            <p>Brand Rating: ${brandRating}/5</p>
+            ${goy_link ? `<p><a href="${goy_link}" target="_blank">Brand Rating</a>: ${brandRating}/5</p>` : `<p>Brand Rating: ${brandRating}/5</p>`}
             <p>Price Level: ${price}</p>
             <p>Country of Origin: ${location}</p>
             <p>Product Link: <a href="${link}" target="_blank">${link}</a></p>

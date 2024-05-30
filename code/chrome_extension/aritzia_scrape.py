@@ -70,7 +70,9 @@ def scrape_materials(url):
 
         # site name
         meta_tag = content.find('meta', property='og:site_name')
-        site = meta_tag['content'][:-4]
+        site = meta_tag['content']
+        if site.endswith('.com'):
+            site = site[:-4]
         # print(site)
 
         # extract item name
@@ -103,8 +105,31 @@ def scrape_materials(url):
 
             # return first set of materials (for the clothing body) that add up to 100%
             if total == 100:
+                link_start = 'https://www.selflessclothes.com/blog/sustainability-calculator/?'
+
+                material_params = ["COTTON", "RECYCLED_COTTON", "ORGANIC_COTTON", "POLYESTER", "RECYCLED_POLYESTER",
+                                   "NYLON", "RECYCLED_NYLON", "ACRYLIC", "SPANDEX", "FLAX", "LINEN", "HEMP", "CUPRO",
+                                   "LYOCELL", "TENCEL_LYOCELL_LENZING", "REFIBRA_TENCEL_LYOCELL_LENZING", "MODAL",
+                                   "TENCEL_MODAL_LENZING", "VISCOSE", "VISCOSE_BAMBOO", "VISCOSE_ASIA_LENZING",
+                                   "VISCOSE_EU_LENZING", "SILK", "ALPACA", "WOOL", "RECYCLED_WOOL", "CASHMERE",
+                                   "RECYCLED_CASHMERE"]
+
+                goal_params = []
+
+                for material, percent in body_materials.items():
+                    material = material.replace(' ', '_').upper()
+                    if material == 'ELASTANE':
+                        material = 'SPANDEX'
+                    if material in material_params:
+                        goal_params.extend([f"material={material}", f"percentage={percent}"])
+
+                # Reorder the goal_params list to have materials first
+                reordered_params = [goal_params[i] for i in range(0, len(goal_params), 2)] + [goal_params[i] for i in range(1, len(goal_params), 2)]
+
+                higg_link = link_start + "&".join(reordered_params) + '#:~:text=Higg%20Material%20Sustainability%20Score'
+                
                 # Create a new dictionary with 'item' key listed first
-                final_dict = {'item': item_name, 'materials': body_materials, 'site': site}
+                final_dict = {'item': item_name, 'materials': body_materials, 'higg_link': higg_link, 'site': site}
                 return final_dict
             
         return "Material percentages do not add up to 100%"

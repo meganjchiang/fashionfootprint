@@ -76,12 +76,13 @@ def get_video_links(video_id):
                         scraped_result['material_score'] = material_score
                         scraped_result['link'] = link
 
-                        brand_rating, price_level, location = brand_ratings.loc[brand_ratings['brand'] == scraped_result['site'],
-                                                                   ['avg_brand_rating', 'price_level', 'location']].values[0]
+                        brand_rating, price_level, location, goy_link = brand_ratings.loc[brand_ratings['brand'] == scraped_result['site'],
+                                                                   ['avg_brand_rating', 'price_level', 'location', 'url']].values[0]
 
                         scraped_result['brand_rating'] = brand_rating
                         scraped_result['price_level'] = 'N/A' if pd.isna(price_level) else price_level
                         scraped_result['location'] = 'N/A' if pd.isna(location) else location
+                        scraped_result['goy_link'] = goy_link
                         scraped_result['overall_rating'] = round((material_score + brand_rating) / 2, 2)
                         scraped_data[item] = scraped_result
                 except Exception as e:
