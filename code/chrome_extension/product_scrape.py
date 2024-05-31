@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup
 import re
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+from collections import OrderedDict
 
 def get_final_url(shortened_url):
     response = requests.head(shortened_url, allow_redirects=True)
@@ -79,31 +80,56 @@ def scrape_materials(url):
         if site == 'Hollister Co.':
             site = 'Hollister'
 
+        if 'Princess Polly' in site:
+            site = 'Princess Polly'
+
         # extract item name
         if site == 'Aritzia':
             item_name_element = content.find('h1', class_='js-product-detail__product-name')
         
-        if site == 'Hollister':
+        if site == 'Hollister' or site == 'Abercrombie & Fitch':
             item_name_element = content.find('h1', class_='product-title-component product-title-main-header')
+
+        if site == 'Princess Polly':
+            item_name_element = content.find('h1', class_='product__title')
 
         item_name = item_name_element.text.strip().title() if item_name_element else "Unknown"
 
         # extract materials 
-        norm_text = str(content).lower()
+        # norm_text = str(content).lower()
+        norm_text = str(content).replace('\u2122', '').replace('\\u2122', '').lower()
 
         # search for percentage plus material
         result = re.findall('[\d.]+%\s+(?!off)+[^\t\n\r\d~`!@#$%^&*()_\-+=[\]\{\}[\]|\\:;"\'<>,.?/]+', norm_text)
 
-        all_materials = {}
+        # potential sections for the main fabric
+        potential_sections = ['Body:', 'Main:']
+
+        body_materials = []
+        for section in potential_sections:
+            section_match = re.search(rf'{section}\s*(.*?)\n', norm_text, re.IGNORECASE)
+            if section_match:
+                section_text = (section_match.group(1)).replace('', '')
+                body_materials = re.findall('[\d.]+%\s+(?!off)+[^\t\n\r\d~`!@#$%^&*()_\-+=[\]\{\}[\]|\\:;"\'<>,.?/]+', section_text)
+                if body_materials:
+                    break
+
+        result = body_materials if body_materials else result
+
+        all_materials = OrderedDict()
         for item in result:
-            percent, material = re.split('%\s+', item)
+            percent, material = re.split('%\s+', item, 1)
+
+            material = material.strip()
 
             # check if percentage is an integer or float
             if '.' in percent:
                 percent = float(percent) 
             else:
-                percent = int(percent) 
-            all_materials[material] = percent
+                percent = int(percent)
+            
+            if material not in all_materials: 
+                all_materials[material] = percent
 
         # check if percentages add up to 100%
         total = 0
@@ -127,8 +153,16 @@ def scrape_materials(url):
 
                 for material, percent in body_materials.items():
                     material = material.replace(' ', '_').upper()
+                    
                     if material == 'ELASTANE':
                         material = 'SPANDEX'
+
+                    if material == 'RAYON':
+                        material = 'VISCOSE'
+
+                    if material == 'TENCEL_LYOCELL':
+                        material = 'TENCEL_LYOCELL_LENZING'
+                    
                     if material in material_params:
                         goal_params.extend([f"material={material}", f"percentage={percent}"])
 
@@ -152,3 +186,4 @@ def scrape_materials(url):
 # print(scrape_materials('https://www.aritzia.com/us/en/product/hold-it%E2%84%A2-new-bergman-tank/116146.html'))
 # print(scrape_materials('https://www.aritzia.com/us/en/product/sinch-baby-rib-self-tank/116805002.html?Quantity=1&uuid=ecc87ae5e08f6fc157a3a622a5'))
 # print(scrape_materials('https://www.aritzia.com/us/en/product/sinch-smooth-willow-t-shirt/105194.html?dwvar_105194_color=1274'))
+# print(scrape_materials("https://www.abercrombie.com/shop/us/p/curve-love-high-rise-wide-leg-jean-55669426?categoryId=12266&faceout=model&seq=02"))

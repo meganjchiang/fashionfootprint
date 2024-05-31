@@ -7,6 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
         if (message.videoId) {
             // Update the UI with the new video ID
             const videoId = message.videoId;
+            console.log(videoId);
         
             // Fetch video links when the video ID is updated
             fetchVideoLinks(videoId);
@@ -92,50 +93,6 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 });
-
-
-function displayData(products, container) {
-    container.innerHTML = '';
-    for (const key in products) {
-        const product = products[key];
-        const productName = product.item;
-        const overallRating = product.overall_rating;
-        const materialRating = product.material_score;
-        const materials = Object.entries(product.materials).sort((a, b) => b[1] - a[1]);
-        const brand = product.site;
-        const brandRating = product.brand_rating;
-        const price = '$'.repeat(product.price_level);
-        const location = product.location;
-        const link = product.link;
-
-        const productDiv = document.createElement('div');
-        productDiv.classList.add('product');
-
-        productDiv.innerHTML = `
-            <p>Product: ${productName}</p>
-            <p>Overall Footprint Score: ${overallRating}/5</p>
-            <p>Material Rating: ${materialRating}/5</p>
-            <p>Materials:</p>
-            <ul>
-                ${materials.map(([material, percentage]) => {
-                    const capitalizedMaterial = material.split(' ')
-                        .map(word => word.charAt(0).toUpperCase() + word.slice(1))
-                        .join(' ');
-                    return `<li>${percentage}% ${capitalizedMaterial}</li>`;
-                }).join('')}
-            </ul>
-            <p>Brand: ${brand}</p>
-            <p>Brand Rating: ${brandRating}/5</p>
-            <p>Price Level: ${price}</p>
-            <p>Country of Origin: ${location}</p>
-            <p>Product Link: <a href="${link}" target="_blank">${link}</a></p>
-        `;
-
-        container.appendChild(productDiv);
-    }
-
-    console.log('Done :)');
-}
 
 
 function displayData(products, container) {

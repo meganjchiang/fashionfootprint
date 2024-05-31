@@ -7,7 +7,7 @@ textile_df.head()
 
 def get_material_score(materials) -> float:
     # keep only materials and percentages
-    materials_and_percents = {key.upper().replace(' ', '_').replace('™', ''): value for key, value in materials.items()}
+    materials_and_percents = {key.upper().replace(' ', '_'): value for key, value in materials.items()}
 
     # weights
     material_weight = 1/3
@@ -28,6 +28,12 @@ def get_material_score(materials) -> float:
 
         if material == 'ELASTANE':
             material = 'SPANDEX'
+
+        if material == 'RAYON':
+            material = 'VISCOSE'
+
+        if material == 'TENCEL_LYOCELL':
+            material = 'TENCEL_LYOCELL_LENZING'
 
         # get whether the material is "preferred"
         preferred_value = textile_df.loc[textile_df['material_id'] == material, 'preferred'].values[0]
