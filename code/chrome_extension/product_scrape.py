@@ -6,7 +6,6 @@ from bs4 import BeautifulSoup
 import re
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-import time
 
 def get_final_url(shortened_url):
     response = requests.head(shortened_url, allow_redirects=True)
@@ -70,13 +69,23 @@ def scrape_materials(url):
 
         # site name
         meta_tag = content.find('meta', property='og:site_name')
+        if not meta_tag:
+            meta_tag = content.find('meta', property='site_name')
         site = meta_tag['content']
+        
         if site.endswith('.com'):
             site = site[:-4]
-        # print(site)
+        
+        if site == 'Hollister Co.':
+            site = 'Hollister'
 
         # extract item name
-        item_name_element = content.find('h1', class_='js-product-detail__product-name')
+        if site == 'Aritzia':
+            item_name_element = content.find('h1', class_='js-product-detail__product-name')
+        
+        if site == 'Hollister':
+            item_name_element = content.find('h1', class_='product-title-component product-title-main-header')
+
         item_name = item_name_element.text.strip().title() if item_name_element else "Unknown"
 
         # extract materials 

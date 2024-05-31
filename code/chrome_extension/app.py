@@ -4,7 +4,7 @@ from flask import Flask, jsonify, request
 import requests
 import re
 import config
-from aritzia_scrape import scrape_materials
+from product_scrape import scrape_materials
 from material_calculator import get_material_score
 import pandas as pd
 
