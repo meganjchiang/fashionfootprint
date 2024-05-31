@@ -60,6 +60,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     document.getElementById('fetch-video-links').addEventListener('click', function() {
+        document.getElementById('video-links-result').innerHTML = '';
         chrome.storage.local.get('videoId', function(result) {
             console.log("Retrieved video id from local storage:", result.videoId);
             const videoId = result.videoId;
