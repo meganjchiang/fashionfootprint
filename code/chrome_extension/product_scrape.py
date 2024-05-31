@@ -120,7 +120,7 @@ def scrape_materials(url):
         for item in result:
             percent, material = re.split('%\s+', item, 1)
 
-            material = material.strip()
+            material = material.replace('\\u', '').strip()
 
             # check if percentage is an integer or float
             if '.' in percent:

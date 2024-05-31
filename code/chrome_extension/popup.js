@@ -7,7 +7,6 @@ document.addEventListener('DOMContentLoaded', function() {
         if (message.videoId) {
             // Update the UI with the new video ID
             const videoId = message.videoId;
-            console.log(videoId);
         
             // Fetch video links when the video ID is updated
             fetchVideoLinks(videoId);
