@@ -7,9 +7,9 @@ document.addEventListener('DOMContentLoaded', function() {
         if (message.videoId) {
             // Update the UI with the new video ID
             const videoId = message.videoId;
-        
-            // Fetch video links when the video ID is updated
-            fetchVideoLinks(videoId);
+
+            chrome.storage.local.set({ 'videoId': videoId });
+            document.getElementById('video-links-result').innerHTML = '';
         }
     });
 
@@ -144,7 +144,7 @@ function displayData(products, container) {
                 <div class="flex flex-row justify-between mt-1">
                     <div class="flex flex-col flex-1 pr-4 w-full">
                         <div>
-                            <a href="${higg_link}" class="uppercase underline font-semibold text-xs mr-0.5" target="_blank">Material Rating:</a>
+                            <a ${higg_link ? `href="${higg_link}"` : ''} class="uppercase underline font-semibold text-xs mr-0.5" target="_blank">Material Rating:</a>
                             <span class="font-bold text-xs">${materialRating}/5</span>
                         </div>
                         <div class="mt-1">
@@ -161,7 +161,7 @@ function displayData(products, container) {
                     </div>
                     <div class="flex flex-col">
                         <div class="flex items-center">
-                            <a href="${goy_link}" class="uppercase underline font-semibold text-xs mr-0.5" target="_blank">Brand Rating:</a>
+                            <a ${goy_link ? `href="${goy_link}"` : ''} class="uppercase underline font-semibold text-xs mr-0.5" target="_blank">Brand Rating:</a>
                             <span class="font-bold text-xs">${brandRating}/5</span>
                         </div>
                         <div class="mt-1">
@@ -208,67 +208,3 @@ function displayData(products, container) {
     }
     console.log('Done :)');
 }
-
-
-
-// function displayData(products, container) {
-//     container.innerHTML = '';
-//     for (const key in products) {
-//         const product = products[key];
-//         const productName = product.item;
-//         const overallRating = product.overall_rating;
-//         const materialRating = product.material_score;
-//         const materials = Object.entries(product.materials).sort((a, b) => b[1] - a[1]);
-//         const higg_link = product.higg_link;
-//         const brand = product.site;
-//         const brandRating = product.brand_rating;
-//         const price = '$'.repeat(product.price_level);
-//         const location = product.location;
-//         const link = product.link;
-//         const goy_link = product.goy_link;
-
-//         let ratingImageSrc = 'images/1-5.png'; // default
-//         if (overallRating > 1.0 && overallRating <= 2.0) {
-//             ratingImageSrc = 'images/2-5.png';
-//         } else if (overallRating > 2.0 && overallRating <= 3.0) {
-//             ratingImageSrc = 'images/3-5.png';
-//         } else if (overallRating > 3.0 && overallRating <= 4.0) {
-//             ratingImageSrc = 'images/4-5.png';
-//         } else if (overallRating > 4.0 && overallRating <= 5.0) {
-//             ratingImageSrc = 'images/5-5.png';
-//         }
-
-//         const productDetails = `
-//             <p>Overall Footprint Score: ${overallRating}/5</p>
-//             <p><a href="${higg_link}" target="_blank">Material Rating</a>: ${materialRating}/5</p>
-//             <p>Materials:</p>
-//             <ul>
-//                 ${materials.map(([material, percentage]) => {
-//                     const capitalizedMaterial = material.split(' ')
-//                         .map(word => word.charAt(0).toUpperCase() + word.slice(1))
-//                         .join(' ');
-//                     return `<li>${percentage}% ${capitalizedMaterial}</li>`;
-//                 }).join('')}
-//             </ul>
-//             <p>Brand: ${brand}</p>
-//             ${goy_link ? `<p><a href="${goy_link}" target="_blank">Brand Rating</a>: ${brandRating}/5</p>` : `<p>Brand Rating: ${brandRating}/5</p>`}
-//             <p>Price Level: ${price}</p>
-//             <p>Country of Origin: ${location}</p>
-//             <p>Product Link: <a href="${link}" target="_blank">${link}</a></p>
-//             <img src="${ratingImageSrc}" class="h-8 w-8">
-//         `;
-
-//         const productDiv = document.createElement('div');
-//         productDiv.classList.add('product');
-
-//         productDiv.innerHTML = `
-//             <details>
-//                 <summary>${productName}</summary>
-//                 ${productDetails}
-//             </details>
-//         `;
-
-//         container.appendChild(productDiv);
-//     }
-//     console.log('Done :)');
-// }

@@ -2,7 +2,6 @@
 import pandas as pd
 import requests
 textile_df = pd.read_csv('data/Fabric Sustainability Data - Textile Research.csv')
-textile_df.head()
 # item is in this format: materials = {'silk': 53, 'linen': 33, 'cotton': 14}
 
 def get_material_score(materials) -> float:
@@ -34,6 +33,9 @@ def get_material_score(materials) -> float:
 
         if material == 'TENCEL_LYOCELL':
             material = 'TENCEL_LYOCELL_LENZING'
+
+        if material == 'TENCEL_MODAL':
+            material = 'TENCEL_MODAL_LENZING'
 
         # get whether the material is "preferred"
         preferred_value = textile_df.loc[textile_df['material_id'] == material, 'preferred'].values[0]

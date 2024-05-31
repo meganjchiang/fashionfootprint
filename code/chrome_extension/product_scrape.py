@@ -136,10 +136,18 @@ def scrape_materials(url):
         body_materials = {}
         for key, value in all_materials.items():
             total += value
+
+            if 'wool' in key:
+                key = 'wool'
+
+            if key == 'polyurethane':
+                key = 'PU'
+
             body_materials[key] = value
 
             # return first set of materials (for the clothing body) that add up to 100%
             if total == 100:
+                sum_in_params = 0
                 link_start = 'https://www.selflessclothes.com/blog/sustainability-calculator/?'
 
                 material_params = ["COTTON", "RECYCLED_COTTON", "ORGANIC_COTTON", "POLYESTER", "RECYCLED_POLYESTER",
@@ -162,14 +170,23 @@ def scrape_materials(url):
 
                     if material == 'TENCEL_LYOCELL':
                         material = 'TENCEL_LYOCELL_LENZING'
+
+                    if material == 'TENCEL_MODAL':
+                        material = 'TENCEL_MODAL_LENZING'
+
+                    if 'WOOL' in material:
+                        material = 'WOOL'
                     
                     if material in material_params:
+                        sum_in_params += percent
                         goal_params.extend([f"material={material}", f"percentage={percent}"])
 
                 # Reorder the goal_params list to have materials first
-                reordered_params = [goal_params[i] for i in range(0, len(goal_params), 2)] + [goal_params[i] for i in range(1, len(goal_params), 2)]
-
-                higg_link = link_start + "&".join(reordered_params) + '#:~:text=Higg%20Material%20Sustainability%20Score'
+                if sum_in_params == 100:
+                    reordered_params = [goal_params[i] for i in range(0, len(goal_params), 2)] + [goal_params[i] for i in range(1, len(goal_params), 2)]
+                    higg_link = link_start + "&".join(reordered_params) + '#:~:text=Higg%20Material%20Sustainability%20Score'
+                else:
+                    higg_link = ''
                 
                 # Create a new dictionary with 'item' key listed first
                 final_dict = {'item': item_name, 'materials': body_materials, 'higg_link': higg_link, 'site': site}
@@ -187,3 +204,5 @@ def scrape_materials(url):
 # print(scrape_materials('https://www.aritzia.com/us/en/product/sinch-baby-rib-self-tank/116805002.html?Quantity=1&uuid=ecc87ae5e08f6fc157a3a622a5'))
 # print(scrape_materials('https://www.aritzia.com/us/en/product/sinch-smooth-willow-t-shirt/105194.html?dwvar_105194_color=1274'))
 # print(scrape_materials("https://www.abercrombie.com/shop/us/p/curve-love-high-rise-wide-leg-jean-55669426?categoryId=12266&faceout=model&seq=02"))
+
+# print(scrape_materials('https://www.aritzia.com/us/en/product/command-pant/99510.html?dwvar_99510_color=18891'))
